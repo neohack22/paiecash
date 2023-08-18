@@ -111,6 +111,26 @@
               "tag": "mdp",
               "patterns": ["Comment modifier le mot de passe?"],
               "responses": ["Pour modifier le mot de passe, accédez à votre profil et suivez les instructions pour effectuer la modification."]
-            }          
+            },
+            {
+                "tag": "demande_materiel",
+                "patterns": ["Comment faire une demande de matériel ?", "Processus de demande de matériel", "Comment soumettre une demande de matériel ?"],
+                "responses": ["Pour faire une demande de matériel, utilisez notre plateforme en ligne. Connectez-vous, remplissez le formulaire de demande en fournissant tous les détails nécessaires, puis soumettez-le. Votre demande sera automatiquement envoyée à votre supérieur pour validation."]
+              },
+              {
+                "tag": "validation_niveau",
+                "patterns": ["Comment fonctionne la validation en niveaux ?", "Processus de validation des demandes", "Qui valide ma demande de matériel ?"],
+                "responses": ["Chaque personne dans la hiérarchie a un niveau de validation en quantité de matériel et en finance. Votre demande sera automatiquement acheminée aux personnes concernées selon leur niveau de responsabilité pour approbation."]
+              },
+              {
+                "tag": "accords_envoyes",
+                "patterns": ["Comment saurai-je si ma demande est approuvée ?", "Notification d'approbation", "Réception des accords"],
+                "responses": ["Une fois que votre demande est approuvée, vous recevrez des accords par e-mail. Ces accords couvriront divers aspects tels que les matériaux, les finances et les achats de logiciels."]
+              },
+              {
+                "tag": "signature_electronique",
+                "patterns": ["Comment fonctionne la signature électronique ?", "Processus de signature des accords", "Comment signer électroniquement ?"],
+                "responses": ["La signature électronique est simple. Suivez les instructions fournies dans l'e-mail d'approbation pour signer électroniquement les accords. Cela permet de formaliser votre accord et de finaliser le processus."]
+              }              
   ]
 }
