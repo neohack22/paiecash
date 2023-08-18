@@ -26,7 +26,47 @@
       "responses": [
         "I'm great! How can I help?",
         "Doing good! How can I help you?"
-      ]
+      ],
+        {
+          "tag": "Qu'est-ce que JoFre ?",
+          "patterns": ["Qu'est-ce que JoFre ?", "C'est quoi JoFre ?", "Expliquez JoFre."],
+          "responses": ["JoFre est une solution Open Source offrant une suite de modules pour gérer efficacement différentes entreprises."]
+        },
+        {
+          "tag": "Qu'est-ce qu'un ERP ?",
+          "patterns": ["Qu'est-ce qu'un ERP ?", "Définition d'un ERP.", "Expliquez ERP."],
+          "responses": ["Un ERP (Enterprise Resource Planning) est un programme de gestion d'entreprises qui centralise les données et informations essentielles."]
+        },
+        {
+          "tag": "Quels sont les modules de JoFre ?",
+          "patterns": ["Quels sont les modules de JoFre ?", "Liste des modules de JoFre.", "Quelles fonctionnalités offre JoFre ?"],
+          "responses": ["JoFre propose une gamme de modules tels que Ventes, Achats, Gestion des stocks, Paiement, CRM et Marketing."]
+        },
+        {
+          "tag": "Comment JoFre peut-il aider dans la gestion des ventes ?",
+          "patterns": ["Comment JoFre peut-il aider dans la gestion des ventes ?", "Fonctionnalités de JoFre pour les ventes.", "Expliquez l'impact de JoFre sur les ventes."],
+          "responses": ["JoFre permet de suivre les ventes, gérer la facturation, les commandes et la livraison, ainsi que gérer les catalogues et les prix des produits."]
+        },
+        {
+          "tag": "Quelles sont les fonctionnalités du module CRM ?",
+          "patterns": ["Quelles sont les fonctionnalités du module CRM ?", "Que peut-on faire avec le CRM de JoFre ?", "Expliquez le module CRM."],
+          "responses": ["Le module CRM de JoFre se concentre sur les clients et le marketing, il permet de suivre des pistes, conclure des affaires et élaborer des prévisions de vente."]
+        },
+        {
+          "tag": "Comment JoFre facilite-t-il la gestion des stocks ?",
+          "patterns": ["Comment JoFre facilite-t-il la gestion des stocks ?", "Avantages de JoFre dans la gestion des stocks.", "Expliquez l'impact de JoFre sur la gestion des stocks."],
+          "responses": ["JoFre offre toutes les fonctionnalités nécessaires pour gérer les stocks de l'entreprise, y compris les approvisionnements et les relations avec les clients et les points de vente."]
+        },
+        {
+          "tag": "Comment JoFre simplifie-t-il le paiement ?",
+          "patterns": ["Comment JoFre simplifie-t-il le paiement ?", "Avantages de JoFre pour les paiements.", "Expliquez l'impact de JoFre sur les paiements."],
+          "responses": ["JoFre permet d'effectuer et de recevoir des paiements en toute sécurité dans les comptes PaieCash, 24h/24 et où que vous soyez."]
+        },
+        {
+          "tag": "Comment utiliser JoFre sur différents appareils ?",
+          "patterns": ["Comment utiliser JoFre sur différents appareils ?", "Compatibilité de JoFre avec les appareils.", "JoFre sur ordinateurs et smartphones."],
+          "responses": ["JoFre est conçu pour être utilisé sur tous les supports, y compris les ordinateurs et les smartphones, grâce à sa simplicité d'utilisation et son intuitivité."]
+        },      
     }
   ]
 }
