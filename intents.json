@@ -26,7 +26,7 @@
       "responses": [
         "I'm great! How can I help?",
         "Doing good! How can I help you?"
-      ],
+      ]},
         {
           "tag": "Qu'est-ce que JoFre ?",
           "patterns": ["Qu'est-ce que JoFre ?", "C'est quoi JoFre ?", "Expliquez JoFre."],
@@ -66,7 +66,51 @@
           "tag": "Comment utiliser JoFre sur différents appareils ?",
           "patterns": ["Comment utiliser JoFre sur différents appareils ?", "Compatibilité de JoFre avec les appareils.", "JoFre sur ordinateurs et smartphones."],
           "responses": ["JoFre est conçu pour être utilisé sur tous les supports, y compris les ordinateurs et les smartphones, grâce à sa simplicité d'utilisation et son intuitivité."]
-        },      
-    }
+        },
+            {
+              "tag": "comptes_clients",
+              "patterns": ["Comment créer des comptes clients?", "Comment fermer des comptes clients?"],
+              "responses": ["Pour créer des comptes clients, accédez à l'onglet 'Administrateur' et suivez les instructions.", "La fermeture des comptes clients peut être effectuée dans l'onglet 'Administrateur'. Suivez les étapes pour clôturer un compte."]
+            },
+            {
+              "tag": "stocks_prix",
+              "patterns": ["Comment introduire des stocks manuellement?", "Comment définir les prix?", "Comment gérer les ristournes?"],
+              "responses": ["L'introduction manuelle des stocks se fait via l'option 'Introduction des stocks manuels' dans l'onglet 'Administrateur'.", "Pour définir les prix, accédez à l'onglet 'Administrateur' et suivez les indications.", "La gestion des ristournes est possible en suivant les étapes de l'onglet 'Administrateur'."]
+            },
+            {
+              "tag": "factures",
+              "patterns": ["Comment produire des factures instantanées?", "Comment produire des factures QRcode?"],
+              "responses": ["Les factures instantanées peuvent être générées en utilisant l'option dédiée dans l'onglet 'Administrateur'.", "Pour produire des factures avec QRcode, suivez les instructions spécifiques dans l'onglet 'Administrateur'."]
+            },
+            {
+              "tag": "commerciaux",
+              "patterns": ["Comment affecter des clients aux commerciaux?", "Comment répartir les clients par zone?"],
+              "responses": ["L'affectation des clients aux commerciaux peut être réalisée en accédant à l'onglet 'Commerciaux'. Suivez les étapes pour attribuer les clients.", "La répartition des clients par zone est disponible dans l'onglet 'Commerciaux'. Suivez les indications pour une répartition efficace."]
+            },
+            {
+              "tag": "extraction",
+              "patterns": ["Comment extraire des données globales?", "Comment trier par ordre alphabétique?"],
+              "responses": ["Pour les extractions globales, dirigez-vous vers l'onglet 'Extractions' et suivez les options pertinentes.", "Le tri par ordre alphabétique peut être effectué en utilisant l'option de tri dans l'onglet 'Extractions'."]
+            },
+            {
+              "tag": "sous_comptes",
+              "patterns": ["Comment créer des sous comptes clients?", "Comment fermer des sous comptes clients?"],
+              "responses": ["La création de sous comptes clients se fait via l'onglet dédié dans 'Administrateur'. Suivez les étapes pour créer des sous comptes.", "La fermeture des sous comptes clients peut être réalisée dans l'onglet 'Administrateur'. Suivez les instructions."]
+            },
+            {
+              "tag": "inventaire",
+              "patterns": ["Comment effectuer l'inventaire des stocks?"],
+              "responses": ["Pour effectuer l'inventaire des stocks, consultez les instructions fournies dans l'onglet dédié 'Inventaire'."]
+            },
+            {
+              "tag": "ventes",
+              "patterns": ["Comment obtenir l'état des ventes?", "Comment obtenir un état des ventes par CA?"],
+              "responses": ["L'état des ventes peut être obtenu en accédant à l'onglet 'Ventes' et en suivant les indications.", "Pour un état des ventes basé sur le chiffre d'affaires, utilisez l'option spécifique dans l'onglet 'Ventes'."]
+            },
+            {
+              "tag": "mdp",
+              "patterns": ["Comment modifier le mot de passe?"],
+              "responses": ["Pour modifier le mot de passe, accédez à votre profil et suivez les instructions pour effectuer la modification."]
+            }          
   ]
 }
