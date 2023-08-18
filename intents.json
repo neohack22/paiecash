@@ -131,6 +131,21 @@
                 "tag": "signature_electronique",
                 "patterns": ["Comment fonctionne la signature électronique ?", "Processus de signature des accords", "Comment signer électroniquement ?"],
                 "responses": ["La signature électronique est simple. Suivez les instructions fournies dans l'e-mail d'approbation pour signer électroniquement les accords. Cela permet de formaliser votre accord et de finaliser le processus."]
-              }              
+              },
+              {
+                "tag": "désign de l'application mobile paiecash qr",
+                "patterns": [
+                  "Qu'est-ce que le désign de l'application mobile paiecash qr ?",
+                  "Où puis-je trouver des informations sur le désign de l'application mobile paiecash qr ?"
+                ],
+                "responses": [
+                  "Le désign de l'application mobile paiecash qr concerne la conception visuelle de l'interface utilisateur de l'application. Vous pouvez en savoir plus en consultant le lien suivant : [Lien vers Figma](https://www.figma.com/file/DCuVa2DXlebwOTYC3VIMNW/carte-paiecash?type=design&node-id=294%3A1976&mode=design&t=mieg0kLWF0BZa16R-1)."
+                ]
+              },
+              {
+                "tag": "login",
+                "patterns": ["Comment me connecter?", "Identifiants de connexion", "Je n'arrive pas à me connecter."],
+                "responses": ["Pour vous connecter, accédez à https://qr.frontend.paiecash.fr/sign-in et utilisez les identifiants suivants : email - admin@paiecash.com, mot de passe - password."]
+              }        
   ]
 }
