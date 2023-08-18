@@ -1,0 +1,32 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good day"
+
+      ],
+      "responses": [
+        "Hey :)",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "questions",
+      "patterns": [
+        "How are you",
+        "What's up",
+        "whats up"
+
+      ],
+      "responses": [
+        "I'm great! How can I help?",
+        "Doing good! How can I help you?"
+      ]
+    }
+  ]
+}
