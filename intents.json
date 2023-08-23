@@ -221,7 +221,282 @@
                 "responses": [
                   "Les commissions sont calculées sur la base des revenus du système Paiecash. Les taux de commissions peuvent être modifiés par l'administrateur. Par exemple, 30% des revenus sont attribués aux distributeurs et 20% aux revendeurs."
                 ]
-              }                                                                                  
-              
+              },
+              {
+  "faq": [
+    {
+      "tag": "qu_est_ce_que_paiecash",
+      "patterns": [
+        "Qu'est-ce que Paiecash ?"
+      ],
+      "responses": [
+        "Paiecash est une plateforme de paiement en ligne et de gestion de cartes de fidélité. Elle propose diverses fonctionnalités pour les utilisateurs et les commerçants."
+      ]
+    },
+    {
+      "tag": "fonctionnalites_paiecash",
+      "patterns": [
+        "Quelles sont les fonctionnalités de Paiecash ?"
+      ],
+      "responses": [
+        "Paiecash offre diverses fonctionnalités telles que les paiements en ligne, la gestion des cartes de fidélité, la création de codes QR pour les paiements et les promotions, ainsi que la possibilité d'envoyer des notifications aux membres."
+      ]
+    },
+    {
+      "tag": "inscription_paiecash",
+      "patterns": [
+        "Comment puis-je m'inscrire sur Paiecash ?"
+      ],
+      "responses": [
+        "Vous pouvez vous inscrire sur Paiecash en créant un compte via l'application mobile ou le site web. Suivez les instructions fournies pour compléter le processus d'inscription."
+      ]
+    },
+    {
+      "tag": "cartes_fidelite_paiecash",
+      "patterns": [
+        "Comment fonctionnent les cartes de fidélité sur Paiecash ?"
+      ],
+      "responses": [
+        "Les cartes de fidélité de Paiecash permettent aux utilisateurs de cumuler des points d'achat et de bénéficier de réductions, de promotions et de cadeaux chez les commerçants participants."
+      ]
+    },
+    {
+      "tag": "codes_qr_paiecash",
+      "patterns": [
+        "Comment puis-je utiliser les codes QR de Paiecash ?"
+      ],
+      "responses": [
+        "Les codes QR de Paiecash peuvent être utilisés pour effectuer des paiements rapides en scannant le code avec l'application. Ils peuvent également être utilisés pour les promotions et les réductions dans les magasins partenaires."
+      ]
+    },
+    {
+      "tag": "systeme_parrainage_paiecash",
+      "patterns": [
+        "Comment fonctionne le système de parrainage sur Paiecash ?"
+      ],
+      "responses": [
+        "Le système de parrainage de Paiecash vous permet de parrainer d'autres utilisateurs et de gagner des récompenses. Vous recevrez un pourcentage des achats effectués par vos filleuls."
+      ]
+    },
+    {
+      "tag": "avantages_club_foot_paiecash",
+      "patterns": [
+        "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?"
+      ],
+      "responses": [
+        "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
+      ]
+    },
+    {
+      "tag": "paiement_qr_code_paiecash",
+      "patterns": [
+        "Comment fonctionne le paiement par QR code sur Paiecash ?"
+      ],
+      "responses": [
+        "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
+      ]
+    },
+    {
+      "tag": "support_client_paiecash",
+      "patterns": [
+        "Comment puis-je contacter le support client de Paiecash ?"
+      ],
+      "responses": [
+        "Vous pouvez contacter le support client de Paiecash via l'application en utilisant la fonction de messagerie ou en envoyant un e-mail à l'adresse de support fournie sur le site web."
+      ]
+    },
+    {
+      "tag": "promotions_nouvelles_fonctionnalites_paiecash",
+      "patterns": [
+        "Comment être informé des promotions et des nouvelles fonctionnalités sur Paiecash ?"
+      ],
+      "responses": [
+        "Vous serez informé des promotions et des nouvelles fonctionnalités de Paiecash via des notifications dans l'application, des e-mails et des annonces sur le site web."
+      ]
+    },
+    {
+      "tag": "mise_a_jour_informations_compte_paiecash",
+      "patterns": [
+        "Comment mettre à jour mes informations de compte sur Paiecash ?"
+      ],
+      "responses": [
+        "Vous pouvez
+
+ mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
+      ]
+    },
+    {
+      "tag": "gestion_partenariats_commercants_paiecash",
+      "patterns": [
+        "Comment fonctionne la gestion des partenariats avec les commerçants sur Paiecash ?"
+      ],
+      "responses": [
+        "Paiecash permet aux commerçants de créer des offres et des promotions pour les utilisateurs. Les utilisateurs peuvent profiter de réductions et de récompenses en effectuant des achats chez les partenaires de Paiecash."
+      ]
+    },
+    {
+      "tag": "suivi_transactions_paiements_paiecash",
+      "patterns": [
+        "Comment puis-je suivre mes transactions et paiements sur Paiecash ?"
+      ],
+      "responses": [
+        "Vous pouvez suivre vos transactions et paiements sur Paiecash en consultant l'historique des transactions dans l'application. Vous y trouverez des détails sur vos achats et vos paiements."
+      ]
+    },
+    {
+      "tag": "mesures_securite_paiecash",
+      "patterns": [
+        "Quelles sont les mesures de sécurité mises en place par Paiecash ?"
+      ],
+      "responses": [
+        "Paiecash utilise des mesures de sécurité avancées pour protéger vos données personnelles et vos informations de paiement. Le paiement par QR code et la connexion sécurisée font partie des méthodes de sécurité."
+      ]
+    },
+    {
+      "tag": "systeme_cashback_paiecash",
+      "patterns": [
+        "Comment fonctionne le système de cashback pour les utilisateurs de Paiecash ?"
+      ],
+      "responses": [
+        "Le système de cashback de Paiecash permet aux utilisateurs de gagner de l'argent en effectuant des achats chez les commerçants partenaires. Une partie du montant dépensé est reversée sous forme de cashback."
+      ]
+    }
+  ]
+},                                           
+{
+  "tag": "qu_est_ce_que_paiecash",
+  "patterns": [
+  "Qu'est-ce que Paiecash ?"
+  ],
+  "responses": [
+  "Paiecash est une plateforme de paiement en ligne et de gestion de cartes de fidélité. Elle propose diverses fonctionnalités pour les utilisateurs et les commerçants."
+  ]
+  },
+  {
+  "tag": "fonctionnalites_paiecash",
+  "patterns": [
+  "Quelles sont les fonctionnalités de Paiecash ?"
+  ],
+  "responses": [
+  "Paiecash offre diverses fonctionnalités telles que les paiements en ligne, la gestion des cartes de fidélité, la création de codes QR pour les paiements et les promotions, ainsi que la possibilité d'envoyer des notifications aux membres."
+  ]
+  },
+  {
+  "tag": "inscription_paiecash",
+  "patterns": [
+  "Comment puis-je m'inscrire sur Paiecash ?"
+  ],
+  "responses": [
+  "Vous pouvez vous inscrire sur Paiecash en créant un compte via l'application mobile ou le site web. Suivez les instructions fournies pour compléter le processus d'inscription."
+  ]
+  },
+  {
+  "tag": "cartes_fidelite_paiecash",
+  "patterns": [
+  "Comment fonctionnent les cartes de fidélité sur Paiecash ?"
+  ],
+  "responses": [
+  "Les cartes de fidélité de Paiecash permettent aux utilisateurs de cumuler des points d'achat et de bénéficier de réductions, de promotions et de cadeaux chez les commerçants participants."
+  ]
+  },
+  {
+  "tag": "codes_qr_paiecash",
+  "patterns": [
+  "Comment puis-je utiliser les codes QR de Paiecash ?"
+  ],
+  "responses": [
+  "Les codes QR de Paiecash peuvent être utilisés pour effectuer des paiements rapides en scannant le code avec l'application. Ils peuvent également être utilisés pour les promotions et les réductions dans les magasins partenaires."
+  ]
+  },
+  {
+  "tag": "systeme_parrainage_paiecash",
+  "patterns": [
+  "Comment fonctionne le système de parrainage sur Paiecash ?"
+  ],
+  "responses": [
+  "Le système de parrainage de Paiecash vous permet de parrainer d'autres utilisateurs et de gagner des récompenses. Vous recevrez un pourcentage des achats effectués par vos filleuls."
+  ]
+  },
+  {
+  "tag": "avantages_club_foot_paiecash",
+  "patterns": [
+  "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?"
+  ],
+  "responses": [
+  "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
+  ]
+  },
+  {
+  "tag": "paiement_qr_code_paiecash",
+  "patterns": [
+  "Comment fonctionne le paiement par QR code sur Paiecash ?"
+  ],
+  "responses": [
+  "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
+  ]
+  },
+  {
+  "tag": "support_client_paiecash",
+  "patterns": [
+  "Comment puis-je contacter le support client de Paiecash ?"
+  ],
+  "responses": [
+  "Vous pouvez contacter le support client de Paiecash via l'application en utilisant la fonction de messagerie ou en envoyant un e-mail à l'adresse de support fournie sur le site web."
+  ]
+  },
+  {
+  "tag": "promotions_nouvelles_fonctionnalites_paiecash",
+  "patterns": [
+  "Comment être informé des promotions et des nouvelles fonctionnalités sur Paiecash ?"
+  ],
+  "responses": [
+  "Vous serez informé des promotions et des nouvelles fonctionnalités de Paiecash via des notifications dans l'application, des e-mails et des annonces sur le site web."
+  ]
+  },
+  {
+  "tag": "mise_a_jour_informations_compte_paiecash",
+  "patterns": [
+  "Comment mettre à jour mes informations de compte sur Paiecash ?"
+  ],
+  "responses": [
+  "Vous pouvez mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
+  ]
+  },
+  {
+  "tag": "gestion_partenariats_commercants_paiecash",
+  "patterns": [
+  "Comment fonctionne la gestion des partenariats avec les commerçants sur Paiecash ?"
+  ],
+  "responses": [
+  "Paiecash permet aux commerçants de créer des offres et des promotions pour les utilisateurs. Les utilisateurs peuvent profiter de réductions et de récompenses en effectuant des achats chez les partenaires de Paiecash."
+  ]
+  },
+  {
+  "tag": "suivi_transactions_paiements_paiecash",
+  "patterns": [
+  "Comment puis-je suivre mes transactions et paiements sur Paiecash ?"
+  ],
+  "responses": [
+  "Vous pouvez suivre vos transactions et paiements sur Paiecash en consultant l'historique des transactions dans l'application. Vous y trouverez des détails sur vos achats et vos paiements."
+  ]
+  },
+  {
+  "tag": "mesures_securite_paiecash",
+  "patterns": [
+  "Quelles sont les mesures de sécurité mises en place par Paiecash ?"
+  ],
+  "responses": [
+  "Paiecash utilise des mesures de sécurité avancées pour protéger vos données personnelles et vos informations de paiement. Le paiement par QR code et la connexion sécurisée font partie des méthodes de sécurité."
+  ]
+  },
+  {
+  "tag": "systeme_cashback_paiecash",
+  "patterns": [
+  "Comment fonctionne le système de cashback pour les utilisateurs de Paiecash ?"
+  ],
+  "responses": [
+  "Le système de cashback de Paiecash permet aux utilisateurs de gagner de l'argent en effectuant des achats chez les commerçants partenaires. Une partie du montant dépensé est reversée sous forme de cashback."
+  ]
+  }      
   ]
 }
