@@ -161,7 +161,67 @@
                 "tag": "trello",
                 "patterns": ["Comment puis-je accéder au Trello de Paiecash ?", "Lien vers le Trello de Paiecash ?", "Où trouver le Trello ?"],
                 "responses": ["Vous pouvez accéder au tableau Trello de Paiecash en suivant ce lien : [Trello Paiecash](https://trello.com/b/MSse4jHo/qr-paiecash)"]
-              }
+              },
+              {
+                "tag": "Général",
+                "patterns": ["Qu'est-ce que le module de Géolocalisation de paiecash ?", "À quoi sert le module de Géolocalisation ?"],
+                "responses": ["Le module de Géolocalisation enregistre les positions des utilisateurs, revendeurs, distributeurs et commerciaux de paiecash pour faciliter la géolocalisation et les interactions."]
+              },
+              {
+                "tag": "Utilisation",
+                "patterns": ["Comment fonctionne la géolocalisation des utilisateurs de paiecash ?", "Comment activer la géolocalisation sur mon téléphone ?"],
+                "responses": ["La géolocalisation enregistre les coordonnées des utilisateurs ayant autorisé l'accès à leur position. Consultez nos guides pour activer la géolocalisation sur votre téléphone."]
+              },
+              {
+                "tag": "Fonctionnalités",
+                "patterns": ["Quelles sont les fonctionnalités du module de Géolocalisation ?", "Que peut-on faire avec la géolocalisation des revendeurs ?"],
+                "responses": ["Le module permet de géolocaliser les revendeurs, distributeurs et commerciaux. Il offre la liste des revendeurs proches d'un utilisateur, facilitant ainsi la recherche de points de vente paiecash."]
+              },
+              {
+                "tag": "Avantages",
+                "patterns": ["Quels sont les avantages de la géolocalisation dans paiecash ?", "Comment la géolocalisation améliore-t-elle l'expérience utilisateur ?"],
+                "responses": ["La géolocalisation réduit les temps de réponse, améliore l'expérience client et permet la recherche facile de points de vente proches."]
+              },
+              {
+                "tag": "Mise à jour",
+                "patterns": ["Comment puis-je mettre à jour mes informations de géolocalisation ?", "Les informations de géolocalisation sont-elles mises à jour automatiquement ?"],
+                "responses": ["Les informations de géolocalisation sont mises à jour automatiquement lorsque les utilisateurs autorisent l'accès à leur position actuelle."]
+              },
+              {
+                "tag": "dépôts",
+                "patterns": ["Comment effectuer un dépôt?", "Quelles sont les méthodes de dépôt?"],
+                "responses": [
+                  "Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash. Vous pouvez sélectionner parmi nos méthodes de paiement pour effectuer un dépôt. Le montant déposé peut être choisi et ajouté au portefeuille que vous préférez."
+                ]
+              },
+              {
+                "tag": "carte-bancaire",
+                "patterns": ["Comment obtenir une carte bancaire?", "Quels sont les types de cartes disponibles?"],
+                "responses": [
+                  "Lors de l'inscription, vous obtenez automatiquement une carte bancaire numérique. Si vous préférez une carte physique, vous devrez attendre généralement trois semaines. La carte physique est livrée chez un distributeur proche de chez vous en Afrique ou par courrier pour le reste du monde."
+                ]
+              },
+              {
+                "tag": "transferts",
+                "patterns": ["Comment effectuer un transfert d'argent?", "Quelles sont les options de transfert?"],
+                "responses": [
+                  "Vous pouvez transférer de l'argent à tout utilisateur enregistré ou non enregistré. Les utilisateurs non enregistrés verront leur argent une fois inscrits. L'administrateur peut bloquer ou rembourser en cas de problème illégal."
+                ]
+              },
+              {
+                "tag": "parrainage",
+                "patterns": ["Comment fonctionne le parrainage?", "Quels sont les avantages du parrainage?"],
+                "responses": [
+                  "Le parrainage vous permet de gagner des commissions sur les transactions de vos filleuls. Chaque utilisateur a un code de parrainage unique. Plus vous parrainez d'utilisateurs, plus vous gagnez de commissions sur leurs transactions."
+                ]
+              },
+              {
+                "tag": "commissions",
+                "patterns": ["Comment sont calculées les commissions?", "Quels sont les taux de commissions?"],
+                "responses": [
+                  "Les commissions sont calculées sur la base des revenus du système Paiecash. Les taux de commissions peuvent être modifiés par l'administrateur. Par exemple, 30% des revenus sont attribués aux distributeurs et 20% aux revendeurs."
+                ]
+              }                                                                                  
               
   ]
 }
