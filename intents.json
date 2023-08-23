@@ -146,6 +146,22 @@
                 "tag": "login",
                 "patterns": ["Comment me connecter?", "Identifiants de connexion", "Je n'arrive pas à me connecter."],
                 "responses": ["Pour vous connecter, accédez à https://qr.frontend.paiecash.fr/sign-in et utilisez les identifiants suivants : email - admin@paiecash.com, mot de passe - password."]
-              }        
+              },
+              {
+                "tag": "repos",
+                "patterns": ["Où puis-je trouver les repos ?", "Emplacements des repos ?", "Liens des repos ?"],
+                "responses": ["Vous pouvez trouver les repos de Paiecash aux liens suivants : [Repo principal Paiecash](https://gitlab.com/paiecash2023) et [Repo Paiecash QR](https://gitlab.com/paiecash-qr)."]
+              },
+              {
+                "tag": "password",
+                "patterns": ["Où est le mot de passe ?", "Où trouver le mot de passe ?", "Comment obtenir le mot de passe ?"],
+                "responses": ["Le mot de passe est disponible ici : [Lien vers le document du mot de passe](https://docs.google.com/document/d/15UzCxvl-luB0JlJlt8XZLYsdqI75AK36tAG9wDzu6bU/edit)"]
+              },
+              {
+                "tag": "trello",
+                "patterns": ["Comment puis-je accéder au Trello de Paiecash ?", "Lien vers le Trello de Paiecash ?", "Où trouver le Trello ?"],
+                "responses": ["Vous pouvez accéder au tableau Trello de Paiecash en suivant ce lien : [Trello Paiecash](https://trello.com/b/MSse4jHo/qr-paiecash)"]
+              }
+              
   ]
 }
