@@ -497,7 +497,108 @@
             "responses": [
               "L'architecture recommandée pour le front end est basée sur..."
             ]
+          },
+          {
+            "tag": "presentation_entreprise",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?",
+              "Quelle est l'entreprise PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash est une entreprise innovante en Afrique, axée sur la technologie et l'innovation. Elle développe des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision, avec une culture centrée sur le 'made in Cameroun'."
+            ]
+          },
+          {
+            "tag": "objectif_projet",
+            "patterns": [
+              "Quel est l'objectif du projet PaieCash ?",
+              "Que vise la solution PaieCash ?"
+            ],
+            "responses": [
+              "Le projet PaieCash a pour but d'enrichir l'offre de paiements en ligne, des marchés et des activités courantes d'achats et de ventes de services pour les internautes et la population. Il s'agit de créer une application mobile pour Android et iOS, ainsi qu'un site internet, afin de faciliter les transactions d'argent pour les utilisateurs."
+            ]
+          },
+          {
+            "tag": "perimetre_projet",
+            "patterns": [
+              "Quel est le périmètre du projet PaieCash ?",
+              "Dans quels domaines s'inscrit le projet PaieCash ?"
+            ],
+            "responses": [
+              "Le projet s'inscrit dans un cadre numérique de gestion d'argent. Il a une portée internationale, mais particulièrement africaine. Il permettra aux utilisateurs d'envoyer, de recevoir et de transférer de l'argent, de changer de devise, d'effectuer des dépôts et des retraits via divers moyens de paiement, tout cela regroupé dans une application unique."
+            ]
+          },
+          {
+            "tag": "avantages_projet",
+            "patterns": [
+              "Quels sont les avantages du projet PaieCash ?",
+              "En quoi PaieCash est-il avantageux ?"
+            ],
+            "responses": [
+              "PaieCash résout le problème du manque de liquidités en Afrique, en particulier au Cameroun. Il facilite les paiements entre les acteurs économiques et offre une solution rapide et fiable pour les transactions d'argent. De plus, il rassemble de nombreux moyens de paiement en une seule application conviviale."
+            ]
+          },
+          {
+            "tag": "utilisateurs_cibles",
+            "patterns": [
+              "Qui sont les utilisateurs cibles de PaieCash ?",
+              "Pour qui est destiné PaieCash ?"
+            ],
+            "responses": [
+              "Les utilisateurs cibles de PaieCash sont variés : commerçants, entreprises et leurs clients, conducteurs de moto et taxi (benskineurs, moto-taximen), ainsi que toute la population susceptible de posséder un téléphone portable et d'effectuer des transactions d'argent."
+            ]
+          },
+          {
+            "tag": "conception_interfaces",
+            "patterns": [
+              "Comment sont conçues les interfaces de PaieCash ?",
+              "Quelles sont les normes de conception des interfaces de PaieCash ?"
+            ],
+            "responses": [
+              "Les interfaces de PaieCash suivent les normes ergonomiques de l'UI/UX design, garantissant une expérience utilisateur conviviale et intuitive. Elles respectent les normes ISO 26800:2011 pour une expérience optimale."
+            ]
+          },
+          {
+            "tag": "livrables_attendus",
+            "patterns": [
+              "Quels sont les livrables attendus de PaieCash ?",
+              "Quels sont les éléments que PaieCash livrera ?"
+            ],
+            "responses": [
+              "Les livrables attendus de PaieCash comprennent une application mobile pour Android et iOS, une base de données cohérente, un site internet et une API servant de serveur à l'application."
+            ]
+          },
+          {
+            "tag": "budget_developpement",
+            "patterns": [
+              "Quel est le budget de développement de l'application ?",
+              "Comment le budget de PaieCash est-il estimé ?"
+            ],
+            "responses": [
+              "Le budget de développement de l'application PaieCash sera estimé en fonction de l'analyse des coûts de développement, de la sécurité des applications et du déploiement. Contactez-nous pour obtenir une estimation personnalisée."
+            ]
+          },
+          {
+            "tag": "delai_livraison",
+            "patterns": [
+              "Quand l'application PaieCash sera-t-elle livrée ?",
+              "Quel est le délai de livraison de PaieCash ?"
+            ],
+            "responses": [
+              "Le délai de livraison de l'application PaieCash dépendra de la taille du projet. Nous estimons ce délai en utilisant la méthode COCOMO adaptée à la taille d'un projet de cette envergure."
+            ]
+          },
+          {
+            "tag": "fonctionnalites_principales",
+            "patterns": [
+              "Quelles sont les fonctionnalités principales de l'application PaieCash ?",
+              "Que peut-on faire avec l'application PaieCash ?"
+            ],
+            "responses": [
+              "L'application PaieCash offre une variété de fonctionnalités : transferts d'argent entre utilisateurs, dépôts et retraits, paiements en ligne sur des sites marchands, gestion des comptes utilisateurs, échanges de devises, épargne, crédits, et bien d'autres."
+            ]
           }
+        
         
   ]
 }
