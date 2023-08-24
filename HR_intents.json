@@ -452,7 +452,52 @@
             "responses": [
               "Les principales fonctionnalités de PaieCash incluent le transfert d'argent entre utilisateurs, les dépôts et retraits, les paiements sur les sites marchands, la gestion des comptes utilisateurs, les échanges de devises, l'épargne, les crédits, et bien plus encore."
             ]
-          }        
+          },
+          {
+            "tag": "Best practises Back end",
+            "patterns": [
+              "Quelles sont les meilleures pratiques pour le back end ?"
+            ],
+            "responses": [
+              "Les meilleures pratiques pour le back end incluent la documentation explicite des débuts de fonctions, le respect des normes de style d'Airbnb, l'utilisation de noms de packages et de fonctions suivant la norme CamelCase, et la préfixe 'fn' pour les fonctions utilitaires."
+            ]
+          },
+          {
+            "tag": "Architecture Back end",
+            "patterns": [
+              "Quelle est l'architecture recommandée pour le back end ?"
+            ],
+            "responses": [
+              "L'architecture recommandée pour le back end est basée sur des microservices, avec une gateway et un service de configuration des microservices."
+            ]
+          },
+          {
+            "tag": "Tests Back end",
+            "patterns": [
+              "Quelle méthode de tests est recommandée pour le back end ?"
+            ],
+            "responses": [
+              "Pour les tests du back end, il est recommandé d'utiliser JUnit. Chaque module et microservice devrait avoir une classe spécifique pour tester toutes les fonctionnalités et confirmer les tests unitaires."
+            ]
+          },
+          {
+            "tag": "Best practises Front end",
+            "patterns": [
+              "Quelles sont les meilleures pratiques pour le front end ?"
+            ],
+            "responses": [
+              "Les meilleures pratiques pour le front end incluent..."
+            ]
+          },
+          {
+            "tag": "Architecture Front end",
+            "patterns": [
+              "Quelle est l'architecture recommandée pour le front end ?"
+            ],
+            "responses": [
+              "L'architecture recommandée pour le front end est basée sur..."
+            ]
+          }
         
   ]
 }
