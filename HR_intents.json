@@ -27,7 +27,6 @@
         "I'm great! How can I help?",
         "Doing good! How can I help you?"
       ]},
-      [
         {
           "tag": "Objectifs",
           "patterns": [
@@ -73,7 +72,6 @@
             "La réalisation d'un tel système à partir de zéro prendrait au moins 3 mois avec des ressources confirmées."
           ]
         }
-      ]
       
   ]
 }
