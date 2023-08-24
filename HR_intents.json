@@ -597,7 +597,74 @@
             "responses": [
               "L'application PaieCash offre une variété de fonctionnalités : transferts d'argent entre utilisateurs, dépôts et retraits, paiements en ligne sur des sites marchands, gestion des comptes utilisateurs, échanges de devises, épargne, crédits, et bien d'autres."
             ]
+          },
+          {
+            "tag": "operateur",
+            "patterns": [
+              "Qu'est-ce que l'opérateur de Paiecash ?",
+              "Quel est le rôle de l'opérateur ?"
+            ],
+            "responses": [
+              "L'opérateur de Paiecash joue un rôle clé dans la gestion et la mise en œuvre des services de la plateforme. Il est responsable de la fourniture des services de carte prépayée, de carte cadeau et de ventes de produits pour les clients.",
+              "L'opérateur gère les ventes de cartes prépayées, les cartes cadeaux et autres produits destinés aux clients de Paiecash."
+            ]
+          },
+          {
+            "tag": "parcours_client",
+            "patterns": [
+              "Comment fonctionne le parcours client chez Paiecash ?",
+              "Pouvez-vous expliquer le parcours client ?"
+            ],
+            "responses": [
+              "Le parcours client chez Paiecash comprend plusieurs étapes, de la sélection de produits à l'achat et à l'utilisation des services. Les clients peuvent acheter des cartes prépayées, des cartes cadeaux et bénéficier de services de crédit de communication.",
+              "Le parcours client chez Paiecash implique la sélection et l'achat de produits tels que des cartes prépayées et des cartes cadeaux, ainsi que l'utilisation de services de crédit de communication."
+            ]
+          },
+          {
+            "tag": "roles",
+            "patterns": [
+              "Quels sont les rôles disponibles chez Paiecash ?",
+              "Pouvez-vous me parler des rôles chez Paiecash ?"
+            ],
+            "responses": [
+              "Chez Paiecash, il existe deux rôles principaux : ambassadeur et distributeur. Les ambassadeurs peuvent parrainer de nouveaux utilisateurs en partageant un code de parrainage, tandis que les distributeurs sont responsables de la vente de produits et de services, y compris les cartes prépayées.",
+              "Les rôles chez Paiecash sont ambassadeur et distributeur. Les ambassadeurs peuvent parrainer de nouveaux utilisateurs avec un code de parrainage, tandis que les distributeurs s'occupent de la vente de produits, y compris les cartes prépayées."
+            ]
+          },
+          {
+            "tag": "service_carte_prepayee",
+            "patterns": [
+              "Pouvez-vous expliquer le service de carte prépayée de Paiecash ?",
+              "Quels sont les détails du service de carte prépayée ?"
+            ],
+            "responses": [
+              "Le service de carte prépayée de Paiecash permet aux clients d'acheter des cartes contenant un crédit préchargé. Ces cartes peuvent être utilisées pour effectuer des paiements en ligne et effectuer des achats.",
+              "Le service de carte prépayée de Paiecash permet aux clients d'acheter des cartes avec un crédit préchargé, utilisables pour les paiements en ligne et les achats."
+            ]
+          },
+          {
+            "tag": "service_carte_cadeau",
+            "patterns": [
+              "Comment fonctionne le service de carte cadeau de Paiecash ?",
+              "Quels sont les détails du service de carte cadeau ?"
+            ],
+            "responses": [
+              "Le service de carte cadeau de Paiecash permet aux utilisateurs d'acheter des cartes cadeaux pour offrir à d'autres personnes. Ces cartes peuvent être utilisées pour effectuer des achats sur la plateforme Paiecash.",
+              "Le service de carte cadeau de Paiecash permet d'acheter des cartes à offrir. Les bénéficiaires peuvent les utiliser pour des achats sur la plateforme Paiecash."
+            ]
+          },
+          {
+            "tag": "interface_creation_ambassadeur_distributeur",
+            "patterns": [
+              "Comment accéder à l'interface de création des ambassadeurs et distributeurs ?",
+              "Où puis-je trouver l'interface de création des ambassadeurs et distributeurs ?"
+            ],
+            "responses": [
+              "L'interface de création des ambassadeurs et distributeurs est accessible via le tableau de bord de votre compte Paiecash. Vous pouvez accéder à cette interface pour gérer et créer de nouveaux ambassadeurs et distributeurs.",
+              "Pour accéder à l'interface de création des ambassadeurs et distributeurs, rendez-vous sur le tableau de bord de votre compte Paiecash."
+            ]
           }
+        
         
         
   ]
