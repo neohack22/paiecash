@@ -663,7 +663,41 @@
               "L'interface de création des ambassadeurs et distributeurs est accessible via le tableau de bord de votre compte Paiecash. Vous pouvez accéder à cette interface pour gérer et créer de nouveaux ambassadeurs et distributeurs.",
               "Pour accéder à l'interface de création des ambassadeurs et distributeurs, rendez-vous sur le tableau de bord de votre compte Paiecash."
             ]
+          },
+          {
+            "tag": "Numero de module",
+            "patterns": [
+              "Qu'est-ce que le numéro de module ?",
+              "À quoi correspond le numéro de module ?"
+            ],
+            "responses": [
+              "Le numéro de module est un identifiant unique attribué à chaque module de développement.",
+              "Le numéro de module est utilisé pour identifier et suivre les modules de développement."
+            ]
+          },
+          {
+            "tag": "Stade de développement",
+            "patterns": [
+              "Quels sont les différents stades de développement ?",
+              "Comment définir le stade de développement ?"
+            ],
+            "responses": [
+              "Les stades de développement peuvent inclure la planification, la conception, la programmation, les tests et la mise en production.",
+              "Le stade de développement indique où se trouve le module dans le processus de création, de la conception à la mise en production."
+            ]
+          },
+          {
+            "tag": "Résultats des tests",
+            "patterns": [
+              "Que sont les résultats des tests ?",
+              "Comment sont évalués les tests ?"
+            ],
+            "responses": [
+              "Les résultats des tests sont les conclusions des évaluations effectuées sur le module pour garantir sa fonctionnalité et sa qualité.",
+              "Les tests sont évalués en fonction des critères prédéfinis pour déterminer si le module répond aux exigences et fonctionne correctement."
+            ]
           }
+        
         
         
         
