@@ -605,6 +605,22 @@
     "responses": [
       "Les maquettes actuelles sont disponibles ici : Lien vers les maquettes."
     ]
+  },
+  {
+    "tag": "dépôts",
+    "patterns": ["Comment effectuer un dépôt dans Paiecash?", "Quelles sont les méthodes de paiement pour les dépôts?", "Comment choisir un portefeuille pour le dépôt?"],
+    "responses": ["Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash en utilisant nos méthodes de paiement système. Vous pouvez choisir le portefeuille dans lequel vous souhaitez déposer le montant."]
+  },
+  {
+    "tag": "cartes",
+    "patterns": ["Comment obtenir une carte bancaire Paiecash?", "Quelle est la procédure pour obtenir une carte physique?", "Comment fonctionne la carte numérique?"],
+    "responses": ["Lors de l'inscription, les utilisateurs reçoivent automatiquement une carte numérique. Si vous souhaitez une carte physique, elle peut être commandée et livrée en quelques semaines. La carte physique peut être retirée chez un distributeur proche en Afrique et livrée par courrier ailleurs dans le monde."]
+  },
+  {
+    "tag": "transferts",
+    "patterns": ["Puis-je transférer de l'argent à tout utilisateur?", "Qu'en est-il des transferts vers des utilisateurs non enregistrés?", "Comment fonctionne le transfert de montant?"],
+    "responses": ["Les utilisateurs enregistrés peuvent transférer de l'argent à tout utilisateur, enregistré ou non. Les utilisateurs non enregistrés peuvent voir leur argent une fois inscrits. Vous pouvez également contacter le Call center en cas de problème ou de besoin d'informations."]
   }
+
   ]
 }
