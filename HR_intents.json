@@ -27,6 +27,53 @@
         "I'm great! How can I help?",
         "Doing good! How can I help you?"
       ]},
+      [
+        {
+          "tag": "Objectifs",
+          "patterns": [
+            "Quels sont les objectifs de Smart 1 ?"
+          ],
+          "responses": [
+            "Les objectifs de Smart 1 sont de proposer des solutions innovantes sur le marché tout en évitant de réinventer la roue."
+          ]
+        },
+        {
+          "tag": "Offre de gestion des stocks",
+          "patterns": [
+            "Quelle est l'offre de gestion et suivi des stocks de Smart 1 ?"
+          ],
+          "responses": [
+            "L'offre de gestion des stocks de Smart 1 propose un module de stock dans les logiciels, comme PGI, Odoo et Dolibarr. Cela résulte de nombreuses années de développement et d'une grande équipe."
+          ]
+        },
+        {
+          "tag": "Stratégie",
+          "patterns": [
+            "Quelle est la stratégie de Smart 1 ?"
+          ],
+          "responses": [
+            "La stratégie de Smart 1 consiste à bien étudier l'existant, identifier les manquements, et corriger les lacunes en utilisant un code existant. Ils se concentrent également sur l'attaque du marché avec une approche d'innovation plutôt que de recréer des solutions déjà existantes."
+          ]
+        },
+        {
+          "tag": "Acteurs",
+          "patterns": [
+            "Qui sont les acteurs impliqués dans Smart 1 ?"
+          ],
+          "responses": [
+            "Les acteurs impliqués dans Smart 1 incluent des équipes de développement, des distributeurs, des revendeurs et des utilisateurs finaux."
+          ]
+        },
+        {
+          "tag": "Délai de réalisation",
+          "patterns": [
+            "Combien de temps faut-il pour réaliser le système Smart 1 ?"
+          ],
+          "responses": [
+            "La réalisation d'un tel système à partir de zéro prendrait au moins 3 mois avec des ressources confirmées."
+          ]
+        }
+      ]
       
   ]
 }
