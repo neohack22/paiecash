@@ -71,7 +71,78 @@
           "responses": [
             "La réalisation d'un tel système à partir de zéro prendrait au moins 3 mois avec des ressources confirmées."
           ]
-        }
-      
+        },
+        {
+            "tag": "Qu'est-ce que PaieCash ?",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash est une application de paiement qui propose des services de paiement via des API. Elle permet la gestion et le contrôle des activités liées à cette API de paiement."
+            ]
+          },
+          {
+            "tag": "Gestion des comptes et utilisateurs",
+            "patterns": [
+              "Quels sont les éléments de la gestion des comptes et utilisateurs ?"
+            ],
+            "responses": [
+              "La gestion des comptes et utilisateurs de PaieCash comprend la création de comptes utilisateurs, l'activation/désactivation des comptes clients, la gestion des licences d'abonnement (trimestrielles, annuelles, à vie) et des forfaits d'abonnement. Un dashboard permet aux marchands de consulter leur clé d'API, leurs transactions et de configurer les URL d'erreur et de callback."
+            ]
+          },
+          {
+            "tag": "Gestion des transactions",
+            "patterns": [
+              "Comment PaieCash facilite-t-il la gestion des transactions ?"
+            ],
+            "responses": [
+              "PaieCash simplifie la gestion des transactions pour chaque utilisateur. Cela inclut la liste des transactions par période et par statut (réussi, annulé, en attente, échoué), les end-points pour déclencher et vérifier l'état des paiements, ainsi que pour annuler et relancer les paiements. Les utilisateurs sont catégorisés sur le dashboard et les localisations des transactions sont gérées."
+            ]
+          },
+          {
+            "tag": "Gestion de la sécurité",
+            "patterns": [
+              "Quelles mesures de sécurité sont mises en place par PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash met en place des mesures de sécurité telles que 3D Secure pour valider les paiements, des comptes sécurisés avec validation des moyens de sécurité par le directeur général, et fournit des API keys et tokens de connexion sécurisés pour les interfaces utilisateur."
+            ]
+          },
+          {
+            "tag": "Gestion des commissionnements et frais",
+            "patterns": [
+              "Comment PaieCash gère-t-il les commissionnements et frais sur les transactions ?"
+            ],
+            "responses": [
+              "PaieCash permet de commissionner un utilisateur avec un pourcentage précisé sur une transaction. Le choix du système de facturation (sous-commission ou abonnement) est également possible. Les utilisateurs peuvent suivre leurs commissions sur une période, tout comme l'entreprise PaieCash peut suivre ses commissions gagnées."
+            ]
+          },
+          {
+            "tag": "Gestion de la configuration du système et déploiement",
+            "patterns": [
+              "Comment PaieCash gère-t-il la configuration du système et le déploiement ?"
+            ],
+            "responses": [
+              "PaieCash gère la montée en charge du nombre de requêtes, le multithread et la scalabilité. Le monitoring du système est assuré par des outils comme Travis et PM2. Une gateway gère les différents pôles de traitement des requêtes, et une version conteneurisée de la solution est déployée pour une mise en production simple et rapide."
+            ]
+          },
+          {
+            "tag": "Services de paiements concernés",
+            "patterns": [
+              "Quels sont les services de paiements concernés par PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash concerne Lyra pour l'Europe et l'Afrique, ainsi qu'Orange Money et MTN Money pour les wallets en Afrique."
+            ]
+          },
+          {
+            "tag": "Livrables",
+            "patterns": [
+              "Quels sont les livrables à la fin du développement ?"
+            ],
+            "responses": [
+              "À la fin du développement, PaieCash livrera une interface web (Dashboard) pour gérer l'API de paiement, les transactions et les utilisateurs. Un module de tests, une documentation de l'API, une documentation Swagger testable en direct, une documentation de déploiement, un manuel utilisateur et le code source seront également fournis. Une version sera déployée sur un sous-domaine de PaieCash."
+            ]
+          }
   ]
 }
