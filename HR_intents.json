@@ -745,7 +745,56 @@
               "Les cartes numériques peuvent être utilisées pour effectuer des transactions. Chaque carte est protégée par un code PIN et ne peut pas être stockée dans la base de données.",
               "Les cartes numériques sont sécurisées avec un code PIN, et nous ne stockons pas ces informations dans la base de données pour garantir leur confidentialité."
             ]
+          },
+          {
+            "tag": "Qu'est-ce que PaieCash ?",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash est une entreprise opérant en Afrique, proposant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Notre objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
+            ]
+          },
+          {
+            "tag": "Module de football",
+            "patterns": [
+              "Quel est le module football de PaieCash ?",
+              "Quelles fonctionnalités propose le module football ?"
+            ],
+            "responses": [
+              "Le module football de PaieCash est une application mobile qui offre des fonctionnalités liées au football. Il permet aux utilisateurs d'accéder à des informations sur les équipes, les matchs, et plus encore."
+            ]
+          },
+          {
+            "tag": "Dates importantes du projet",
+            "patterns": [
+              "Quelles sont les dates importantes du projet PaieCash ?",
+              "Quand le projet sera-t-il terminé ?"
+            ],
+            "responses": [
+              "Le projet PaieCash suit un calendrier spécifique avec des dates de début et de fin pour différentes tâches. Veuillez consulter le diagramme de Gantt pour connaître les détails précis des dates."
+            ]
+          },
+          {
+            "tag": "Support technique",
+            "patterns": [
+              "Comment puis-je obtenir de l'aide en cas de problème avec PaieCash ?",
+              "Où puis-je contacter le support technique ?"
+            ],
+            "responses": [
+              "Si vous avez des problèmes avec PaieCash, vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à résoudre tout problème que vous pourriez rencontrer."
+            ]
+          },
+          {
+            "tag": "Mise en place du e-commerce",
+            "patterns": [
+              "Quelles sont les étapes de mise en place du e-commerce sur PaieCash ?"
+            ],
+            "responses": [
+              "La mise en place du e-commerce sur PaieCash comprend plusieurs étapes, notamment la conception du site web, l'intégration des moyens de paiement, et la création d'interfaces conviviales. Ces étapes visent à offrir une expérience d'achat en ligne fluide et sécurisée."
+            ]
           }
+        
         
         
         
