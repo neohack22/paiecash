@@ -696,7 +696,57 @@
               "Les résultats des tests sont les conclusions des évaluations effectuées sur le module pour garantir sa fonctionnalité et sa qualité.",
               "Les tests sont évalués en fonction des critères prédéfinis pour déterminer si le module répond aux exigences et fonctionne correctement."
             ]
+          },
+          {
+            "tag": "Diagramme des cas d’utilisateur",
+            "patterns": [
+              "Qu'est-ce que le diagramme des cas d’utilisateur ?"
+            ],
+            "responses": [
+              "Le diagramme des cas d’utilisateur est une représentation visuelle des interactions entre les utilisateurs et un système logiciel. Il permet de décrire les différentes actions que les utilisateurs peuvent effectuer et comment ils interagissent avec le système."
+            ]
+          },
+          {
+            "tag": "Langages utilisés",
+            "patterns": [
+              "Quels sont les langages utilisés dans le projet ?"
+            ],
+            "responses": [
+              "Les langages utilisés sont : Laravel en backend, Ionic en frontend, et PostgreSql pour la base de données."
+            ]
+          },
+          {
+            "tag": "Fonctionnalités principales",
+            "patterns": [
+              "Quelles sont les premières fonctionnalités du projet ?"
+            ],
+            "responses": [
+              "Les premières fonctionnalités incluent l'inscription des utilisateurs, l'achat de cartes, les paiements et les transferts d'argent."
+            ]
+          },
+          {
+            "tag": "Sécurité et certifications",
+            "patterns": [
+              "Quelles sont les normes de sécurité suivies dans le projet ?",
+              "Y a-t-il des certifications de sécurité obtenues ?"
+            ],
+            "responses": [
+              "Le projet suit les normes de sécurité PCIDSS et OWASP pour prévenir les risques tels que les scripts cross-site et les injections SQL.",
+              "Nous sommes certifiés PCIDSS, garantissant un haut niveau de sécurité dans le traitement des paiements en ligne."
+            ]
+          },
+          {
+            "tag": "Utilisation des cartes numériques",
+            "patterns": [
+              "Comment fonctionne l'utilisation des cartes numériques ?",
+              "Quelles sont les précautions de sécurité pour les cartes numériques ?"
+            ],
+            "responses": [
+              "Les cartes numériques peuvent être utilisées pour effectuer des transactions. Chaque carte est protégée par un code PIN et ne peut pas être stockée dans la base de données.",
+              "Les cartes numériques sont sécurisées avec un code PIN, et nous ne stockons pas ces informations dans la base de données pour garantir leur confidentialité."
+            ]
           }
+        
         
         
         
