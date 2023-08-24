@@ -355,7 +355,104 @@
               "Nous avons mis en place un système de paiement pour les dons et dîmes dans une Église. Les fidèles peuvent effectuer des paiements en utilisant nos services en ligne. Pour en savoir plus, consultez la section Paiement des dons dans le document."
             ]
           },
-          
+          {
+            "tag": "Présentation de l'entreprise",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?",
+              "Qui est PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash est une entreprise axée sur la technologie et l'innovation à l'échelle internationale. Elle propose des solutions numériques dans des domaines tels que la téléphonie, Internet et la télévision, tout en respectant les lois françaises."
+            ]
+          },
+          {
+            "tag": "Objectif du projet",
+            "patterns": [
+              "Quel est l'objectif du projet PaieCash ?"
+            ],
+            "responses": [
+              "Le projet PaieCash vise à créer une application mobile sur Android et iOS, ainsi qu'un site web. Ces plateformes permettront aux utilisateurs d'effectuer des transactions financières, d'envoyer et de recevoir de l'argent, ainsi que d'accéder à des tableaux de bord pour gérer leurs activités."
+            ]
+          },
+          {
+            "tag": "Périmètre du projet",
+            "patterns": [
+              "Quelles sont les fonctionnalités de la solution PaieCash ?",
+              "Quelles sont les possibilités offertes par l'application PaieCash ?"
+            ],
+            "responses": [
+              "La solution PaieCash propose une gamme étendue de fonctionnalités, notamment le transfert d'argent entre utilisateurs, les paiements sur les sites marchands, les paiements locaux via numéro de téléphone ou QR code, ainsi que la gestion des comptes utilisateurs et d'autres fonctionnalités de gestion."
+            ]
+          },
+          {
+            "tag": "Avantages du projet",
+            "patterns": [
+              "Quels sont les avantages du projet PaieCash ?"
+            ],
+            "responses": [
+              "Le projet PaieCash a pour but d'améliorer l'accès aux services bancaires pour une part significative de la population. Il facilite les paiements entre acteurs économiques, offre un moyen de paiement digital fiable pour les développeurs d'applications et sites d'achat en ligne, et propose des possibilités d'intégration dans divers secteurs, comme l'agriculture."
+            ]
+          },
+          {
+            "tag": "Cible du projet",
+            "patterns": [
+              "Qui sont les utilisateurs cibles de PaieCash ?",
+              "Quels sont les groupes visés par le projet PaieCash ?"
+            ],
+            "responses": [
+              "Les utilisateurs cibles du projet PaieCash incluent les commerçants, les e-commerçants, les supermarchés, les magasins, les entreprises, les associations et toute personne possédant un téléphone portable et souhaitant effectuer des transactions financières."
+            ]
+          },
+          {
+            "tag": "Concurrence",
+            "patterns": [
+              "Quelle est la concurrence de PaieCash ?",
+              "Quelles sont les alternatives à PaieCash ?"
+            ],
+            "responses": [
+              "Les principaux concurrents de PaieCash sont les opérateurs téléphoniques, les banques en ligne et les wallets mobiles tels que n26 et revolut."
+            ]
+          },
+          {
+            "tag": "Charte graphique et ergonomie",
+            "patterns": [
+              "Quelle est la charte graphique de PaieCash ?",
+              "Comment sont conçues les interfaces de PaieCash ?"
+            ],
+            "responses": [
+              "La charte graphique de PaieCash se compose des couleurs vert et blanc. Les interfaces sont conçues selon les normes ergonomiques UI/UX, en respectant la norme ISO 26800:2011 pour offrir une expérience utilisateur conviviale et intuitive."
+            ]
+          },
+          {
+            "tag": "Livrables attendus",
+            "patterns": [
+              "Quels sont les livrables attendus du projet PaieCash ?",
+              "Quelles sont les composantes du projet PaieCash ?"
+            ],
+            "responses": [
+              "Les livrables attendus du projet PaieCash comprennent une application mobile pour Android et iOS, une base de données cohérente, un site web, une API serveur pour l'application, une API swagger ou sandbox pour les développeurs, ainsi qu'une documentation de déploiement et un manuel utilisateur."
+            ]
+          },
+          {
+            "tag": "Budget et délai",
+            "patterns": [
+              "Quel est le budget de développement de l'application ?",
+              "Quand l'application sera-t-elle livrée ?"
+            ],
+            "responses": [
+              "Le budget de développement de l'application dépendra d'une analyse des coûts de développement, de la sécurité et du déploiement. Le délai de livraison sera estimé en utilisant la méthode COCOMO en fonction de la taille du projet."
+            ]
+          },
+          {
+            "tag": "Fonctionnalités principales",
+            "patterns": [
+              "Quelles sont les principales fonctionnalités de PaieCash ?",
+              "Quels services offre l'application PaieCash ?"
+            ],
+            "responses": [
+              "Les principales fonctionnalités de PaieCash incluent le transfert d'argent entre utilisateurs, les dépôts et retraits, les paiements sur les sites marchands, la gestion des comptes utilisateurs, les échanges de devises, l'épargne, les crédits, et bien plus encore."
+            ]
+          }        
         
   ]
 }
