@@ -143,6 +143,147 @@
             "responses": [
               "À la fin du développement, PaieCash livrera une interface web (Dashboard) pour gérer l'API de paiement, les transactions et les utilisateurs. Un module de tests, une documentation de l'API, une documentation Swagger testable en direct, une documentation de déploiement, un manuel utilisateur et le code source seront également fournis. Une version sera déployée sur un sous-domaine de PaieCash."
             ]
+          },
+          {
+            "tag": "Presentation",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?",
+              "Présentation de l’entreprise"
+            ],
+            "responses": [
+              "PaieCash est une entreprise qui développe des solutions numériques axées sur la technologie et l'innovation en Afrique. Elle offre des services dans les domaines de la téléphonie, d'Internet et de la télévision."
+            ]
+          },
+          {
+            "tag": "Objectif",
+            "patterns": [
+              "Quel est l'objectif du projet PaieCash ?",
+              "Quels sont les avantages du projet ?"
+            ],
+            "responses": [
+              "Le projet PaieCash vise à enrichir les paiements en ligne en offrant une application mobile sur Android et IOS, ainsi qu'un site web, pour faciliter les transactions financières et les paiements en ligne. Il résout également le problème du manque de liquidités en Afrique, offrant une solution rapide et fiable pour tous les types de paiements."
+            ]
+          },
+          {
+            "tag": "Fonctionnalites",
+            "patterns": [
+              "Quelles sont les fonctionnalités principales de l'application ?",
+              "Quels services propose PaieCash ?"
+            ],
+            "responses": [
+              "L'application PaieCash offre un éventail de services, notamment le transfert d'argent entre utilisateurs, les dépôts et les retraits, les paiements en ligne sur des sites marchands, la gestion des comptes utilisateurs, les échanges de devises, l'épargne, les crédits et bien d'autres."
+            ]
+          },
+          {
+            "tag": "Difference",
+            "patterns": [
+              "Comment PaieCash se différencie-t-il de la concurrence ?",
+              "Qu'est-ce qui rend PaieCash unique ?"
+            ],
+            "responses": [
+              "PaieCash se distingue en réunissant une variété de moyens de paiement numérique au sein d'une application conviviale. Sa portée internationale permet des transactions fiables en Afrique et à l'international."
+            ]
+          },
+          {
+            "tag": "UI/UX",
+            "patterns": [
+              "Comment sont conçues les interfaces de PaieCash ?",
+              "Quelle est l'ergonomie de l'application ?"
+            ],
+            "responses": [
+              "Les interfaces de PaieCash suivent les normes UI/UX, assurant une expérience conviviale. Elles respectent la norme ISO 26800:2011 pour une convivialité optimale."
+            ]
+          },
+          {
+            "tag": "Utilisateurs",
+            "patterns": [
+              "Qui peut devenir un utilisateur de PaieCash ?",
+              "Quelle est la cible de l'application ?"
+            ],
+            "responses": [
+              "Toute personne possédant un téléphone portable peut devenir un utilisateur de PaieCash. Cela inclut les commerçants, les entreprises, leurs clients, ainsi que les conducteurs de moto et de taxi. La grande population susceptible d'effectuer des transactions d'argent est également visée."
+            ]
+          },
+          {
+            "tag": "Concurrence",
+            "patterns": [
+              "Quelle est la concurrence de PaieCash ?",
+              "Qui sont les concurrents de l'entreprise ?"
+            ],
+            "responses": [
+              "La concurrence de PaieCash provient des opérateurs téléphoniques, des banques en ligne et des Wallets mobile (portefeuilles)."
+            ]
+          },
+          {
+            "tag": "Design",
+            "patterns": [
+              "Quelle est la charte graphique et ergonomique de PaieCash ?",
+              "Comment sont définies les couleurs de l'entreprise ?"
+            ],
+            "responses": [
+              "Les couleurs du logo de PaieCash sont le vert et le blanc, ce qui reflète sa charte graphique. L'UI/UX design respecte les normes d'une application de transfert d'argent et suit la norme ISO 26800:2011."
+            ]
+          },
+          {
+            "tag": "Livrables",
+            "patterns": [
+              "Quels sont les livrables attendus du projet PaieCash ?",
+              "Que recevront les utilisateurs comme résultat du projet ?"
+            ],
+            "responses": [
+              "Les livrables attendus comprennent une application mobile pour Android et IOS, une base de données cohérente, un site web et une API servant de serveur à l'application."
+            ]
+          },
+          {
+            "tag": "Budget",
+            "patterns": [
+              "Quel est le budget de développement de l'application PaieCash ?",
+              "Comment est estimé le coût du projet ?"
+            ],
+            "responses": [
+              "Le budget de développement de l'application PaieCash sera estimé suite à une analyse des coûts de développement, de la sécurité des applications et du déploiement. Contactez-nous pour une estimation personnalisée."
+            ]
+          },
+          {
+            "tag": "Delai",
+            "patterns": [
+              "Quel est le délai de livraison du projet PaieCash ?",
+              "Quand l'application sera-t-elle prête ?"
+            ],
+            "responses": [
+              "Le délai de livraison sera estimé en utilisant la méthode COCOMO en fonction de la taille du projet. Nous travaillons pour vous fournir la meilleure expérience dans les plus brefs délais."
+            ]
+          },
+          {
+            "tag": "Assistance",
+            "patterns": [
+              "Comment puis-je obtenir de l'aide en cas de problème avec PaieCash ?",
+              "Où puis-je obtenir de l'assistance ?"
+            ],
+            "responses": [
+              "Vous pouvez obtenir de l'aide en contactant notre équipe d'assistance via l'application PaieCash ou notre site web. Nous sommes là pour vous aider à chaque étape."
+            ]
+          },
+          {
+            "tag": "InfosFonctionnalites",
+            "patterns": [
+              "Où puis-je trouver plus d'informations sur les fonctionnalités de PaieCash ?",
+              "Comment en savoir plus sur les services offerts par PaieCash ?"
+            ],
+            "responses": [
+              "Pour plus d'informations détaillées sur les fonctionnalités de PaieCash, consultez notre document de Spécifications fonctionnelles disponible à ce lien : [Lien vers le document](https://docs.google.com/document/d/1-ftfFpHn4MPXxFOc6UdbObqrvROmFT_ziAix9E7CIEQ/edit?usp=share_link)"
+            ]
+          },
+          {
+            "tag": "Maquettes",
+            "patterns": [
+              "Où puis-je voir les maquettes de l'application PaieCash ?",
+              "Où trouver les designs de PaieCash ?"
+            ],
+            "responses": [
+              "Vous pouvez consulter les dernières maquettes de l'application PaieCash à ce lien : [Lien vers les maquettes](https://docs.google.com/document/d/1-ftfFpHn4MPXxFOc6UdbObqrvROmFT_ziAix9E7CIEQ/edit?usp=share_link)"
+            ]
           }
+        
   ]
 }
