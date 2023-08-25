@@ -655,6 +655,28 @@
     "tag": "Rôles et autorisations",
     "patterns": ["Quels sont les différents rôles sur Paiecash?", "Comment ajouter un administrateur?", "Quels sont les privilèges d'un agent Paiecash?"],
     "responses": ["Il existe différents rôles sur Paiecash, dont le super administrateur, les administrateurs, les agents Paiecash, etc. En tant que propriétaire, vous pouvez ajouter d'autres utilisateurs en tant qu'administrateurs avec des autorisations spécifiques."]
+  },
+  {
+    "tag": "Gerer les comptes",
+    "patterns": [
+      "Comment gérer son compte sur PaieCash ?",
+      "Quelles sont les fonctionnalités liées à la gestion des comptes ?"
+    ],
+    "responses": [
+      "Vous pouvez gérer votre compte en affichant votre solde et en effectuant des échanges de devises (en fonction des pays et taux de conversion, disponibles dans les versions ultérieures), ainsi qu'en rechargeant votre compte.",
+      "Les outils de gestion des dépenses et de budget sont également disponibles pour vous aider à suivre vos dépenses et vos multiples comptes en fonction des différentes devises disponibles."
+    ]
+  },
+  {
+    "tag": "effectuer transaction",
+    "patterns": [
+      "Comment effectuer des transactions sur PaieCash ?",
+      "Quelles sont les types de transactions possibles ?"
+    ],
+    "responses": [
+      "Vous pouvez effectuer diverses transactions sur PaieCash, notamment des recharges, des retraits, des dépôts et d'autres transactions financières.",
+      "Les fonctionnalités de recharges, retraits et dépôts vous offrent la flexibilité nécessaire pour gérer vos fonds à votre convenance."
+    ]
   }
 
   ]
