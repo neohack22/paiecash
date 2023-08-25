@@ -1499,6 +1499,56 @@
               "Pour modifier un utilisateur, effectuez une requête PUT sur '/api/users/{user}'.",
               "Pour supprimer un utilisateur, utilisez DELETE sur '/api/users/{user}'."
             ]
+          },
+          {
+            "tag": "PCI DSS",
+            "patterns": [
+              "Qu'est-ce que la norme PCI DSS ?",
+              "En quoi consiste la conformité PCI DSS ?"
+            ],
+            "responses": [
+              "La norme PCI DSS (Payment Card Industry Data Security Standard) est un ensemble de normes de sécurité des données pour l'industrie des cartes de paiement. Elle vise à réduire la fraude en ligne en établissant des mesures de sécurité pour protéger les données des titulaires de cartes."
+            ]
+          },
+          {
+            "tag": "Exigences PCI DSS",
+            "patterns": [
+              "Quelles sont les exigences PCI DSS pour l'application PAIECASH ?",
+              "Quelles sont les 12 exigences PCI DSS ?"
+            ],
+            "responses": [
+              "L'application PAIECASH doit respecter les 12 exigences PCI DSS, notamment l'installation et la maintenance d'un pare-feu, la protection des données stockées, le chiffrement des transmissions de données, la mise à jour des logiciels antivirus, etc."
+            ]
+          },
+          {
+            "tag": "Mise en conformité PCI DSS",
+            "patterns": [
+              "Comment l'application PAIECASH se conformera-t-elle à la norme PCI DSS ?",
+              "Quelles sont les mesures de sécurité pour la conformité PCI DSS ?"
+            ],
+            "responses": [
+              "Pour être conforme à la norme PCI DSS, l'application PAIECASH mettra en place des mesures telles que le certificat SSL/TLS pour sécuriser les connexions, un système de détection d'intrusion (IDS), des sauvegardes régulières des données, le chiffrement de bout en bout, des audits de sécurité réguliers et une politique de sécurité de l'information."
+            ]
+          },
+          {
+            "tag": "Conformité RGPD",
+            "patterns": [
+              "Qu'est-ce que la conformité RGPD ?",
+              "Quelles sont les mesures pour la conformité RGPD ?"
+            ],
+            "responses": [
+              "La conformité RGPD (Règlement général sur la protection des données) implique des mesures pour protéger les données personnelles des utilisateurs. Cela inclut l'élaboration d'une politique de confidentialité, des procédures de collecte et de traitement des données, des contrôles d'accès, des mesures de sécurité pour le stockage des données, des notifications en cas de violation de données, des tests de conformité réguliers, et la formation des employés."
+            ]
+          },
+          {
+            "tag": "Certification PCIDSS",
+            "patterns": [
+              "Comment certifier une solution de paiement PCIDSS pour PaieCash ?",
+              "Quelles sont les étapes pour obtenir la certification PCIDSS ?"
+            ],
+            "responses": [
+              "Pour certifier une solution de paiement PCIDSS pour PaieCash, les étapes incluent l'évaluation des besoins de l'entreprise, la mise en place de mesures de sécurité, l'engagement d'un auditeur certifié PCIDSS, l'évaluation de la conformité, la correction des failles de sécurité, et l'obtention de la certification. La certification doit être renouvelée annuellement."
+            ]
           }
         
         
