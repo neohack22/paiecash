@@ -1620,8 +1620,52 @@
               "Le serveur back end de PaieCash est développé avec Laravel, une technologie de pointe pour le développement d'applications web et mobiles. Cela garantit un fonctionnement fluide et rapide de nos services.",
               "Le serveur back end de PaieCash est développé en utilisant Laravel, une technologie puissante et performante qui assure un traitement efficace de toutes les transactions."
             ]
+          },
+          {
+            "tag": "Back end",
+            "patterns": [
+              "Quel est le lien vers le back end de PaieCash ?"
+            ],
+            "responses": [
+              "Le lien vers le back end de PaieCash est https://github.com/Infopluscabrel/crm-backend."
+            ]
+          },
+          {
+            "tag": "Utilisateur paiecash",
+            "patterns": [
+              "Où puis-je trouver le code source pour l'utilisateur paiecash ?"
+            ],
+            "responses": [
+              "Le code source pour l'utilisateur paiecash est disponible à l'adresse https://github.com/Infopluscabrel/crm-paiecash/tree/full."
+            ]
+          },
+          {
+            "tag": "Utilisateur grossiste",
+            "patterns": [
+              "Où puis-je accéder au code source pour l'utilisateur grossiste ?"
+            ],
+            "responses": [
+              "Le code source pour l'utilisateur grossiste est accessible sur https://github.com/Infopluscabrel/crm-grossiste."
+            ]
+          },
+          {
+            "tag": "Utilisateur détaillant",
+            "patterns": [
+              "Comment puis-je trouver le code source pour l'utilisateur détaillant ?"
+            ],
+            "responses": [
+              "Le code source pour l'utilisateur détaillant est présent à l'adresse https://github.com/Infopluscabrel/crm-detaillant."
+            ]
+          },
+          {
+            "tag": "Documentation",
+            "patterns": [
+              "Où puis-je consulter la documentation de PaieCash ?"
+            ],
+            "responses": [
+              "Vous pouvez accéder à la documentation de PaieCash en suivant ce lien : https://documenter.getpostman.com/view/18065687/VUjTm3sU."
+            ]
           }
-        
         
         
         
