@@ -1698,7 +1698,125 @@
               "Les objectifs généraux du Sprint 3 sont axés sur les domaines du paiement et de l'inscription via Gmail.",
               "Pour le Sprint 3, nous nous concentrons principalement sur les améliorations liées aux paiements et à l'inscription via Gmail."
             ]
+          },
+          {
+            "tag": "Description_du_projet",
+            "patterns": [
+              "Qu'est-ce que PaieCash QR Code ?"
+            ],
+            "responses": [
+              "PaieCash QR Code est une solution de tickets de caisse dématérialisés via un QR code. Placé directement à la caisse de votre magasin, elle vous permet de récupérer votre facture ou ticket de caisse immédiatement et de façon permanente tout en conservant vos droits de garantie."
+            ]
+          },
+          {
+            "tag": "Objet_du_projet",
+            "patterns": [
+              "Quel est l'objet du projet PaieCash QR Code ?"
+            ],
+            "responses": [
+              "L'objet du projet PaieCash QR Code est de proposer une solution de tickets de caisse dématérialisés via un QR code. Cela permet aux clients de récupérer leurs factures et tickets de caisse rapidement et de manière permanente."
+            ]
+          },
+          {
+            "tag": "Avantages_du_projet",
+            "patterns": [
+              "Quels sont les avantages du projet PaieCash QR Code ?"
+            ],
+            "responses": [
+              "Le projet PaieCash QR Code offre plusieurs avantages, tels que la récupération immédiate et permanente des factures via un QR code à la caisse, la conservation des droits de garantie et la simplicité d'utilisation pour les clients."
+            ]
+          },
+          {
+            "tag": "Cible_du_projet",
+            "patterns": [
+              "Qui est la cible du projet PaieCash QR Code ?"
+            ],
+            "responses": [
+              "La cible du projet PaieCash QR Code inclut les clients de magasins et de supermarchés souhaitant récupérer leurs factures et tickets de caisse de manière rapide et permanente tout en bénéficiant de la garantie associée à leurs achats."
+            ]
+          },
+          {
+            "tag": "Fonctionnalités_principales",
+            "patterns": [
+              "Quelles sont les fonctionnalités principales de l'application PaieCash QR Code ?"
+            ],
+            "responses": [
+              "L'application PaieCash QR Code propose un ensemble de fonctionnalités essentielles, notamment l'authentification des utilisateurs, la gestion des produits, la gestion du panier et des tickets, les paiements pour valider les tickets, les interfaces admin pour les caissiers et les magasins, et bien plus encore."
+            ]
+          },
+          {
+            "tag": "Modification_mot_de_passe",
+            "patterns": [
+              "Comment puis-je modifier mon mot de passe ou récupérer un mot de passe oublié ?"
+            ],
+            "responses": [
+              "Si vous avez oublié votre mot de passe, vous pouvez le réinitialiser en fournissant votre e-mail. Vous recevrez un code pour réinitialiser votre mot de passe. Connectez-vous ensuite à l'application et changez le mot de passe."
+            ]
+          },
+          {
+            "tag": "Enregistrement_panier",
+            "patterns": [
+              "Comment enregistrer des produits/articles dans mon panier ?"
+            ],
+            "responses": [
+              "Lors de vos achats, scannez les produits que vous souhaitez acheter. Ajoutez-les à votre panier avec la quantité désirée. Le prix total sera calculé en multipliant la quantité par le prix unitaire de chaque produit."
+            ]
+          },
+          {
+            "tag": "Validation_produits_panier",
+            "patterns": [
+              "Comment valider les produits dans mon panier ?"
+            ],
+            "responses": [
+              "Une fois que vous avez ajouté tous les produits que vous souhaitez acheter dans votre panier mobile et physique, vous pouvez valider les produits pour générer le reçu de vos achats. Ce reçu sera caché derrière un QR code."
+            ]
+          },
+          {
+            "tag": "Paiement_caisse",
+            "patterns": [
+              "Comment effectuer le paiement à la caisse ?"
+            ],
+            "responses": [
+              "Présentez le QR code lié à votre facture à la caisse pour effectuer le paiement. Tant que le paiement n'est pas effectué, le QR code reste actif. Une fois le paiement confirmé, le QR code est désactivé."
+            ]
+          },
+          {
+            "tag": "Modification_profil",
+            "patterns": [
+              "Comment puis-je modifier mon profil ?"
+            ],
+            "responses": [
+              "Connectez-vous à l'application et accédez à la section de modification de profil. Vous pouvez mettre à jour vos informations, y compris votre nom et prénom."
+            ]
+          },
+          {
+            "tag": "Promotions",
+            "patterns": [
+              "Comment puis-je profiter des promotions ?"
+            ],
+            "responses": [
+              "En tant que client, vous pouvez bénéficier des promotions créées par le supermarché. Ces promotions vous permettent d'obtenir des réductions sur vos achats."
+            ]
+          },
+          {
+            "tag": "Participer_evenements",
+            "patterns": [
+              "Comment puis-je participer aux événements ?"
+            ],
+            "responses": [
+              "En tant que client, vous pouvez participer aux événements organisés par le supermarché. Ces événements vous offrent l'opportunité de profiter de promotions spéciales et d'autres avantages."
+            ]
+          },
+          {
+            "tag": "Support",
+            "patterns": [
+              "Comment obtenir de l'aide en cas de problème ?"
+            ],
+            "responses": [
+              "Si vous avez besoin d'aide, vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à chaque étape."
+            ]
           }
+        
         
         
         
