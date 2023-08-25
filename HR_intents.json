@@ -1442,7 +1442,64 @@
               "Le quantum dans l'algorithme RR détermine la durée maximale d'exécution d'un processus avant qu'il ne soit interrompu.",
               "Un quantum plus long donne l'effet de traitement préemptif moins fréquent, tandis qu'un quantum plus court favorise une meilleure réactivité."
             ]
-          }	        
+          },
+          {
+            "tag": "subscriptions",
+            "patterns": [
+              "Comment créer une souscription ?",
+              "Comment récupérer toutes les souscriptions ?",
+              "Comment récupérer une souscription spécifique ?",
+              "Comment modifier une souscription ?",
+              "Comment supprimer une souscription ?"
+            ],
+            "responses": [
+              "Pour créer une souscription, utilisez la requête POST sur '/api/subscriptions/'.",
+              "Pour récupérer toutes les souscriptions, effectuez une requête GET sur '/api/subscriptions/'.",
+              "Pour récupérer une souscription spécifique, utilisez GET sur '/api/subscriptions/{subscription}'.",
+              "Pour modifier une souscription, effectuez une requête PUT sur '/api/subscriptions/{subscription}'.",
+              "Pour supprimer une souscription, utilisez DELETE sur '/api/subscriptions/{subscription}'."
+            ]
+          },
+          {
+            "tag": "cards",
+            "patterns": [
+              "Comment lister toutes les cartes ?",
+              "Comment commander une carte ?",
+              "Comment recharger une carte ?",
+              "Comment transférer de l'argent vers une carte ?",
+              "Comment créer une carte ?",
+              "Comment afficher une carte ?",
+              "Comment modifier une carte ?",
+              "Comment supprimer une carte ?"
+            ],
+            "responses": [
+              "Pour lister toutes les cartes, utilisez GET sur '/api/cards/all'.",
+              "Pour commander une carte, effectuez une requête POST sur '/api/cards/order-card'.",
+              "Pour recharger une carte, utilisez POST sur '/api/cards/recharge/{card}'.",
+              "Pour transférer de l'argent vers une carte, effectuez une requête POST sur '/api/cards/transfert/{card}'.",
+              "Pour créer une carte, utilisez POST sur '/api/cards/'.",
+              "Pour afficher une carte, utilisez GET sur '/api/cards/{card}'.",
+              "Pour modifier une carte, effectuez une requête PUT sur '/api/cards/{card}'.",
+              "Pour supprimer une carte, utilisez DELETE sur '/api/cards/{card}'."
+            ]
+          },
+          {
+            "tag": "users",
+            "patterns": [
+              "Comment lister tous les utilisateurs ?",
+              "Comment créer un utilisateur ?",
+              "Comment afficher un utilisateur ?",
+              "Comment modifier un utilisateur ?",
+              "Comment supprimer un utilisateur ?"
+            ],
+            "responses": [
+              "Pour lister tous les utilisateurs, utilisez GET sur '/api/users/'.",
+              "Pour créer un utilisateur, effectuez une requête POST sur '/api/users/'.",
+              "Pour afficher un utilisateur, utilisez GET sur '/api/users/{user}'.",
+              "Pour modifier un utilisateur, effectuez une requête PUT sur '/api/users/{user}'.",
+              "Pour supprimer un utilisateur, utilisez DELETE sur '/api/users/{user}'."
+            ]
+          }
         
         
         
