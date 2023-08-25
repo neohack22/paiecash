@@ -1549,7 +1549,35 @@
             "responses": [
               "Pour certifier une solution de paiement PCIDSS pour PaieCash, les étapes incluent l'évaluation des besoins de l'entreprise, la mise en place de mesures de sécurité, l'engagement d'un auditeur certifié PCIDSS, l'évaluation de la conformité, la correction des failles de sécurité, et l'obtention de la certification. La certification doit être renouvelée annuellement."
             ]
+          },
+          {
+            "tag": "S'inscrire",
+            "patterns": [
+              "Comment puis-je m'inscrire sur PaieCash ?"
+            ],
+            "responses": [
+              "Pour vous inscrire sur PaieCash, suivez les étapes d'inscription sur notre application ou notre site web. Assurez-vous d'utiliser des informations précises pour créer votre compte."
+            ]
+          },
+          {
+            "tag": "Injection de code",
+            "patterns": [
+              "Qu'est-ce que l'injection de code et comment PaieCash la gère-t-elle ?"
+            ],
+            "responses": [
+              "L'injection de code est une technique utilisée par les attaquants pour injecter du code malveillant dans les applications. PaieCash utilise des requêtes préparées et génère des tokens de session pour prévenir ce type d'attaque."
+            ]
+          },
+          {
+            "tag": "Cross site scripting (XSS)",
+            "patterns": [
+              "Comment PaieCash se protège-t-elle contre les attaques de cross site scripting (XSS) ?"
+            ],
+            "responses": [
+              "PaieCash intègre des mécanismes pour prévenir les attaques XSS en filtrant et en validant les données d'entrée. Nous nous assurons que les données provenant de l'utilisateur ne sont pas interprétées comme du code."
+            ]
           }
+        
         
         
         
