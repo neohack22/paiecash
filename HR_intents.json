@@ -1011,12 +1011,61 @@
             "responses": [
               "Pour accéder aux maquettes de l'application Paiecash qr, utilisez le lien : https://qr.frontend.paiecash.fr/. Utilisez les informations de connexion : Email - admin@paiecash.com, Mot de passe - Qwerty15!."
             ]
-          }			
-                
-        
-        
-        
-        
-        
+          },
+          {
+            "tag": "Site web de e commerce Paiecash",
+            "patterns": [
+              "Qu'est-ce que le site web de e-commerce Paiecash ?",
+              "Comment fonctionne le site de e-commerce de Paiecash ?"
+            ],
+            "responses": [
+              "Le site web de e-commerce Paiecash est une plateforme en ligne où vous pouvez acheter une variété de produits et services.",
+              "Le site de e-commerce de Paiecash vous permet de parcourir et d'acheter différents produits et services en ligne, en ajoutant les articles souhaités à votre panier et en suivant les instructions de paiement."
+            ]
+          },
+          {
+            "tag": "App mobile",
+            "patterns": [
+              "Quelle est l'application mobile de Paiecash ?",
+              "Comment télécharger et utiliser l'application mobile Paiecash ?"
+            ],
+            "responses": [
+              "L'application mobile de Paiecash est une plateforme qui vous permet d'accéder à divers services et fonctionnalités de Paiecash via votre téléphone portable.",
+              "Pour télécharger et utiliser l'application mobile Paiecash, rendez-vous sur l'App Store (pour iOS) ou le Google Play Store (pour Android), recherchez 'Paiecash', téléchargez l'application, créez un compte ou connectez-vous, et explorez les fonctionnalités disponibles."
+            ]
+          },
+          {
+            "tag": "Back end",
+            "patterns": [
+              "Qu'entend-on par 'Back end' chez Paiecash ?",
+              "Comment fonctionne le Back end de Paiecash ?"
+            ],
+            "responses": [
+              "Le 'Back end' chez Paiecash fait référence à la partie invisible de nos systèmes, gérant les bases de données, la logique de traitement et la gestion des données.",
+              "Le Back end de Paiecash gère les données des utilisateurs, les transactions, l'authentification et d'autres processus essentiels pour le bon fonctionnement de nos services. Cela se produit en arrière-plan, sans interaction directe avec les utilisateurs."
+            ]
+          },
+          {
+            "tag": "Dashboard du club",
+            "patterns": [
+              "Qu'est-ce que le 'Dashboard du club' chez Paiecash ?",
+              "Comment accéder et utiliser le Dashboard du club de Paiecash ?"
+            ],
+            "responses": [
+              "Le 'Dashboard du club' chez Paiecash est une interface en ligne réservée aux membres des clubs de Paiecash, où ils peuvent gérer leurs adhésions, voir les avantages et les offres spéciales.",
+              "Pour accéder et utiliser le Dashboard du club de Paiecash, connectez-vous à votre compte sur notre site web, accédez à la section 'Clubs', sélectionnez le club approprié, et explorez les fonctionnalités disponibles pour les membres."
+            ]
+          },
+          {
+            "tag": "Site de présentation des clubs et billetterie",
+            "patterns": [
+              "Qu'est-ce que le site de présentation des clubs et billetterie de Paiecash ?",
+              "Comment utiliser le site de billetterie de Paiecash ?"
+            ],
+            "responses": [
+              "Le site de présentation des clubs et billetterie de Paiecash est une plateforme où vous pouvez en savoir plus sur nos clubs et événements, ainsi que réserver des billets pour diverses activités.",
+              "Utilisez le site de billetterie de Paiecash en naviguant vers la section 'Événements' sur notre site web, sélectionnez l'événement souhaité, choisissez le nombre de billets, suivez les instructions pour le paiement et recevez vos billets électroniques."
+            ]
+          }		
   ]
 }
