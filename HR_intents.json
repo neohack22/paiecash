@@ -838,7 +838,109 @@
             "responses": [
               "Pour en savoir plus sur l'application Shomi, consultez le lien : http://bit.ly/shomiApp"
             ]
+          },
+          {
+            "tag": "Presentation_entreprise",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?",
+              "Qui est PaieCash ?",
+              "Présentez-moi PaieCash."
+            ],
+            "responses": [
+              "PaieCash est une entreprise innovante basée en Afrique, focalisée sur la technologie et l'innovation. Elle développe des solutions numériques dans les domaines de la téléphonie, de l'Internet et de la télévision, pour faciliter les transactions et les paiements en ligne."
+            ]
+          },
+          {
+            "tag": "Objectif_projet",
+            "patterns": [
+              "Quel est l'objectif du projet PaieCash ?",
+              "En quoi consiste le projet PaieCash ?"
+            ],
+            "responses": [
+              "Le projet PaieCash vise à enrichir l'offre des paiements en ligne et des transactions financières courantes. Il prévoit la création d'une application mobile pour Android et IOS, ainsi qu'un site web, permettant aux utilisateurs d'effectuer diverses opérations financières en ligne."
+            ]
+          },
+          {
+            "tag": "Fonctionnalites_principales",
+            "patterns": [
+              "Quelles sont les fonctionnalités principales de l'application PaieCash ?",
+              "Que puis-je faire avec l'application PaieCash ?"
+            ],
+            "responses": [
+              "L'application PaieCash offre un éventail complet de services, incluant le transfert d'argent entre utilisateurs, les dépôts et retraits, les paiements en ligne sur des sites marchands, la gestion de comptes utilisateurs, les échanges de devises, l'épargne, les crédits, et bien plus."
+            ]
+          },
+          {
+            "tag": "Avantages_projet",
+            "patterns": [
+              "Quels sont les avantages du projet PaieCash ?",
+              "Pourquoi devrais-je utiliser PaieCash ?"
+            ],
+            "responses": [
+              "Le projet PaieCash résout le problème du manque de liquidités en Afrique, en simplifiant les paiements entre acteurs économiques. Il offre une solution rapide, sécurisée et fiable pour les transactions financières, avec une portée internationale pour les opérations en Afrique et à l'international."
+            ]
+          },
+          {
+            "tag": "Comment_devenir_utilisateur",
+            "patterns": [
+              "Comment puis-je devenir un utilisateur de PaieCash ?",
+              "Comment m'inscrire sur PaieCash ?"
+            ],
+            "responses": [
+              "Toute personne possédant un téléphone portable peut devenir un utilisateur de PaieCash. Il vous suffit de télécharger l'application sur Android ou IOS et de suivre les instructions d'inscription pour commencer à effectuer des transactions en ligne."
+            ]
+          },
+          {
+            "tag": "Budget_developpement",
+            "patterns": [
+              "Quel est le budget de développement de l'application ?",
+              "Combien coûte l'utilisation de PaieCash ?"
+            ],
+            "responses": [
+              "Le budget de développement de l'application dépend de divers facteurs, tels que le développement, la sécurité et le déploiement. Pour obtenir une estimation précise, veuillez nous contacter afin que nous puissions évaluer vos besoins spécifiques."
+            ]
+          },
+          {
+            "tag": "Disponibilite_application",
+            "patterns": [
+              "Quand l'application PaieCash sera-t-elle disponible ?",
+              "Quand puis-je commencer à utiliser PaieCash ?"
+            ],
+            "responses": [
+              "La date de livraison de l'application PaieCash dépend de la taille du projet, mais nous travaillons activement pour vous offrir la meilleure expérience dès que possible. Restez à l'écoute pour les mises à jour sur sa disponibilité."
+            ]
+          },
+          {
+            "tag": "Assistance_utilisateur",
+            "patterns": [
+              "Comment puis-je obtenir de l'aide en cas de problème avec PaieCash ?",
+              "Que faire si j'ai des difficultés avec l'application ?"
+            ],
+            "responses": [
+              "Si vous rencontrez des problèmes avec PaieCash, notre équipe d'assistance est là pour vous aider. Vous pouvez nous contacter via l'application elle-même ou en visitant notre site web. Nous sommes déterminés à résoudre vos problèmes rapidement."
+            ]
+          },
+          {
+            "tag": "Plus_informations_fonctionnalites",
+            "patterns": [
+              "Où puis-je en savoir plus sur les fonctionnalités offertes par PaieCash ?",
+              "Où trouver des détails sur les services de PaieCash ?"
+            ],
+            "responses": [
+              "Pour obtenir une vue d'ensemble détaillée des fonctionnalités offertes par PaieCash, consultez notre document de spécifications fonctionnelles. Vous y trouverez toutes les informations nécessaires pour comprendre les capacités de notre application."
+            ]
+          },
+          {
+            "tag": "Maquettes_application",
+            "patterns": [
+              "Où puis-je voir les maquettes de l'application PaieCash ?",
+              "Où trouver les designs de l'application PaieCash ?"
+            ],
+            "responses": [
+              "Les maquettes actuelles de l'application PaieCash sont disponibles pour consultation. Vous pouvez les trouver dans notre document de spécifications fonctionnelles, qui offre un aperçu visuel des interfaces et de l'expérience utilisateur que nous offrons."
+            ]
           }
+        
                 
         
         
