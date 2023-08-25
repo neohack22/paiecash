@@ -1402,8 +1402,47 @@
             "responses": [
               "Vous pouvez consulter la liste de toutes les personnes que vous avez parrainées en utilisant la fonctionnalité de liste des filleuls."
             ]
-          }
-        
+          },
+          {
+            "tag": "Introduction",
+            "patterns": ["Qu'est-ce que le Projet DVD-MIAGE 2010 ?", "Quel est le sujet du document ?"],
+            "responses": [
+              "Le Projet DVD-MIAGE 2010 concerne l'ordonnancement dans les systèmes d'exploitation.",
+              "Le document traite de l'ordonnancement des processus dans les systèmes d'exploitation."
+            ]
+          },
+          {
+            "tag": "Algorithmes d'ordonnancement",
+            "patterns": ["Quels sont les principaux algorithmes d'ordonnancement abordés ?", "Quelles sont les stratégies d'ordonnancement présentées ?"],
+            "responses": [
+              "Les principaux algorithmes abordés sont : Préemptif, FCFS, SJF, SRTF et RR.",
+              "Les stratégies d'ordonnancement présentées sont : Préemptif, First Come First Serve (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF) et Round-Robin (RR)."
+            ]
+          },
+          {
+            "tag": "Avantages et inconvénients",
+            "patterns": ["Quels sont les avantages et inconvénients de l'algorithme FCFS ?", "Quels sont les points forts et faibles de l'algorithme SJF ?"],
+            "responses": [
+              "L'algorithme FCFS offre une simplicité de mise en œuvre mais peut entraîner une faible utilisation du processeur.",
+              "L'algorithme SJF minimise le temps d'exécution total mais peut causer des retards pour les processus longs."
+            ]
+          },
+          {
+            "tag": "Priorités dans l'ordonnancement",
+            "patterns": ["Comment fonctionne l'ordonnancement à priorités ?", "Qu'est-ce que l'ordonnancement préemptif ?"],
+            "responses": [
+              "L'ordonnancement à priorités attribue des priorités aux processus, le processus avec la plus haute priorité est exécuté en premier.",
+              "L'ordonnancement préemptif permet d'interrompre l'exécution d'un processus pour exécuter un processus de priorité supérieure."
+            ]
+          },
+          {
+            "tag": "Choix du quantum dans RR",
+            "patterns": ["Quel est le rôle du quantum dans l'algorithme RR ?", "Comment le choix du quantum affecte-t-il l'ordonnancement ?"],
+            "responses": [
+              "Le quantum dans l'algorithme RR détermine la durée maximale d'exécution d'un processus avant qu'il ne soit interrompu.",
+              "Un quantum plus long donne l'effet de traitement préemptif moins fréquent, tandis qu'un quantum plus court favorise une meilleure réactivité."
+            ]
+          }	        
         
         
         
