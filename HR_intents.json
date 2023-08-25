@@ -1264,7 +1264,87 @@
             "responses": [
               "Le modèle de calendrier de projet est une variation du diagramme de Gantt qui se concentre sur la planification en plusieurs étapes. Il affiche les phases du projet avec les activités correspondantes pour chaque trimestre, offrant ainsi une vue plus détaillée du calendrier de projet."
             ]
+          },
+          {
+            "tag": "Distributeur - Gestion de revendeur",
+            "patterns": [
+              "Comment gérer un revendeur ?",
+              "Comment ajouter un revendeur ?",
+              "Comment supprimer un revendeur ?",
+              "Comment modifier les informations d'un revendeur ?"
+            ],
+            "responses": [
+              "Vous pouvez gérer les revendeurs en utilisant les fonctionnalités dédiées dans l'interface.",
+              "Pour ajouter un revendeur, accédez à la section de gestion des revendeurs et suivez les étapes indiquées.",
+              "Pour supprimer un revendeur, rendez-vous dans la section de gestion des revendeurs et sélectionnez l'option de suppression.",
+              "Pour modifier les informations d'un revendeur, accédez à la section de gestion des revendeurs et choisissez l'option de modification."
+            ]
+          },
+          {
+            "tag": "Distributeur - Effectuer dépôt",
+            "patterns": [
+              "Comment effectuer un dépôt ?"
+            ],
+            "responses": [
+              "Pour effectuer un dépôt, utilisez la fonctionnalité correspondante dans l'interface. Suivez les instructions pour compléter la transaction."
+            ]
+          },
+          {
+            "tag": "Distributeur - Effectuer transaction",
+            "patterns": [
+              "Comment effectuer une recharge ?",
+              "Comment effectuer un dépôt ?"
+            ],
+            "responses": [
+              "Pour effectuer une recharge, accédez à la section de transactions et choisissez l'option de recharge.",
+              "Pour effectuer un dépôt, utilisez la fonctionnalité dédiée dans l'interface. Suivez les étapes pour finaliser la transaction."
+            ]
+          },
+          {
+            "tag": "Revendeur - Activer validité d'une carte",
+            "patterns": [
+              "Comment activer la validité d'une carte ?",
+              "Comment modifier la validité d'une carte ?"
+            ],
+            "responses": [
+              "Pour activer la validité d'une carte, accédez à la section de gestion des cartes et suivez les instructions.",
+              "Pour modifier la validité d'une carte, utilisez la fonctionnalité correspondante dans l'interface."
+            ]
+          },
+          {
+            "tag": "Revendeur - Recharger un compte",
+            "patterns": [
+              "Comment recharger un compte ?",
+              "Comment consulter le solde de mon compte ?"
+            ],
+            "responses": [
+              "Pour recharger un compte, utilisez la fonctionnalité de recharge dans l'interface.",
+              "Pour consulter le solde de votre compte, accédez à la section de gestion des comptes et trouvez l'option de consultation de solde."
+            ]
+          },
+          {
+            "tag": "Revendeur - Effectuer transaction",
+            "patterns": [
+              "Comment effectuer une recharge ?",
+              "Comment effectuer un retrait ?",
+              "Comment consulter mes commissions ?"
+            ],
+            "responses": [
+              "Pour effectuer une recharge, accédez à la section de transactions et choisissez l'option de recharge.",
+              "Pour effectuer un retrait, utilisez la fonctionnalité dédiée dans l'interface.",
+              "Pour consulter vos commissions, accédez à la section correspondante et trouvez l'option de consultation de commissions."
+            ]
+          },
+          {
+            "tag": "Coorporate",
+            "patterns": [
+              "Quels sont les fonctionnalités disponibles pour Coorporate ?"
+            ],
+            "responses": [
+              "Les fonctionnalités disponibles pour Coorporate incluent... (ajoutez la description des fonctionnalités)"
+            ]
           }
+        
         
         
         
