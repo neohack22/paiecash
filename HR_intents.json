@@ -1665,7 +1665,41 @@
             "responses": [
               "Vous pouvez accéder à la documentation de PaieCash en suivant ce lien : https://documenter.getpostman.com/view/18065687/VUjTm3sU."
             ]
+          },
+          {
+            "tag": "paiement",
+            "patterns": [
+              "Quels sont les modes de paiement acceptés ?",
+              "Comment puis-je effectuer un paiement ?"
+            ],
+            "responses": [
+              "Nous acceptons les paiements par carte de crédit, virement bancaire et PayPal.",
+              "Pour effectuer un paiement, rendez-vous sur notre plateforme de paiement sécurisée et suivez les instructions."
+            ]
+          },
+          {
+            "tag": "inscription_gmail",
+            "patterns": [
+              "Puis-je m'inscrire en utilisant mon compte Gmail ?",
+              "Est-ce possible de créer un compte avec mon adresse Gmail ?"
+            ],
+            "responses": [
+              "Oui, vous pouvez vous inscrire en utilisant votre compte Gmail. Cliquez sur 'Inscription' et sélectionnez l'option de connexion avec Gmail.",
+              "Absolument ! Lors de l'inscription, choisissez l'option 'Connexion avec Gmail' pour créer votre compte."
+            ]
+          },
+          {
+            "tag": "objectifs_generaux",
+            "patterns": [
+              "Quels sont les objectifs généraux du Sprint 3 ?",
+              "Pouvez-vous me dire les buts du Sprint 3 ?"
+            ],
+            "responses": [
+              "Les objectifs généraux du Sprint 3 sont axés sur les domaines du paiement et de l'inscription via Gmail.",
+              "Pour le Sprint 3, nous nous concentrons principalement sur les améliorations liées aux paiements et à l'inscription via Gmail."
+            ]
           }
+        
         
         
         
