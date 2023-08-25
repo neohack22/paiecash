@@ -939,8 +939,79 @@
             "responses": [
               "Les maquettes actuelles de l'application PaieCash sont disponibles pour consultation. Vous pouvez les trouver dans notre document de spécifications fonctionnelles, qui offre un aperçu visuel des interfaces et de l'expérience utilisateur que nous offrons."
             ]
-          }
-        
+          },
+          {
+            "tag": "Qu'est-ce que PaieCash ?",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash est une entreprise innovante opérant en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. L'objectif de PaieCash est de simplifier les transactions et les paiements en ligne pour tous."
+            ]
+          },
+          {
+            "tag": "Comment puis-je me connecter au dashboard admin ?",
+            "patterns": [
+              "Comment accéder au dashboard admin ?"
+            ],
+            "responses": [
+              "Pour accéder au dashboard admin de PaieCash, utilisez le lien suivant : https://pay.paiecash.fr. Utilisez les identifiants suivants : Login - 655261578, Mot de passe - Allen1205@."
+            ]
+          },
+          {
+            "tag": "Comment puis-je me connecter à l'application mobile en tant que client ?",
+            "patterns": [
+              "Comment me connecter à l'application mobile en tant que client ?"
+            ],
+            "responses": [
+              "Pour accéder à l'application mobile en tant que client, utilisez les informations suivantes : Login - 677881215, Mot de passe - 1234."
+            ]
+          },
+          {
+            "tag": "Comment puis-je me connecter à l'application mobile en tant qu'agent ?",
+            "patterns": [
+              "Comment me connecter à l'application mobile en tant qu'agent ?"
+            ],
+            "responses": [
+              "Pour vous connecter à l'application mobile en tant qu'agent, utilisez les identifiants suivants : Login - 12345678, Mot de passe - 0000."
+            ]
+          },
+          {
+            "tag": "Où puis-je me connecter au dashboard Merchant ?",
+            "patterns": [
+              "Où puis-je accéder au dashboard Merchant ?"
+            ],
+            "responses": [
+              "Pour accéder au dashboard Merchant de PaieCash, utilisez le lien suivant : https://pay.paiecash.fr/merchant/auth/login. Utilisez les identifiants : Login - 6555555555, Mot de passe - Allen1205@."
+            ]
+          },
+          {
+            "tag": "Comment puis-je me connecter à l'outil identify ?",
+            "patterns": [
+              "Comment accéder à l'outil identify ?"
+            ],
+            "responses": [
+              "Pour accéder à l'outil identify, utilisez le lien : https://admin.idenfy.com/auth/login. Utilisez les identifiants : Login - etot@paiecash.com, Mot de passe - HD7i9.AKvwzBVzY."
+            ]
+          },
+          {
+            "tag": "Où puis-je tester l'API Paiecash club ?",
+            "patterns": [
+              "Où puis-je tester l'API Paiecash club ?"
+            ],
+            "responses": [
+              "Pour tester l'API Paiecash club, utilisez le jeton API de vos paramètres de compte : https://allsportsapi.com/login. En cas de questions, utilisez notre formulaire de contact : https://allsportsapi.com/contact."
+            ]
+          },
+          {
+            "tag": "Comment puis-je accéder aux maquettes de l'application Paiecash qr ?",
+            "patterns": [
+              "Comment accéder aux maquettes de l'application Paiecash qr ?"
+            ],
+            "responses": [
+              "Pour accéder aux maquettes de l'application Paiecash qr, utilisez le lien : https://qr.frontend.paiecash.fr/. Utilisez les informations de connexion : Email - admin@paiecash.com, Mot de passe - Qwerty15!."
+            ]
+          }			
                 
         
         
