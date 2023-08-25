@@ -1154,7 +1154,68 @@
               "Lorsque vous envoyez de l'argent avec PaieCash, les transferts peuvent être gratuits en fonction de certaines conditions.",
               "Pour profiter de la gratuité, assurez-vous de suivre les critères spécifiés lors de l'envoi d'argent."
             ]
+          },
+          {
+            "tag": "Qu'est-ce qu'un corporate ?",
+            "patterns": [
+              "Qu'est-ce qu'un corporate ?",
+              "Définition de corporate"
+            ],
+            "responses": [
+              "Un corporate désigne un magasin, une boutique, un marchand, un supermarché ou une association."
+            ]
+          },
+          {
+            "tag": "Qu'est-ce qu'un utilisateur PaieCash ?",
+            "patterns": [
+              "Qu'est-ce qu'un utilisateur PaieCash ?",
+              "Définition d'utilisateur PaieCash"
+            ],
+            "responses": [
+              "Un utilisateur PaieCash est une personne inscrite sur l'application mobile PaieCash, ayant effectué le processus KYC (Know Your Customer) et obtenu une carte."
+            ]
+          },
+          {
+            "tag": "Comment devenir un utilisateur PaieCash ?",
+            "patterns": [
+              "Comment devenir un utilisateur PaieCash ?",
+              "Comment s'inscrire sur PaieCash ?"
+            ],
+            "responses": [
+              "Pour devenir un utilisateur PaieCash, il vous suffit de télécharger l'application mobile PaieCash, de suivre le processus d'inscription et de compléter la procédure KYC. Une fois que vous avez obtenu votre carte, vous pourrez commencer à utiliser les services de PaieCash."
+            ]
+          },
+          {
+            "tag": "Quelles sont les fonctionnalités pour les utilisateurs PaieCash ?",
+            "patterns": [
+              "Quelles sont les fonctionnalités pour les utilisateurs PaieCash ?",
+              "Que peut faire un utilisateur PaieCash ?"
+            ],
+            "responses": [
+              "Les utilisateurs PaieCash ont accès à une gamme complète de fonctionnalités, telles que les transferts d'argent, les paiements en ligne, les dépôts et retraits, les échanges de devises, la gestion de comptes utilisateurs, et bien plus encore. L'application offre une solution complète pour gérer vos transactions financières de manière pratique."
+            ]
+          },
+          {
+            "tag": "Quelles sont les différences entre un corporate et un utilisateur PaieCash ?",
+            "patterns": [
+              "Quelles sont les différences entre un corporate et un utilisateur PaieCash ?",
+              "Corporate vs utilisateur PaieCash"
+            ],
+            "responses": [
+              "Un corporate désigne un établissement commercial tel qu'un magasin ou un supermarché, tandis qu'un utilisateur PaieCash est une personne inscrite sur l'application mobile PaieCash, ayant effectué le processus KYC et obtenu une carte. Les fonctionnalités et les avantages peuvent varier en fonction de ces deux catégories."
+            ]
+          },
+          {
+            "tag": "Comment obtenir de l'aide en tant qu'utilisateur PaieCash ?",
+            "patterns": [
+              "Comment obtenir de l'aide en tant qu'utilisateur PaieCash ?",
+              "Assistance pour utilisateurs PaieCash"
+            ],
+            "responses": [
+              "Si vous avez besoin d'aide en tant qu'utilisateur PaieCash, vous pouvez contacter notre équipe d'assistance via l'application mobile ou notre site web. Nous sommes là pour répondre à vos questions et résoudre tout problème que vous pourriez rencontrer."
+            ]
           }
+        
         
   ]
 }
