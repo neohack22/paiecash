@@ -793,8 +793,53 @@
             "responses": [
               "La mise en place du e-commerce sur PaieCash comprend plusieurs étapes, notamment la conception du site web, l'intégration des moyens de paiement, et la création d'interfaces conviviales. Ces étapes visent à offrir une expérience d'achat en ligne fluide et sécurisée."
             ]
+          },
+          {
+            "tag": "Java Spring",
+            "patterns": [
+              "Quelles sont les propositions Java Spring disponibles ?"
+            ],
+            "responses": [
+              "Vous pouvez consulter le cours Udemy sur Spring Boot et RabbitMQ : https://www.udemy.com/course/spring-boot-rabbitmq-course/"
+            ]
+          },
+          {
+            "tag": "RabbitMQ",
+            "patterns": [
+              "Où puis-je apprendre RabbitMQ avec Java Spring ?"
+            ],
+            "responses": [
+              "Vous trouverez un cours Udemy dédié à RabbitMQ avec Spring Boot ici : https://www.udemy.com/course/spring-boot-rabbitmq-course/"
+            ]
+          },
+          {
+            "tag": "React Native",
+            "patterns": [
+              "Où puis-je trouver un cours React Native ?"
+            ],
+            "responses": [
+              "Academind propose un cours sur React Native : https://www.udemy.com/course/react-native-the-practical-guide/"
+            ]
+          },
+          {
+            "tag": "React Native - Guide Complet",
+            "patterns": [
+              "Existe-t-il un guide complet pour apprendre React Native avec ReactJS Hooks ?"
+            ],
+            "responses": [
+              "Oui, découvrez le cours complet sur React Native avec ReactJS Hooks : https://www.udemy.com/course/react-native-le-guide-complet-reactjs-hooks/"
+            ]
+          },
+          {
+            "tag": "En savoir plus sur Shomi App",
+            "patterns": [
+              "Où puis-je obtenir plus d'informations sur l'application Shomi ?"
+            ],
+            "responses": [
+              "Pour en savoir plus sur l'application Shomi, consultez le lien : http://bit.ly/shomiApp"
+            ]
           }
-        
+                
         
         
         
