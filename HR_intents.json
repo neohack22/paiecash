@@ -1343,7 +1343,67 @@
             "responses": [
               "Les fonctionnalités disponibles pour Coorporate incluent... (ajoutez la description des fonctionnalités)"
             ]
+          },
+          {
+            "tag": "Ouverture de session",
+            "patterns": [
+              "Comment ouvrir une session ?",
+              "Quelles sont les étapes pour se connecter ?"
+            ],
+            "responses": [
+              "Pour ouvrir une session, l'utilisateur envoie les informations requises pour se connecter à son compte."
+            ]
+          },
+          {
+            "tag": "Gestion des comptes",
+            "patterns": [
+              "Comment modifier les informations d'un utilisateur ?",
+              "Quelles actions un agent peut-il effectuer sur les comptes ?"
+            ],
+            "responses": [
+              "L'agent peut modifier, supprimer et ajouter les informations d'un utilisateur en utilisant la fonctionnalité de gestion des comptes."
+            ]
+          },
+          {
+            "tag": "Gestion des demandes",
+            "patterns": [
+              "Comment valider ou réfuter une demande d'argent ?",
+              "Quelle est la procédure pour traiter les demandes des utilisateurs ?"
+            ],
+            "responses": [
+              "La fonctionnalité de gestion des demandes permet à l'agent de valider ou de réfuter une requête de l'utilisateur, que ce soit une demande d'argent, de retrait, etc."
+            ]
+          },
+          {
+            "tag": "Gestion des utilisateurs",
+            "patterns": [
+              "Comment l'agent notifie-t-il un utilisateur de la validité de ses informations ?"
+            ],
+            "responses": [
+              "L'agent notifie à l'utilisateur si ses informations sont valides ou non en utilisant la fonctionnalité de gestion des utilisateurs."
+            ]
+          },
+          {
+            "tag": "Devenir parrain",
+            "patterns": [
+              "Comment puis-je devenir parrain ?",
+              "Quelle est la démarche pour devenir parrain ?"
+            ],
+            "responses": [
+              "Vous pouvez devenir parrain en utilisant la fonctionnalité de devenir parrain, qui vous permet d'envoyer votre lien d'inscription à un autre utilisateur."
+            ]
+          },
+          {
+            "tag": "Liste des filleuls",
+            "patterns": [
+              "Comment voir la liste de mes filleuls ?",
+              "Où puis-je consulter les personnes que j'ai parrainées ?"
+            ],
+            "responses": [
+              "Vous pouvez consulter la liste de toutes les personnes que vous avez parrainées en utilisant la fonctionnalité de liste des filleuls."
+            ]
           }
+        
         
         
         

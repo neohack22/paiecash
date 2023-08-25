@@ -677,7 +677,50 @@
       "Vous pouvez effectuer diverses transactions sur PaieCash, notamment des recharges, des retraits, des dépôts et d'autres transactions financières.",
       "Les fonctionnalités de recharges, retraits et dépôts vous offrent la flexibilité nécessaire pour gérer vos fonds à votre convenance."
     ]
+  },
+  {
+    "tag": "QR pour vérifier les réservations",
+    "patterns": [
+      "Comment fonctionne l'émission et la numérisation des billets QR ?",
+      "Quels sont les avantages de l'utilisation des billets QR pour les réservations ?"
+    ],
+    "responses": [
+      "L'émission de billets QR et leur numérisation avec un terminal mobile permettent de vérifier l'état de réservation des passagers et d'afficher un plan de sièges à l'écran pour montrer où s'asseoir.",
+      "Les principaux avantages incluent une vérification rapide du statut de réservation, une réduction du temps d'embarquement par passager, une réduction des charges sur l'équipage et la facilitation du placement des passagers."
+    ]
+  },
+  {
+    "tag": "Service de coupons mobiles",
+    "patterns": [
+      "Comment fonctionne le service de coupons mobiles ?",
+      "Quels sont les avantages de l'introduction des coupons mobiles ?"
+    ],
+    "responses": [
+      "En envoyant des coupons mobiles sur les smartphones des clients et en les lisant avec un scanner de point de vente, un service de coupons peut être introduit avec moins de fardeau et la satisfaction du client sera améliorée.",
+      "Les principaux avantages incluent une introduction à moindre coût, l'élimination des besoins de coupons papier, et l'amélioration de la satisfaction des clients."
+    ]
+  },
+  {
+    "tag": "Code FrameQR® pour la surveillance",
+    "patterns": [
+      "Comment fonctionne le code FrameQR® sur les produits ?",
+      "Quels sont les avantages de la surveillance avec le code FrameQR® ?"
+    ],
+    "responses": [
+      "Le code FrameQR® peut être ajouté sur les produits pour collecter l'historique des informations sur son utilisation. Cela permet de surveiller les contrefaçons et les exportations illégales.",
+      "Les principaux avantages incluent la détection des actions suspectes, la surveillance des contrefaçons et des exportations illégales, et l'amélioration de l'image de marque."
+    ]
+  },
+  {
+    "tag": "Protection des données avec SQRC",
+    "patterns": [
+      "Comment fonctionne la protection des données avec SQRC ?",
+      "Quelle est la différence entre SQRC et le QR Code conventionnel ?"
+    ],
+    "responses": [
+      "Un seul QR Code peut transporter des données publiques et privées. Les données privées ne peuvent être lues qu'avec un lecteur disposant de la clé cryptographique, assurant ainsi la protection des données.",
+      "La différence entre SQRC et le QR Code conventionnel réside dans la sécurité. Le QR Code conventionnel expose toutes les informations, tandis que SQRC permet de rendre l'information privée, en limitant les types d'appareils qui peuvent la lire."
+    ]
   }
-
   ]
 }
