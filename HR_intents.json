@@ -1066,6 +1066,95 @@
               "Le site de présentation des clubs et billetterie de Paiecash est une plateforme où vous pouvez en savoir plus sur nos clubs et événements, ainsi que réserver des billets pour diverses activités.",
               "Utilisez le site de billetterie de Paiecash en naviguant vers la section 'Événements' sur notre site web, sélectionnez l'événement souhaité, choisissez le nombre de billets, suivez les instructions pour le paiement et recevez vos billets électroniques."
             ]
-          }		
+          },
+          {
+            "tag": "Authentification",
+            "patterns": [
+              "Comment fonctionne l'authentification ?",
+              "Quelles sont les étapes de l'authentification ?"
+            ],
+            "responses": [
+              "L'authentification permet aux utilisateurs de se connecter à leur compte PaieCash de manière sécurisée.",
+              "Pour vous authentifier, saisissez votre identifiant et votre mot de passe sur l'écran de connexion."
+            ]
+          },
+          {
+            "tag": "Inscription",
+            "patterns": [
+              "Comment s'inscrire sur PaieCash ?",
+              "Quelles sont les étapes d'inscription ?"
+            ],
+            "responses": [
+              "Pour vous inscrire sur PaieCash, téléchargez l'application, cliquez sur 'Inscription' et suivez les instructions.",
+              "Lors de l'inscription, vous devrez fournir vos informations personnelles et créer un mot de passe."
+            ]
+          },
+          {
+            "tag": "Connection",
+            "patterns": [
+              "Comment se connecter à mon compte PaieCash ?",
+              "Quelles sont les étapes de la connexion ?"
+            ],
+            "responses": [
+              "Pour vous connecter à votre compte PaieCash, ouvrez l'application, saisissez votre identifiant et votre mot de passe, puis appuyez sur 'Se connecter'.",
+              "La connexion vous permet d'accéder à toutes les fonctionnalités de votre compte PaieCash."
+            ]
+          },
+          {
+            "tag": "Transfert d'argent",
+            "patterns": [
+              "Comment effectuer un transfert d'argent ?",
+              "Quelles sont les étapes pour transférer de l'argent ?"
+            ],
+            "responses": [
+              "Le transfert d'argent sur PaieCash est simple. Ouvrez l'application, sélectionnez 'Transfert', saisissez le montant et les détails du destinataire, puis confirmez.",
+              "Le destinataire recevra une notification et pourra retirer l'argent dans un point de retrait autorisé."
+            ]
+          },
+          {
+            "tag": "Transfert entre comptes",
+            "patterns": [
+              "Comment effectuer un transfert entre comptes ?",
+              "Quelles sont les étapes pour transférer de l'argent d'un compte à un autre ?"
+            ],
+            "responses": [
+              "Vous pouvez facilement transférer de l'argent d'un compte à un autre sur PaieCash. Allez dans 'Transfert', sélectionnez 'Compte à compte', choisissez les comptes et saisissez le montant.",
+              "Le montant sera instantanément transféré d'un compte à l'autre."
+            ]
+          },
+          {
+            "tag": "Onboarding des marchands",
+            "patterns": [
+              "Comment se déroule l'onboarding des marchands ?",
+              "Quelles sont les étapes pour enregistrer un marchand sur PaieCash ?"
+            ],
+            "responses": [
+              "L'onboarding des marchands est un processus simple. Contactez nos commerciaux pour en savoir plus sur l'enregistrement des marchands.",
+              "L'enregistrement des marchands permettra aux boutiques et aux callbox d'accepter les paiements par QR code."
+            ]
+          },
+          {
+            "tag": "Parrainage avec commission",
+            "patterns": [
+              "Comment fonctionne le parrainage avec commission ?",
+              "Quelles sont les conditions pour participer au programme de parrainage ?"
+            ],
+            "responses": [
+              "Notre programme de parrainage avec commission vous permet de gagner des récompenses en recommandant PaieCash à vos amis.",
+              "Participez en partageant votre lien de parrainage. Lorsque vos amis s'inscrivent et effectuent des transactions, vous recevez des commissions."
+            ]
+          },
+          {
+            "tag": "Gratuité des transferts",
+            "patterns": [
+              "Comment profiter de la gratuité des transferts ?",
+              "Quelles sont les conditions pour que les transferts soient gratuits ?"
+            ],
+            "responses": [
+              "Lorsque vous envoyez de l'argent avec PaieCash, les transferts peuvent être gratuits en fonction de certaines conditions.",
+              "Pour profiter de la gratuité, assurez-vous de suivre les critères spécifiés lors de l'envoi d'argent."
+            ]
+          }
+        
   ]
 }
