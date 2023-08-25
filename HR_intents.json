@@ -1214,7 +1214,58 @@
             "responses": [
               "Si vous avez besoin d'aide en tant qu'utilisateur PaieCash, vous pouvez contacter notre équipe d'assistance via l'application mobile ou notre site web. Nous sommes là pour répondre à vos questions et résoudre tout problème que vous pourriez rencontrer."
             ]
+          },
+          {
+            "tag": "Qu'est-ce que le modèle de calendrier de projet ?",
+            "patterns": [
+              "Qu'est-ce que le modèle de calendrier de projet ?",
+              "De quoi s'agit-il ?"
+            ],
+            "responses": [
+              "Le modèle de calendrier de projet est une forme modifiée du diagramme de Gantt qui permet de créer un calendrier de projet en plusieurs étapes."
+            ]
+          },
+          {
+            "tag": "Quels sont les éléments du modèle de calendrier de projet ?",
+            "patterns": [
+              "Quels sont les éléments du modèle de calendrier de projet ?",
+              "Quelles informations sont incluses ?"
+            ],
+            "responses": [
+              "Le modèle de calendrier de projet comprend le titre du projet, le nom de l'entreprise, le chef de projet, la date de début du projet, les phases du projet avec les détails pour chaque trimestre, et les activités associées à chaque phase."
+            ]
+          },
+          {
+            "tag": "Comment utiliser le modèle de calendrier de projet ?",
+            "patterns": [
+              "Comment utiliser le modèle de calendrier de projet ?",
+              "Comment mettre en œuvre ce modèle ?"
+            ],
+            "responses": [
+              "Pour utiliser le modèle de calendrier de projet, remplissez les informations telles que le titre du projet, le nom de l'entreprise, le chef de projet, la date de début, les détails des phases et des activités pour chaque trimestre. Cela permet de planifier et suivre les différentes étapes du projet."
+            ]
+          },
+          {
+            "tag": "Quels sont les avantages de ce modèle de calendrier ?",
+            "patterns": [
+              "Quels sont les avantages de ce modèle de calendrier ?",
+              "Pourquoi utiliser ce modèle ?"
+            ],
+            "responses": [
+              "Le modèle de calendrier de projet permet une visualisation claire et structurée des différentes phases et activités d'un projet. Il facilite la planification, le suivi et la communication au sein de l'équipe."
+            ]
+          },
+          {
+            "tag": "Comment le modèle de calendrier de projet diffère-t-il du diagramme de Gantt ?",
+            "patterns": [
+              "Comment le modèle de calendrier de projet diffère-t-il du diagramme de Gantt ?",
+              "Quelle est la différence entre les deux ?"
+            ],
+            "responses": [
+              "Le modèle de calendrier de projet est une variation du diagramme de Gantt qui se concentre sur la planification en plusieurs étapes. Il affiche les phases du projet avec les activités correspondantes pour chaque trimestre, offrant ainsi une vue plus détaillée du calendrier de projet."
+            ]
           }
+        
         
         
   ]
