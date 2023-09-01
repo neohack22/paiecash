@@ -1905,8 +1905,27 @@
             "responses": [
               "L'envoi de la facture par e-mail est une fonctionnalité utile pour les utilisateurs de PaieCash. Vous pourrez envoyer des factures à vos clients en utilisant leur adresse e-mail. Cette fonction sera prochainement disponible."
             ]
+          },
+          {
+            "tag": "Authentification",
+            "patterns": [
+              "Comment s'authentifier avec Google ou Facebook ?",
+              "Quelle méthode d'authentification est utilisée ?"
+            ],
+            "responses": [
+              "L'authentification se fait en utilisant un access_token fourni par Google ou Facebook. Vous devez passer cet access_token dans le corps de la requête POST pour vous authentifier. Cela permettra la récupération des informations de l'utilisateur si l'access_token correspond."
+            ]
+          },
+          {
+            "tag": "Activation/Désactivation de compte",
+            "patterns": [
+              "Comment activer ou désactiver un compte utilisateur ?",
+              "Quelle méthode est utilisée pour activer/désactiver un compte ?"
+            ],
+            "responses": [
+              "Pour activer ou désactiver un compte utilisateur, vous devez effectuer une requête PUT en incluant l'ID de l'utilisateur en tant qu'entête de la requête. Cela permet de gérer l'état du compte de l'utilisateur."
+            ]
           }
-        
         
         
         
