@@ -1925,6 +1925,102 @@
             "responses": [
               "Pour activer ou désactiver un compte utilisateur, vous devez effectuer une requête PUT en incluant l'ID de l'utilisateur en tant qu'entête de la requête. Cela permet de gérer l'état du compte de l'utilisateur."
             ]
+          },
+          {
+            "tag": "Splashscreen",
+            "patterns": [
+              "Mise à jour Splashscreen : uniquement"
+            ],
+            "responses": [
+              "La mise à jour du Splashscreen est uniquement disponible pour le moment."
+            ]
+          },
+          {
+            "tag": "Backend",
+            "patterns": [
+              "Type String is not a subtype of int : backend"
+            ],
+            "responses": [
+              "L'erreur 'Type String is not a subtype of int' est liée au backend. Veuillez vérifier le type de données que vous utilisez dans cette partie du code."
+            ]
+          },
+          {
+            "tag": "Front",
+            "patterns": [
+              "Libellé des boutons Front",
+              "Permettre d'afficher les détails d'un ticket déjà validé",
+              "Bouton Scanner un ticket client",
+              "Bouton Scanner un produit",
+              "Scroller pour voir les détails du ticket sur la vue du QR code du produit",
+              "Scroller les produits à payer",
+              "Compléter les informations sur un produit scanné",
+              "Ressortir la date de fabrication d'un produit",
+              "Pays de fabrication d'un produit",
+              "Lieu de fabrication d'un produit",
+              "Usine de fabrication d'un produit",
+              "Produit écologique ou non",
+              "Qualité du produit (A, B, C ou D)",
+              "Ajout des boutons + et - sur un produit",
+              "Description sur le bouton QR code dans le panier",
+              "Finaliser la promotion sur plusieurs produits",
+              "Générer les QR code pour les produits non référencés",
+              "Créer une promotion sur un produit",
+              "Notification sur un produit en promotion",
+              "Formulaire d'inscription en ligne par QR code pour les utilisateurs",
+              "Tableau de bord front",
+              "Date de fin de promotion",
+              "Récupérer les doses depuis des fichiers en temps réel",
+              "Formats de fichiers (Excel, ERP, Carrefour)",
+              "API pour exporter et importer des données",
+              "Se connecter avec les ERP (Odoo, Dolibarr, Monoprix, Carrefour)",
+              "Cas d'accès à leurs bases de données",
+              "Cas avec une API fournie par eux",
+              "Remarque sur le dashboard en cas de scan répété du même produit",
+              "Mise en place du cas où un utilisateur s'enregistre une fois",
+              "Générer les QR code d'inscription pour les utilisateurs",
+              "Afficher le QR code du compte dans le profil de l'utilisateur",
+              "Automatiser la monnaie du supermarché et la TVA par défaut en fonction de la position",
+              "Informations requises pour enregistrer un utilisateur",
+              "Afficher le nom du client sur les tickets dans la liste des QR codes",
+              "Trois champs pour le numéro de téléphone",
+              "Retirer les paramètres généraux du dashboard de la caisse",
+              "Scan du QR code pour s'enregistrer automatiquement",
+              "Afficher les comptes existants",
+              "Afficher l'email de l'utilisateur"
+            ],
+            "responses": [
+              "Les libellés des boutons Front sont 'Nouveau ticket - ticket non payé' et 'tickets payés'.",
+              "Vous pouvez afficher les détails d'un ticket même s'il a déjà été validé.",
+              "Le bouton 'Scanner un ticket client' permet de scanner le QR code d'un ticket client.",
+              "Le bouton 'Scanner un produit' permet de scanner le QR code d'un produit.",
+              "Sur la vue du QR code du produit, vous pouvez scroller pour voir les détails du ticket.",
+              "Pour les tickets à payer, vous pouvez scroller pour voir les produits à payer.",
+              "Pour compléter les informations sur un produit scanné, vous pouvez renseigner la date de fabrication, le pays de fabrication, le lieu de fabrication, l'usine de fabrication, le statut écologique et la qualité du produit (A, B, C ou D).",
+              "Sur un produit, vous pouvez utiliser les boutons + et - pour ajuster la quantité.",
+              "Dans le panier, la description est ajoutée sur le bouton QR code.",
+              "Pour finaliser la promotion sur plusieurs produits, par exemple '4 achetés, 1 offert', l'affichage de la promotion se fait sur un produit.",
+              "Vous pouvez générer des QR code pour les produits non référencés.",
+              "Le gestionnaire peut créer une promotion sur un produit.",
+              "Une notification est affichée sur les produits en promotion.",
+              "Les utilisateurs peuvent remplir un formulaire d'inscription en ligne en scannant un QR code.",
+              "Le tableau de bord front comporte une date de fin de promotion.",
+              "Pour récupérer les doses, vous pouvez utiliser des fichiers en temps réel depuis des bases de données PostgreSQL, Odoo et Dolibarr.",
+              "Les formats de fichiers pris en charge sont Excel, ERP, Carrefour.",
+              "Nous fournissons une API pour exporter et importer des données.",
+              "Vous pouvez vous connecter avec les ERP (Odoo, Dolibarr, Monoprix, Carrefour).",
+              "Il y a deux cas possibles : l'accès à leurs bases de données ou l'utilisation d'une API fournie par eux.",
+              "En cas de scan répété du même produit, la quantité est ajustée automatiquement.",
+              "Si un utilisateur s'enregistre une fois, ses informations sont automatiquement renseignées pour les prochaines utilisations.",
+              "Les QR code d'inscription peuvent être générés pour les utilisateurs.",
+              "Dans le profil de l'utilisateur, vous pouvez afficher et télécharger le QR code de son compte.",
+              "La monnaie du supermarché et la TVA par défaut sont automatisées en fonction de la position.",
+              "Pour enregistrer un utilisateur, nous avons besoin de son nom, de son email et de son numéro de téléphone.",
+              "Dans la liste des QR codes, le nom du client est affiché.",
+              "Il y a trois champs pour le numéro de téléphone.",
+              "Les paramètres généraux ont été retirés du dashboard de la caisse.",
+              "Vous pouvez scanner un QR code pour vous enregistrer automatiquement.",
+              "Les comptes existants sont affichés avec leur email."
+            ]
           }
         
         
