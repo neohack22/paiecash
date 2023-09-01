@@ -793,6 +793,143 @@
       "2. Supprimer mes données personnelles",
       "Votre adresse de messagerie (obligatoire)"
     ]
+  },
+  {
+    "tag": "Qu'est-ce que PaieCash QR Code ?",
+    "patterns": [
+      "Qu'est-ce que PaieCash QR Code ?"
+    ],
+    "responses": [
+      "PaieCash QR Code est une solution de tickets de caisse dématérialisés via un QR code. Placée directement à la caisse de votre magasin, elle vous permet de récupérer votre facture ou ticket de caisse immédiatement et de façon permanente tout en conservant vos droits de garantie."
+    ]
+  },
+  {
+    "tag": "Comment s'inscrire sur l'application mobile ?",
+    "patterns": [
+      "Comment s'inscrire sur l'application mobile ?"
+    ],
+    "responses": [
+      "Vous pouvez vous inscrire sur l'application mobile de PaieCash QR Code de deux manières : en utilisant votre compte Google ou Facebook, ou en vous inscrivant par e-mail avec l'envoi d'un code de vérification."
+    ]
+  },
+  {
+    "tag": "Comment gérer le panier utilisateur ?",
+    "patterns": [
+      "Comment gérer le panier utilisateur ?"
+    ],
+    "responses": [
+      "Vous pouvez gérer votre panier utilisateur à travers l'application mobile. Ajoutez des produits, modifiez les quantités et supprimez des éléments selon vos besoins."
+    ]
+  },
+  {
+    "tag": "Quels sont les moyens de paiement acceptés ?",
+    "patterns": [
+      "Quels sont les moyens de paiement acceptés ?"
+    ],
+    "responses": [
+      "Vous pouvez régler votre facture via différents moyens de paiement, y compris PaieCash, Google Pay, Apple Pay, carte bancaire, et d'autres options."
+    ]
+  },
+  {
+    "tag": "Exemples d'applications concurrentes",
+    "patterns": [
+      "Pouvez-vous donner des exemples d'applications concurrentes ?"
+    ],
+    "responses": [
+      "Voici quelques exemples d'applications concurrentes similaires à PaieCash QR Code :",
+      "- Limpidius : [Lien vers leur site Web](https://limpidius.com/fr_fr/solutions/dematerialisation)",
+      "- Tickie : [Lien vers leur site Web](https://www.tickie.io/en)"
+    ]
+  },
+  {
+    "tag": "Comment fonctionne le processus de vente ?",
+    "patterns": [
+      "Comment fonctionne le processus de vente ?"
+    ],
+    "responses": [
+      "Le processus de vente commence lorsque les joueurs ou les clients scannent les QR codes ou les codes-barres des produits avec l'application mobile. Ils construisent ensuite leur panier d'achats. Le caissier scanne le QR code affiché sur le téléphone du client, et le client peut régler sa facture via différents moyens de paiement."
+    ]
+  },
+  {
+    "tag": "Comment les fournisseurs de produits utilisent-ils l'application ?",
+    "patterns": [
+      "Comment les fournisseurs de produits utilisent-ils l'application ?"
+    ],
+    "responses": [
+      "Les fournisseurs de produits peuvent utiliser l'application pour suivre la quantité de produits restants en stock dans le magasin. Une API facilite les paiements et la gestion des stocks."
+    ]
+  },
+  {
+    "tag": "Quelles sont les fonctionnalités du tableau de bord web ?",
+    "patterns": [
+      "Quelles sont les fonctionnalités du tableau de bord web ?"
+    ],
+    "responses": [
+      "Le tableau de bord web offre de nombreuses fonctionnalités, notamment la gestion de caisse, les bons cadeaux, la gestion complète du processus de vente, la gestion des produits hors taxe, la gestion des produits inconnus, la gestion des programmes de fidélité, la gestion du fond de caisse, l'historique de caisse, l'impression de reçus, l'impression des étiquettes produit, la mise en attente des clients, le plan de salle, le retour et l'échange de produit, le retrait et le dépôt d'espèces, la gestion des stocks, et bien plus encore."
+    ]
+  },
+  {
+    "tag": "Comment puis-je obtenir de l'aide en cas de problème ?",
+    "patterns": [
+      "Comment puis-je obtenir de l'aide en cas de problème ?"
+    ],
+    "responses": [
+      "Si vous avez besoin d'aide ou rencontrez un problème, vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à chaque étape."
+    ]
+  },
+  {
+    "tag": "Qu'est-ce que PaieCash QR Code ?",
+    "patterns": [
+      "Qu'est-ce que PaieCash QR Code ?"
+    ],
+    "responses": [
+      "PaieCash QR Code est une solution de tickets de caisse dématérialisés via un QR code. Placé directement à la caisse de votre magasin, elle vous permet de récupérer votre facture ou ticket de caisse immédiatement et de façon permanente tout en conservant vos droits de garantie."
+    ]
+  },
+  {
+    "tag": "Comment fonctionne PaieCash QR Code ?",
+    "patterns": [
+      "Comment fonctionne PaieCash QR Code ?"
+    ],
+    "responses": [
+      "Les utilisateurs scannent les QR codes ou les codes-barres des produits et construisent leur panier à travers l'application mobile. Le caissier scanne ensuite le QR code affiché sur le téléphone du client. Le client règle sa facture via différents moyens de paiement."
+    ]
+  },
+  {
+    "tag": "Quelles sont les fonctionnalités de PaieCash QR Code ?",
+    "patterns": [
+      "Quelles sont les fonctionnalités de PaieCash QR Code ?"
+    ],
+    "responses": [
+      "PaieCash QR Code propose les fonctionnalités suivantes : les joueurs et clients paient, le cashback, les points de fidélité. Le fournisseur de produit peut voir la quantité de produit restante du magasin. Il y a également une API pour faciliter les paiements et gérer le stock."
+    ]
+  },
+  {
+    "tag": "Comment puis-je devenir un utilisateur de PaieCash QR Code ?",
+    "patterns": [
+      "Comment puis-je devenir un utilisateur de PaieCash QR Code ?"
+    ],
+    "responses": [
+      "Pour devenir un utilisateur de PaieCash QR Code, vous pouvez scanner le QR code d'un supermarché qui utilise PaieCash. Cela facilitera votre inscription en scannant simplement le QR code."
+    ]
+  },
+  {
+    "tag": "Quelles sont les étapes pour démarrer un achat avec PaieCash QR Code ?",
+    "patterns": [
+      "Quelles sont les étapes pour démarrer un achat avec PaieCash QR Code ?"
+    ],
+    "responses": [
+      "Pour démarrer un achat avec PaieCash QR Code, suivez ces étapes : scannez le QR code ou le code-barres du produit, construisez votre panier via l'application mobile, faites scanner le QR code par le caissier, réglez votre facture via différents moyens de paiement."
+    ]
+  },
+  {
+    "tag": "Quelles sont les fonctionnalités à venir de PaieCash QR Code ?",
+    "patterns": [
+      "Quelles sont les fonctionnalités à venir de PaieCash QR Code ?"
+    ],
+    "responses": [
+      "Les fonctionnalités à venir de PaieCash QR Code comprennent la gestion de caisse, les bons cadeaux, la gestion complète du processus de vente, la gestion des produits hors taxe, des programmes de fidélité, du fond de caisse, de l'historique de caisse, de l'impression de reçus, des étiquettes produit, et bien plus encore."
+    ]
   }
   ]
 }
