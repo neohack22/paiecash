@@ -721,6 +721,78 @@
       "Un seul QR Code peut transporter des données publiques et privées. Les données privées ne peuvent être lues qu'avec un lecteur disposant de la clé cryptographique, assurant ainsi la protection des données.",
       "La différence entre SQRC et le QR Code conventionnel réside dans la sécurité. Le QR Code conventionnel expose toutes les informations, tandis que SQRC permet de rendre l'information privée, en limitant les types d'appareils qui peuvent la lire."
     ]
+  },
+  {
+    "tag": "Qui sommes-nous ?",
+    "patterns": [
+      "Qui sommes-nous ?"
+    ],
+    "responses": [
+      "Vous pouvez consulter nos Mentions Légales disponibles sur notre site internet paiecashqr.com."
+    ]
+  },
+  {
+    "tag": "Utilisation des données personnelles collectées",
+    "patterns": [
+      "Quand collectez-vous des données personnelles ?"
+    ],
+    "responses": [
+      "Dans le cadre de la navigation sur le site web, dans l’envoi de formulaires ou le passage de commandes, des données personnelles sont collectées."
+    ]
+  },
+  {
+    "tag": "Statistiques du site et mesure d’audience",
+    "patterns": [
+      "Comment utilisez-vous les cookies ?"
+    ],
+    "responses": [
+      "Pour améliorer le parcours sur notre site internet et mieux comprendre nos utilisateurs, nous utilisons des services tiers qui se servent de cookies pour vous identifier."
+    ]
+  },
+  {
+    "tag": "Gérer votre consentement",
+    "patterns": [
+      "Que se passe-t-il lorsque je remplis un formulaire de contact ?"
+    ],
+    "responses": [
+      "Lorsque vous remplissez un formulaire de contact, vos données saisies sont enregistrées automatiquement dans notre base de données et votre demande est transmise par e-mail à notre équipe."
+    ]
+  },
+  {
+    "tag": "Stockage des informations de paiement",
+    "patterns": [
+      "Stockez-vous les informations de paiement ?"
+    ],
+    "responses": [
+      "Si notre site internet a déployé une option e-commerce, sachez que nous stockons toutes les informations de livraison, de facturation et tous les détails des commandes. Nous ne stockons cependant pas vos numéros de carte bancaire. L’étape du paiement est sécurisée et externalisée via un prestataire de service de paiement."
+    ]
+  },
+  {
+    "tag": "Durées de conservation des données",
+    "patterns": [
+      "Pendant combien de temps conservez-vous mes données personnelles ?"
+    ],
+    "responses": [
+      "Pour votre information, notre système e-commerce peut être amené à conserver vos données personnelles selon les durées suivantes :",
+      "Conservation des comptes inactifs : 1 an",
+      "Conservation des commandes en attente : 1 an",
+      "Conservation des commandes échouées : 1 an",
+      "Conservation des commandes annulées : 1 an",
+      "Conservation des commandées terminées : 1 an, en cas de produits téléchargeables, vous êtes tenus de les stocker dans un endroit sécurisé avant suppression automatique."
+    ]
+  },
+  {
+    "tag": "Extraction & suppression des données",
+    "patterns": [
+      "Comment puis-je demander l'extraction de mes données personnelles ?",
+      "Comment puis-je demander la suppression de mes données personnelles ?"
+    ],
+    "responses": [
+      "Sélectionnez un type de demande et soumettez votre demande via notre adresse de contact :",
+      "1. Exporter mes données personnelles",
+      "2. Supprimer mes données personnelles",
+      "Votre adresse de messagerie (obligatoire)"
+    ]
   }
   ]
 }
