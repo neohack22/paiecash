@@ -1815,7 +1815,98 @@
             "responses": [
               "Si vous avez besoin d'aide, vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à chaque étape."
             ]
+          },
+          {
+            "tag": "Finalisation des bugs",
+            "patterns": [
+              "Comment se déroule la finalisation des bugs sur l'apk ?"
+            ],
+            "responses": [
+              "La finalisation des bugs sur l'apk est une étape importante de notre travail. Elle consiste à identifier, signaler et corriger les problèmes techniques dans l'application mobile pour assurer son bon fonctionnement. Cette étape est effectuée par notre équipe de développement sous la supervision de Steves."
+            ]
+          },
+          {
+            "tag": "Système de promotion sur les produits",
+            "patterns": [
+              "Pouvez-vous expliquer le système de promotion sur les produits ?"
+            ],
+            "responses": [
+              "Bien sûr ! Notre système de promotion sur les produits est conçu pour offrir des remises spéciales et des offres attractives aux utilisateurs de PaieCash. Cela permet aux utilisateurs d'obtenir des produits à des prix avantageux. Cette fonctionnalité est opérationnelle et prête à être utilisée."
+            ]
+          },
+          {
+            "tag": "Notifications des événements",
+            "patterns": [
+              "Comment fonctionnent les notifications des événements ?"
+            ],
+            "responses": [
+              "Nos notifications d'événements sont conçues pour tenir nos utilisateurs informés des dernières actualités et des événements importants liés à PaieCash. Vous recevrez des notifications en temps réel sur votre application mobile ou par e-mail, selon vos préférences."
+            ]
+          },
+          {
+            "tag": "Intégration de l'API",
+            "patterns": [
+              "Pouvez-vous expliquer l'intégration de l'API ?"
+            ],
+            "responses": [
+              "L'intégration de l'API est une étape cruciale de notre projet. Elle permet à PaieCash de se connecter à d'autres systèmes et sources de données, améliorant ainsi ses fonctionnalités. Cette étape est actuellement en cours de développement et sera bientôt disponible."
+            ]
+          },
+          {
+            "tag": "Avancement sur le site vitrine Paiecash Club",
+            "patterns": [
+              "Où en est l'avancement sur le site vitrine Paiecash Club ?"
+            ],
+            "responses": [
+              "Nous faisons des progrès constants sur le site vitrine Paiecash Club. Nous nous inspirons de l'exemple de Bamboutos pour créer un site web attrayant et informatif pour nos utilisateurs. Restez à l'écoute pour les mises à jour."
+            ]
+          },
+          {
+            "tag": "Finalisation des bugs par Rick",
+            "patterns": [
+              "Comment se déroule la finalisation des bugs par Rick ?"
+            ],
+            "responses": [
+              "Rick est chargé de la finalisation des bugs. Il travaille en étroite collaboration avec l'équipe de développement pour identifier et résoudre les problèmes restants dans l'application. Cette étape est essentielle pour garantir la qualité de PaieCash."
+            ]
+          },
+          {
+            "tag": "Swagger de l'API de Paiecash",
+            "patterns": [
+              "Où puis-je trouver le swagger de l'API de Paiecash ?"
+            ],
+            "responses": [
+              "Le Swagger de l'API de Paiecash est en cours de préparation. Une fois prêt, il sera disponible pour les utilisateurs afin de faciliter l'importation et l'exportation de données produits."
+            ]
+          },
+          {
+            "tag": "Inscription via le scan QR code",
+            "patterns": [
+              "Comment puis-je m'inscrire via le scan QR code ?"
+            ],
+            "responses": [
+              "L'inscription via le scan QR code est une fonctionnalité pratique de PaieCash. Vous pouvez vous inscrire en scannant un QR code avec votre appareil mobile. Cette option sera bientôt disponible."
+            ]
+          },
+          {
+            "tag": "Récupération en temps réel des données depuis Odoo",
+            "patterns": [
+              "Comment fonctionne la récupération en temps réel des données depuis Odoo ?"
+            ],
+            "responses": [
+              "La récupération en temps réel des données depuis Odoo permet d'obtenir des informations actualisées directement depuis cette source de données. Cela améliorera la précision des données sur PaieCash et sera bientôt intégré."
+            ]
+          },
+          {
+            "tag": "Envoi de la facture par e-mail",
+            "patterns": [
+              "Comment puis-je envoyer la facture par e-mail à un client ?"
+            ],
+            "responses": [
+              "L'envoi de la facture par e-mail est une fonctionnalité utile pour les utilisateurs de PaieCash. Vous pourrez envoyer des factures à vos clients en utilisant leur adresse e-mail. Cette fonction sera prochainement disponible."
+            ]
           }
+        
         
         
         
