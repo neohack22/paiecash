@@ -1085,7 +1085,63 @@
     "responses": [
       "Notre équipe d'assistance est disponible pour répondre à vos questions et résoudre tout problème que vous pourriez rencontrer."
     ]
+  },
+  {
+    "tag": "suivi_commande",
+    "patterns": [
+      "Comment puis-je suivre l'état de ma commande ?",
+      "Où puis-je trouver des informations sur ma commande ?",
+      "Quel est le statut de ma commande ?"
+    ],
+    "responses": [
+      "Connectez-vous à votre compte et accédez à la section 'Suivi des commandes' pour obtenir des informations détaillées sur l'état actuel de votre commande."
+    ]
+  },
+  {
+    "tag": "exporter_donnees",
+    "patterns": [
+      "Comment exporter les données de suivi des ventes ?",
+      "Je veux télécharger les données de suivi des ventes. Comment faire ?",
+      "Quels formats sont disponibles pour l'export des données ?"
+    ],
+    "responses": [
+      "Vous pouvez exporter les données de suivi des ventes au format CSV, MS-Excel ou TXT. Allez dans la section 'Export' et choisissez le format souhaité pour télécharger les données."
+    ]
+  },
+  {
+    "tag": "mise_a_jour_compte",
+    "patterns": [
+      "Comment puis-je mettre à jour les informations de mon compte vendeur ?",
+      "Je souhaite modifier les détails de mon compte. Que dois-je faire ?",
+      "Où trouver la section de mise à jour du profil vendeur ?"
+    ],
+    "responses": [
+      "Pour mettre à jour les informations de votre compte vendeur, accédez à la section 'Profil' et suivez les étapes pour modifier les détails nécessaires."
+    ]
+  },
+  {
+    "tag": "stock_produit",
+    "patterns": [
+      "Comment savoir si un produit est en stock ?",
+      "Je veux vérifier la disponibilité d'un produit. Comment faire ?",
+      "Les produits que je souhaite acheter sont-ils disponibles ?"
+    ],
+    "responses": [
+      "Consultez la section 'Suivi des stocks' pour vérifier la disponibilité des produits. Les quantités d'entrée, de sortie et les dates associées sont disponibles pour vous aider à suivre les niveaux de stock."
+    ]
+  },
+  {
+    "tag": "service_client",
+    "patterns": [
+      "Comment contacter le service client pour des questions spécifiques sur ma commande ?",
+      "J'ai des questions sur ma commande. Comment puis-je contacter le service client ?",
+      "Où puis-je trouver de l'aide pour des problèmes liés à ma commande ?"
+    ],
+    "responses": [
+      "Pour des questions spécifiques sur votre commande, utilisez le formulaire de contact dans la section 'Service Client' ou envoyez un e-mail à l'adresse fournie pour obtenir une assistance rapide."
+    ]
   }
+
 
   ]
 }
