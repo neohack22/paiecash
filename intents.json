@@ -1608,7 +1608,108 @@
     "responses": [
       "Si vous avez des questions ou des préoccupations, notre équipe d'assistance est là pour vous aider. Utilisez notre formulaire de contact sur le site ou envoyez-nous un e-mail à l'adresse indiquée sur notre page de support."
     ]
+  },
+  {
+    "tag": "qu_est_ce_que_paiecash",
+    "patterns": [
+      "Qu'est-ce que Paiecash ?",
+      "Que propose Paiecash ?"
+    ],
+    "responses": [
+      "Paiecash est une plateforme qui propose une gamme de services de paiement et de recharge, tels que les recharges de type OrangeMoney, CarteBancaire et MtnMoney, ainsi que des paiements et des achats de tickets. Notre plateforme vise à simplifier vos transactions financières."
+    ]
+  },
+  {
+    "tag": "utilisation_services_recharge",
+    "patterns": [
+      "Comment puis-je utiliser les services de recharge sur Paiecash ?",
+      "Quelles méthodes de recharge puis-je utiliser sur Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez recharger votre compte en utilisant des méthodes telles que OrangeMoney, CarteBancaire et MtnMoney. Sélectionnez simplement le type de recharge que vous préférez et suivez les instructions pour effectuer la transaction."
+    ]
+  },
+  {
+    "tag": "avantages_chatbots",
+    "patterns": [
+      "Quels sont les avantages de l'utilisation de chatbots sur Paiecash ?",
+      "Pourquoi devrais-je utiliser des chatbots sur Paiecash ?"
+    ],
+    "responses": [
+      "Les chatbots sur Paiecash vous permettent de poser des questions fréquentes, d'obtenir des réponses instantanées et de gérer vos transactions de manière efficace. Cela simplifie votre expérience utilisateur et réduit le temps d'attente pour obtenir de l'aide."
+    ]
+  },
+  {
+    "tag": "paiements_via_paiecash",
+    "patterns": [
+      "Puis-je effectuer des paiements via Paiecash ?",
+      "Comment puis-je effectuer un paiement sur Paiecash ?"
+    ],
+    "responses": [
+      "Oui, Paiecash offre la possibilité d'effectuer des paiements à partir de votre compte. Vous pouvez associer un compte à votre paiement et suivre le processus de paiement facilement."
+    ]
+  },
+  {
+    "tag": "obtenir_de_l_aide",
+    "patterns": [
+      "Comment puis-je obtenir de l'aide en cas de problème sur Paiecash ?",
+      "Que faire si j'ai des problèmes avec Paiecash ?"
+    ],
+    "responses": [
+      "Si vous rencontrez des problèmes ou avez des questions, vous pouvez utiliser notre service de chatbot pour obtenir des réponses rapides. Si le problème persiste, vous pouvez également contacter notre équipe d'assistance via les coordonnées fournies sur notre site web."
+    ]
+  },
+  {
+    "tag": "fonctionnalites_geolocalisation",
+    "patterns": [
+      "Est-ce que Paiecash propose des fonctionnalités de géolocalisation ?",
+      "Comment puis-je utiliser la géolocalisation sur Paiecash ?"
+    ],
+    "responses": [
+      "Oui, Paiecash propose des fonctionnalités de géolocalisation pour faciliter la recherche de lieux tels que les stades et les points de recharge. Cela vous aide à trouver rapidement les informations dont vous avez besoin."
+    ]
+  },
+  {
+    "tag": "creation_compte",
+    "patterns": [
+      "Comment puis-je créer un compte Paiecash ?",
+      "Quels sont les étapes pour m'inscrire sur Paiecash ?"
+    ],
+    "responses": [
+      "Pour créer un compte sur Paiecash, visitez notre site web et suivez les instructions d'inscription. Vous devrez fournir des informations de base et créer un identifiant unique pour votre compte."
+    ]
+  },
+  {
+    "tag": "temps_traitement_paiement",
+    "patterns": [
+      "Combien de temps faut-il pour traiter un paiement sur Paiecash ?",
+      "Quelle est la durée de traitement des paiements sur Paiecash ?"
+    ],
+    "responses": [
+      "Le temps de traitement des paiements sur Paiecash dépend du type de transaction et du mode de paiement que vous choisissez. En général, la plupart des paiements sont traités en quelques minutes à quelques heures."
+    ]
+  },
+  {
+    "tag": "mise_a_jour_informations_compte",
+    "patterns": [
+      "Comment mettre à jour mes informations de compte sur Paiecash ?",
+      "Puis-je modifier les détails de mon compte Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez mettre à jour vos informations de compte en accédant à votre profil sur Paiecash. Vous aurez la possibilité de modifier vos détails personnels et vos préférences."
+    ]
+  },
+  {
+    "tag": "support_en_plusieurs_langues",
+    "patterns": [
+      "Est-ce que Paiecash offre un support en plusieurs langues ?",
+      "Dans quelles langues puis-je obtenir de l'aide sur Paiecash ?"
+    ],
+    "responses": [
+      "Actuellement, Paiecash offre un support en langue [indiquez les langues prises en charge]. Nous travaillons constamment pour étendre notre support à d'autres langues dans le futur."
+    ]
   }
+
 
 
 
