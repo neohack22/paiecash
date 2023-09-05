@@ -1140,7 +1140,96 @@
     "responses": [
       "Pour des questions spécifiques sur votre commande, utilisez le formulaire de contact dans la section 'Service Client' ou envoyez un e-mail à l'adresse fournie pour obtenir une assistance rapide."
     ]
+  },
+  {
+    "tag": "paiecash_bi_qu'est-ce_que",
+    "patterns": [
+      "Qu'est-ce que Paiecash bi ?",
+      "Qu'est-ce que Paiecash bi ?",
+      "Paiecash bi, c'est quoi ?"
+    ],
+    "responses": [
+      "Paiecash bi est une plateforme innovante qui propose des solutions dans les domaines de la veille technologique, de l'exploitation de données (data mining), de la science des données (data science), de la business intelligence pour le marketing, de la gestion des actifs d'entreprise (asset management), ainsi que de l'intelligence artificielle pour le marketing et les performances sportives."
+    ]
+  },
+  {
+    "tag": "comment_paiecash_bi_peut_aider",
+    "patterns": [
+      "Comment Paiecash bi peut-il aider mon entreprise ?",
+      "En quoi Paiecash bi peut-il être bénéfique pour mon entreprise ?",
+      "Quels avantages Paiecash bi peut-il apporter à mon entreprise ?"
+    ],
+    "responses": [
+      "Paiecash bi offre une gamme complète de solutions, de l'exploration des données à l'intelligence artificielle, pour optimiser votre activité. Vous pouvez bénéficier d'une meilleure compréhension de vos données, d'une amélioration de votre marketing et de l'automatisation de certains processus."
+    ]
+  },
+  {
+    "tag": "activation_de_partenariat",
+    "patterns": [
+      "Qu'est-ce que l'activation de partenariat, comme dans le cas de l'ASM Clermont Auvergne ?",
+      "Pouvez-vous expliquer ce que signifie l'activation de partenariat, en particulier dans le contexte de l'ASM Clermont Auvergne ?",
+      "L'activation de partenariat, c'est quoi, notamment dans le cas de l'ASM Clermont Auvergne ?"
+    ],
+    "responses": [
+      "L'activation de partenariat consiste à utiliser des initiatives créatives pour mettre en valeur les relations de partenariat. Dans le cas de l'ASM Clermont Auvergne, l'activation a permis à la Banque Populaire de renforcer son partenariat en offrant des récompenses aux supporters, tout en collectant des données pour des campagnes futures."
+    ]
+  },
+  {
+    "tag": "offre_e-commerce_et_merchandising",
+    "patterns": [
+      "Comment puis-je profiter de l'offre E-commerce et merchandising de Paiecash bi ?",
+      "Quels avantages puis-je obtenir de l'offre E-commerce et merchandising de Paiecash bi ?",
+      "En quoi consiste l'offre E-commerce et merchandising de Paiecash bi ?"
+    ],
+    "responses": [
+      "L'offre E-commerce et merchandising de Paiecash bi vous permet de dynamiser vos ventes en ligne grâce à des stratégies marketing ciblées et à une optimisation de la présentation de vos produits. Vous pouvez améliorer l'expérience d'achat de vos clients tout en augmentant vos revenus."
+    ]
+  },
+  {
+    "tag": "mise_en_place_chatbot_service_client",
+    "patterns": [
+      "Comment puis-je mettre en place un chatbot pour mon service client ?",
+      "Quelles étapes dois-je suivre pour intégrer un chatbot à mon service client grâce à Paiecash bi ?",
+      "Pouvez-vous m'expliquer comment avoir un chatbot pour mon service client avec Paiecash bi ?"
+    ],
+    "responses": [
+      "Paiecash bi propose des solutions avancées, y compris la mise en place de chatbots sur vos médias sociaux. Ces chatbots peuvent réduire la charge de travail de votre service client, améliorer les temps de réponse et fournir aux clients un moyen pratique d'obtenir les informations dont ils ont besoin."
+    ]
+  },
+  {
+    "tag": "personnalisation_campagnes_emailing_et_sms",
+    "patterns": [
+      "Puis-je personnaliser les campagnes emailing et SMS grâce à Paiecash bi ?",
+      "Comment puis-je personnaliser mes campagnes emailing et SMS avec l'aide de Paiecash bi ?",
+      "Quelles sont les possibilités de personnalisation des campagnes emailing et SMS offertes par Paiecash bi ?"
+    ],
+    "responses": [
+      "Absolument, en collectant des données à partir de jeux concours comme celui de l'ASM Clermont Auvergne, vous pouvez enrichir votre CRM avec des adresses e-mail et des numéros de téléphone. Cela vous permet de créer des campagnes emailing et SMS personnalisées pour engager vos clients de manière plus ciblée."
+    ]
+  },
+  {
+    "tag": "services_intelligence_artificielle_marketing",
+    "patterns": [
+      "Comment puis-je bénéficier des services d'intelligence artificielle pour le marketing ?",
+      "En quoi consistent les services d'intelligence artificielle pour le marketing proposés par Paiecash bi ?",
+      "Quels sont les avantages de l'utilisation de l'intelligence artificielle dans le marketing avec Paiecash bi ?"
+    ],
+    "responses": [
+      "Paiecash bi offre des solutions d'intelligence artificielle pour améliorer votre stratégie marketing. Cela inclut l'analyse de données pour comprendre les préférences des clients, ainsi que l'utilisation de l'IA pour créer des campagnes plus efficaces et personnalisées."
+    ]
+  },
+  {
+    "tag": "comment_demarrer_avec_paiecash_bi",
+    "patterns": [
+      "Comment puis-je démarrer avec Paiecash bi ?",
+      "Quelles sont les étapes pour commencer à utiliser les services de Paiecash bi ?",
+      "Comment puis-je entrer en contact avec Paiecash bi pour débuter ?"
+    ],
+    "responses": [
+      "Pour commencer avec Paiecash bi et découvrir comment nos solutions peuvent bénéficier à votre entreprise, contactez notre équipe dès aujourd'hui. Nous serions ravis de discuter de vos besoins et de vous présenter nos services."
+    ]
   }
+
 
 
   ]
