@@ -2160,7 +2160,164 @@
     "responses": [
       "La dématérialisation du ticket sur Telesud est gérée par ticket.io, offrant une solution pratique pour gérer les billets et les transactions."
     ]
-  }
+  },
+  [
+    {
+      "tag": "qu_est_ce_que_paiecash",
+      "patterns": [
+        "Qu'est-ce que PaieCash ?",
+        "Qui est PaieCash ?",
+        "Expliquez PaieCash."
+      ],
+      "responses": [
+        "PaieCash est une entreprise axée sur la technologie qui propose des solutions numériques pour faciliter les paiements en ligne et les transactions financières."
+      ]
+    },
+    {
+      "tag": "mission_de_paiecash",
+      "patterns": [
+        "Quelle est la mission de PaieCash ?",
+        "Objectif de PaieCash ?",
+        "Que vise PaieCash à accomplir ?"
+      ],
+      "responses": [
+        "Notre mission est d'enrichir vos expériences d'achat et de vente en ligne en proposant une application mobile et web pour des transactions d'argent simples et rapides."
+      ]
+    },
+    {
+      "tag": "services_offerts",
+      "patterns": [
+        "Quels services offre PaieCash ?",
+        "Liste des services PaieCash ?",
+        "Que puis-je faire avec PaieCash ?"
+      ],
+      "responses": [
+        "PaieCash permet le transfert d'argent entre utilisateurs, les paiements en ligne, les dépôts, les retraits et bien plus encore."
+      ]
+    },
+    {
+      "tag": "utilisateurs_de_paiecash",
+      "patterns": [
+        "Qui peut utiliser PaieCash ?",
+        "Qui est la clientèle de PaieCash ?",
+        "Pour qui est PaieCash ?"
+      ],
+      "responses": [
+        "PaieCash est destiné aux commerçants, aux e-commerçants, aux supermarchés, aux boutiques, aux associations, aux entreprises et à tous ceux cherchant des solutions de paiement numérique."
+      ]
+    },
+    {
+      "tag": "avantages_de_paiecash",
+      "patterns": [
+        "Comment PaieCash se distingue-t-il de la concurrence ?",
+        "Pourquoi choisir PaieCash ?",
+        "Quels sont les avantages de PaieCash ?"
+      ],
+      "responses": [
+        "PaieCash offre une gamme complète de services de paiement en un seul endroit, vous permettant d'effectuer des achats dans divers marchés et supermarchés avec facilité."
+      ]
+    },
+    {
+      "tag": "fonctionnalites_de_paiecash",
+      "patterns": [
+        "Quelles fonctionnalités sont disponibles sur PaieCash ?",
+        "Liste des fonctionnalités de PaieCash ?",
+        "Que puis-je faire avec l'application PaieCash ?"
+      ],
+      "responses": [
+        "PaieCash offre le transfert d'argent, les paiements sur les sites marchands, les paiements locaux, le système de parrainage, la gestion des comptes utilisateurs, l'épargne et bien plus encore."
+      ]
+    },
+    {
+      "tag": "telechargement_de_paiecash",
+      "patterns": [
+        "Comment puis-je télécharger l'application PaieCash ?",
+        "Où puis-je trouver PaieCash ?",
+        "Téléchargement de PaieCash."
+      ],
+      "responses": [
+        "Vous pouvez télécharger l'application PaieCash sur Android et iOS depuis les magasins d'applications correspondants."
+      ]
+    },
+    {
+      "tag": "charte_graphique_de_paiecash",
+      "patterns": [
+        "Quelle est la charte graphique de PaieCash ?",
+        "Couleurs de PaieCash ?",
+        "Design de PaieCash."
+      ],
+      "responses": [
+        "Les couleurs principales de PaieCash sont le vert et le blanc, reflétant notre engagement envers la simplicité et la convivialité."
+      ]
+    },
+    {
+      "tag": "support_paiecash",
+      "patterns": [
+        "Comment puis-je contacter le support PaieCash ?",
+        "Besoin d'assistance PaieCash ?",
+        "Support client PaieCash."
+      ],
+      "responses": [
+        "Pour toute question ou assistance, vous pouvez nous contacter via le chat intégré dans l'application ou consulter notre documentation."
+      ]
+    },
+    {
+      "tag": "securite_des_transactions",
+      "patterns": [
+        "Comment PaieCash assure-t-il la sécurité des transactions ?",
+        "Sécurité des paiements avec PaieCash ?",
+        "Protéger les transactions avec PaieCash."
+      ],
+      "responses": [
+        "PaieCash utilise des normes de sécurité élevées pour protéger vos transactions et vos données personnelles."
+      ]
+    },
+    {
+      "tag": "mises_a_jour_de_paiecash",
+      "patterns": [
+        "Comment rester à jour avec les nouvelles fonctionnalités de PaieCash ?",
+        "Mises à jour de PaieCash ?",
+        "Nouveautés de PaieCash."
+      ],
+      "responses": [
+        "Suivez notre site web et nos réseaux sociaux pour les dernières mises à jour et les nouvelles fonctionnalités."
+      ]
+    },
+    {
+      "tag": "partenariats_avec_paiecash",
+      "patterns": [
+        "Comment puis-je devenir partenaire de PaieCash en tant que commerçant ou entreprise ?",
+        "Partenariat avec PaieCash ?",
+        "Collaboration avec PaieCash."
+      ],
+      "responses": [
+        "Contactez notre équipe de partenariat via le site web de PaieCash pour explorer les opportunités de collaboration."
+      ]
+    },
+    {
+      "tag": "gestion_des_problemes_techniques",
+      "patterns": [
+        "Comment PaieCash gère-t-il les problèmes techniques ?",
+        "Support technique de PaieCash ?",
+        "Résolution des problèmes avec PaieCash."
+      ],
+      "responses": [
+        "Notre équipe technique est disponible pour résoudre tout problème technique. Contactez-nous via le support intégré dans l'application."
+      ]
+    },
+    {
+      "tag": "maquettes_de_paiecash",
+      "patterns": [
+        "Où puis-je trouver des maquettes de l'application PaieCash ?",
+        "Maquettes de PaieCash ?",
+        "Design de l'application PaieCash."
+      ],
+      "responses": [
+        "Les maquettes de l'application sont disponibles dans les annexes du document de spécifications fonctionnelles de PaieCash."
+      ]
+    }
+  ]
+  
 
         
         
