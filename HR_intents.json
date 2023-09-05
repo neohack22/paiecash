@@ -2514,8 +2514,117 @@
       "responses": [
         "Vous pouvez choisir la langue avec laquelle interagir avec le chatbot en sélectionnant parmi une gamme de langues disponibles."
       ]
+    },
+    {
+      "tag": "activation_integration_investisseurs",
+      "patterns": [
+        "Qu'est-ce que l'offre d'activation et d'intégration de potentiels investisseurs ?",
+        "En quoi consiste l'offre d'activation et d'intégration de potentiels investisseurs ?",
+        "Expliquez-moi l'offre d'activation et d'intégration de potentiels investisseurs."
+      ],
+      "responses": [
+        "L'offre d'activation et d'intégration de potentiels investisseurs consiste à déployer un chatbot sur vos médias sociaux pour optimiser votre service client et attirer de nouveaux investisseurs."
+      ]
+    },
+    {
+      "tag": "chatbot_reduction_charge_travail",
+      "patterns": [
+        "Comment le chatbot peut-il réduire la charge de travail de mon service client ?",
+        "En quoi le chatbot aide-t-il à alléger la charge de travail de mon service client ?",
+        "Quels sont les avantages du chatbot en termes de réduction de la charge de travail ?"
+      ],
+      "responses": [
+        "Le chatbot peut répondre automatiquement aux questions fréquemment posées par les investisseurs, réduisant ainsi le temps et les efforts nécessaires de la part de votre équipe."
+      ]
+    },
+    {
+      "tag": "amelioration_temps_reponse",
+      "patterns": [
+        "En quoi l'offre peut-elle améliorer les temps de réponse ?",
+        "Comment l'offre contribue-t-elle à réduire les temps d'attente ?",
+        "Quels sont les avantages de l'offre en termes de temps de réponse ?"
+      ],
+      "responses": [
+        "Le chatbot offre des réponses instantanées 24/7, garantissant que les investisseurs obtiennent rapidement les informations dont ils ont besoin."
+      ]
+    },
+    {
+      "tag": "avantages_integration_chatbots",
+      "patterns": [
+        "Quels avantages mon entreprise peut-elle tirer de l'intégration de chatbots ?",
+        "Pourquoi devrais-je envisager d'intégrer des chatbots dans mon entreprise ?",
+        "Comment l'intégration de chatbots peut-elle bénéficier à mon entreprise ?"
+      ],
+      "responses": [
+        "L'intégration de chatbots rationalise votre service client, améliore l'engagement des investisseurs et automatise divers processus, renforçant ainsi votre efficacité opérationnelle."
+      ]
+    },
+    {
+      "tag": "taches_gerees_par_chatbots",
+      "patterns": [
+        "Pouvez-vous donner des exemples de tâches que les chatbots peuvent gérer ?",
+        "Quelles sont les responsabilités que je peux confier aux chatbots ?",
+        "Donnez-moi des exemples de fonctions que les chatbots peuvent exécuter."
+      ],
+      "responses": [
+        "Bien sûr, les chatbots peuvent gérer des tâches telles que répondre aux questions courantes, recueillir des commentaires des investisseurs et faciliter le traitement des commandes."
+      ]
+    },
+    {
+      "tag": "experience_client_exceptionnelle",
+      "patterns": [
+        "Comment puis-je bénéficier d'une expérience client exceptionnelle grâce à cette offre ?",
+        "En quoi cette offre améliore-t-elle l'expérience de nos investisseurs ?",
+        "Quels avantages puis-je attendre en termes d'expérience client ?"
+      ],
+      "responses": [
+        "Les chatbots offrent une expérience instantanée, personnalisée et conviviale, répondant aux besoins des investisseurs tout en renforçant la relation avec votre entreprise."
+      ]
+    },
+    {
+      "tag": "souscription_a_loffre",
+      "patterns": [
+        "Comment puis-je souscrire à cette offre ?",
+        "Quelles sont les étapes pour bénéficier de cette offre ?",
+        "Où puis-je m'inscrire pour cette offre ?"
+      ],
+      "responses": [
+        "Pour souscrire à cette offre, veuillez nous contacter via [coordonnées] ou visiter notre site web [lien]."
+      ]
+    },
+    {
+      "tag": "personnalisation_chatbots",
+      "patterns": [
+        "Comment les chatbots sont-ils conçus pour s'adapter à mon entreprise ?",
+        "Pouvez-vous personnaliser les chatbots en fonction de nos besoins spécifiques ?",
+        "Quel degré de personnalisation est possible avec les chatbots ?"
+      ],
+      "responses": [
+        "Les chatbots peuvent être personnalisés en fonction des besoins spécifiques de votre entreprise, de la marque à la tonalité des réponses."
+      ]
+    },
+    {
+      "tag": "mises_a_jour_et_ameliorations",
+      "patterns": [
+        "Comment puis-je obtenir des mises à jour et des améliorations pour les chatbots ?",
+        "Serez-vous responsable des mises à jour des chatbots ?",
+        "Quelle est la politique de mise à jour pour les chatbots ?"
+      ],
+      "responses": [
+        "Nous mettons régulièrement à jour nos chatbots pour optimiser les performances et ajouter de nouvelles fonctionnalités. Vous recevrez des mises à jour automatiquement."
+      ]
+    },
+    {
+      "tag": "langues_prises_en_charge",
+      "patterns": [
+        "Quelles sont les langues prises en charge par les chatbots ?",
+        "Les chatbots peuvent-ils communiquer dans plusieurs langues ?",
+        "En combien de langues les chatbots sont-ils disponibles ?"
+      ],
+      "responses": [
+        "Nos chatbots peuvent être configurés pour prendre en charge différentes langues, assurant une communication fluide avec vos investisseurs à l'international."
+      ]
     }
-  
   
   ]
 }
