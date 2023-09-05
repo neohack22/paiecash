@@ -1300,7 +1300,96 @@
     "responses": [
       "Vous pouvez nous contacter au +33 7 67 12 96 52 ou visiter notre site web www.paiecash.com pour obtenir plus d'informations sur nos services et notre partenariat avec les clubs amateurs."
     ]
+  },
+  {
+    "tag": "achat_carte_clubs",
+    "patterns": [
+      "Comment puis-je acheter une carte sur le site des clubs ?",
+      "Comment commander une carte sur le site des clubs ?",
+      "Quel est le processus d'achat d'une carte sur le site des clubs ?"
+    ],
+    "responses": [
+      "Choisissez la carte et le style souhaités, remplissez vos informations, y compris l'adresse de livraison et les détails de votre carte bancaire, puis validez le paiement. Vous recevrez un reçu de paiement avec la date de disponibilité de votre carte."
+    ]
+  },
+  {
+    "tag": "traitement_commande_apres_paiement",
+    "patterns": [
+      "Comment la commande est-elle traitée après le paiement ?",
+      "Que se passe-t-il après avoir payé ma commande ?",
+      "Comment Paiecash traite-t-il ma commande après paiement ?"
+    ],
+    "responses": [
+      "Paiecash reçoit votre commande et vous recevrez votre carte à l'adresse indiquée dans les délais prévus."
+    ]
+  },
+  {
+    "tag": "paiement_panier_en_ligne",
+    "patterns": [
+      "Comment effectuer un paiement pour mon panier en ligne ?",
+      "Quelle est la procédure de paiement pour mon panier en ligne ?",
+      "Comment puis-je payer pour mes achats en ligne ?"
+    ],
+    "responses": [
+      "Lorsque vous ouvrez la page de paiement, un lien de paiement est généré avec le montant correspondant à votre panier. Utilisez la référence de commande pour effectuer le paiement."
+    ]
+  },
+  {
+    "tag": "paiement_via_paiecash_qr",
+    "patterns": [
+      "Comment fonctionne le paiement via Paiecash QR dans les supermarchés ?",
+      "Expliquez le processus de paiement avec Paiecash QR dans les supermarchés.",
+      "Comment puis-je utiliser Paiecash QR pour payer dans les supermarchés ?"
+    ],
+    "responses": [
+      "Choisissez le supermarché et le système ouvrira la page de paiement pour faciliter le paiement sur place. La référence de paiement est générée automatiquement et le statut du paiement est mis à jour dans notre système."
+    ]
+  },
+  {
+    "tag": "paiement_par_qr_code",
+    "patterns": [
+      "Comment payer en scannant un QR Code ?",
+      "Quelle est la procédure pour payer en scannant un QR Code ?",
+      "Comment fonctionne le paiement par scan de QR Code ?"
+    ],
+    "responses": [
+      "Après avoir rempli votre panier, cliquez sur le bouton de scan. Scannez le QR Code de la caisse, le système ouvrira la page de paiement où vous pourrez saisir vos informations bancaires et valider."
+    ]
+  },
+  {
+    "tag": "informations_necessaires_paiement",
+    "patterns": [
+      "Quelles informations sont nécessaires pour initier un paiement ?",
+      "Que dois-je fournir pour commencer un paiement ?",
+      "Quels sont les détails requis pour un paiement ?"
+    ],
+    "responses": [
+      "Vous devez fournir des informations telles que le montant, la référence, vos coordonnées, et d'autres détails pertinents."
+    ]
+  },
+  {
+    "tag": "annulation_paiement",
+    "patterns": [
+      "Puis-je annuler un paiement déjà effectué ?",
+      "Est-il possible d'annuler un paiement que j'ai déjà effectué ?",
+      "Comment puis-je annuler un paiement effectué ?"
+    ],
+    "responses": [
+      "Oui, sous certaines conditions."
+    ]
+  },
+  {
+    "tag": "verification_statut_paiement",
+    "patterns": [
+      "Comment vérifier le statut d'un paiement ?",
+      "Où puis-je vérifier le statut de mon paiement ?",
+      "Comment savoir si mon paiement a été traité ?"
+    ],
+    "responses": [
+      "Utilisez la référence de paiement pour vérifier le statut via notre système."
+    ]
   }
+
 
 
 
