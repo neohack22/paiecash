@@ -930,6 +930,71 @@
     "responses": [
       "Les fonctionnalités à venir de PaieCash QR Code comprennent la gestion de caisse, les bons cadeaux, la gestion complète du processus de vente, la gestion des produits hors taxe, des programmes de fidélité, du fond de caisse, de l'historique de caisse, de l'impression de reçus, des étiquettes produit, et bien plus encore."
     ]
+  },
+  {
+    "tag": "paiecash_qu_est_ce_que",
+    "patterns": ["Qu'est-ce que Paiecash ?", "C'est quoi Paiecash ?", "Paiecash en quelques mots."],
+    "responses": ["Paiecash est une plateforme spécialisée dans l'activation et l'intégration d'investisseurs. Elle propose des solutions innovantes pour simplifier la gestion du stock et optimiser les opérations financières."]
+  },
+  {
+    "tag": "paiecash_gestion_automatique_stock",
+    "patterns": ["En quoi consiste la gestion automatique du stock chez le revendeur ?", "Expliquez la gestion automatique du stock.", "Comment fonctionne la gestion du stock avec Paiecash ?"],
+    "responses": ["Paiecash déploie un chatbot qui permet au distributeur de visualiser le stock de ses clients, de gérer les commandes automatiques et d'améliorer le suivi des stocks en temps réel."]
+  },
+  {
+    "tag": "paiecash_avantages_distributeurs",
+    "patterns": ["Comment les distributeurs bénéficient-ils de cette solution ?", "Quels sont les avantages pour les distributeurs ?", "Pourquoi un distributeur devrait-il utiliser Paiecash ?"],
+    "responses": ["Grâce à Paiecash, les distributeurs peuvent réduire la charge de travail du service client, améliorer les temps de réponse, automatiser les commandes et optimiser leur chiffre d'affaires."]
+  },
+  {
+    "tag": "paiecash_systeme_commission",
+    "patterns": ["Comment fonctionne le système de commission ?", "Expliquez le système de commission de Paiecash.", "Qu'est-ce que le paiement par commission avec Paiecash ?"],
+    "responses": ["Paiecash propose un paiement par commission pour chaque transaction effectuée. Cela permet aux distributeurs de générer des revenus supplémentaires tout en offrant des services à valeur ajoutée."]
+  },
+  {
+    "tag": "paiecash_interface_suivi_stock",
+    "patterns": ["Quels avantages offre l'interface de suivi de stock ?", "Expliquez l'interface de suivi de stock de Paiecash.", "Pourquoi utiliser l'interface de suivi de stock de Paiecash ?"],
+    "responses": ["Paiecash propose une interface conviviale qui permet au distributeur de suivre les stocks de différents clients, de catégoriser les produits et d'améliorer la gestion des inventaires."]
+  },
+  {
+    "tag": "paiecash_parametrage_prix_ristournes",
+    "patterns": ["Comment les clients paramètrent-ils leurs prix et ristournes ?", "Expliquez le paramétrage des prix et ristournes avec Paiecash.", "Qu'est-ce que le paramétrage des prix et ristournes ?"],
+    "responses": ["Les clients peuvent personnaliser leurs prix et ristournes dans leur tableau de bord Paiecash, ce qui leur offre une plus grande flexibilité dans la tarification."]
+  },
+  {
+    "tag": "paiecash_qrcode_emvco",
+    "patterns": ["Qu'est-ce que le Qrcode Emvco ?", "C'est quoi le Qrcode Emvco de Paiecash ?", "Expliquez la fonctionnalité Qrcode Emvco."],
+    "responses": ["Le Qrcode Emvco est une fonctionnalité de Paiecash qui sera bientôt disponible, permettant une commande simplifiée et la génération de Qrcode pour faciliter les transactions."]
+  },
+  {
+    "tag": "paiecash_questions_problemes",
+    "patterns": ["Comment puis-je poser des questions ou signaler des problèmes ?", "Quel est le processus pour poser des questions ou signaler des problèmes ?", "Besoin d'aide ou avez-vous une question ?"],
+    "responses": ["Utilisez l'interface de tickets sur Paiecash pour poser des questions, signaler des bugs ou obtenir de l'aide en cas de problème."]
+  },
+  {
+    "tag": "paiecash_nouveautes_version_2",
+    "patterns": ["Quelles sont les nouveautés de la Version 2 ?", "Dites-moi ce qui est nouveau dans la Version 2.", "Quelles améliorations apporte la Version 2 de Paiecash ?"],
+    "responses": ["La Version 2 de Paiecash propose des améliorations telles que la gestion avancée des catégories de produits, l'ajout d'images de produits et la possibilité pour les propriétaires d'ajouter des produits au CRM."]
+  },
+  {
+    "tag": "paiecash_commande_via_qrcode",
+    "patterns": ["Comment fonctionne la commande via Qrcode ?", "Expliquez la commande via Qrcode avec Paiecash.", "C'est quoi la commande via Qrcode ?"],
+    "responses": ["Paiecash permet aux distributeurs de créer une commande en générant un Qrcode, puis d'ajouter des articles à la commande et de la payer via différents moyens de paiement."]
+  },
+  {
+    "tag": "paiecash_fonctionnalites_version_3",
+    "patterns": ["Quelles sont les fonctionnalités prévues pour la Version 3 ?", "Dites-moi ce qui est prévu dans la Version 3 de Paiecash.", "Quelles améliorations apportera la Version 3 ?"],
+    "responses": ["La Version 3 de Paiecash introduira des améliorations telles que la gestion de produits expirables, des extractions de données avancées et la possibilité de gérer les stocks avec une meilleure organisation."]
+  },
+  {
+    "tag": "paiecash_devenir_distributeur",
+    "patterns": ["Comment puis-je devenir distributeur avec Paiecash ?", "Quelles sont les étapes pour devenir distributeur Paiecash ?", "Je veux devenir distributeur, comment faire ?"],
+    "responses": ["Pour devenir distributeur avec Paiecash, créez un compte et suivez les instructions pour commencer à profiter de nos solutions d'activation et d'intégration d'investisseurs."]
+  },
+  {
+    "tag": "paiecash_contact_support",
+    "patterns": ["Comment puis-je contacter le support de Paiecash ?", "Besoin d'aide ? Où puis-je trouver de l'aide ?", "Support Paiecash."],
+    "responses": ["Pour toute autre question, n'hésitez pas à nous contacter à support@paiecash.com. Notre équipe est là pour vous aider à tirer le meilleur parti de notre plateforme."]
   }
   ]
 }
