@@ -2104,7 +2104,64 @@
     "responses": [
       "Si vous avez besoin d'aide ou rencontrez un problème, vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à chaque étape."
     ]
+  },
+  {
+    "tag": "reseau_social_telesud",
+    "patterns": [
+      "Où puis-je trouver Telesud sur les réseaux sociaux ?",
+      "Quels sont les réseaux sociaux de Telesud ?",
+      "Comment puis-je suivre Telesud sur les réseaux sociaux ?"
+    ],
+    "responses": [
+      "Vous pouvez suivre Telesud sur TikTok, Facebook, Instagram et Twitter.",
+      "Voici les liens vers nos réseaux sociaux : TikTok [lien], Facebook [lien], Instagram [lien], Twitter [lien]."
+    ]
+  },
+  {
+    "tag": "outils_streaming_telesud",
+    "patterns": [
+      "Quels sont les outils de streaming utilisés par Telesud ?",
+      "Quels logiciels de streaming utilise Telesud ?",
+      "Telesud utilise-t-il DACAST pour le streaming ?"
+    ],
+    "responses": [
+      "Telesud utilise principalement les outils de streaming suivants : DACAST et OBS.",
+      "Vous pouvez en savoir plus sur DACAST [lien] et OBS [lien]."
+    ]
+  },
+  {
+    "tag": "tableau_de_bord_admin_telesud",
+    "patterns": [
+      "Comment puis-je accéder au tableau de bord administrateur ?",
+      "Où trouver le tableau de bord administrateur de Telesud ?",
+      "Quel est le lien vers le tableau de bord administrateur ?"
+    ],
+    "responses": [
+      "Pour accéder au tableau de bord administrateur de Telesud, utilisez le lien Figma suivant : [lien]."
+    ]
+  },
+  {
+    "tag": "paiements_qrcode_telesud",
+    "patterns": [
+      "Comment fonctionnent les paiements en qrcode ?",
+      "Quels sont les moyens de paiement par qrcode sur Telesud ?",
+      "Expliquez le processus de paiement en qrcode sur Telesud."
+    ],
+    "responses": [
+      "Telesud propose des paiements via qrcode, intégrant des API de paiement pour simplifier le processus de paiement."
+    ]
+  },
+  {
+    "tag": "dematerialisation_ticket_telesud",
+    "patterns": [
+      "Qu'est-ce que la dématérialisation du ticket ?",
+      "Comment fonctionne la dématérialisation des billets sur Telesud ?"
+    ],
+    "responses": [
+      "La dématérialisation du ticket sur Telesud est gérée par ticket.io, offrant une solution pratique pour gérer les billets et les transactions."
+    ]
   }
+
         
         
         
