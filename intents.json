@@ -1498,7 +1498,118 @@
     "responses": [
       "Vos données personnelles sont sécurisées et traitées conformément à notre politique de confidentialité. Les informations accessibles via les QRCodes sont spécifiquement liées au produit."
     ]
+  },
+  {
+    "tag": "qu_est_ce_que_paiecash",
+    "patterns": [
+      "Qu'est-ce que Paiecash ?",
+      "Qu'est-ce que Paiecash",
+      "Paiecash"
+    ],
+    "responses": [
+      "Paiecash est une plateforme offrant des services de paiement et de gestion de comptes. Notre gamme de fonctionnalités inclut des options de recharge, des paiements, des comptes utilisateur et bien plus encore."
+    ]
+  },
+  {
+    "tag": "utilisation_des_chatbots",
+    "patterns": [
+      "Comment les chatbots sont-ils utilisés sur Paiecash ?",
+      "Utilisation des chatbots sur Paiecash",
+      "Chatbots Paiecash"
+    ],
+    "responses": [
+      "Les chatbots sont déployés pour améliorer l'expérience utilisateur. Ils peuvent répondre aux questions fréquemment posées, collecter des commentaires et aider dans le traitement des paiements et des recharges."
+    ]
+  },
+  {
+    "tag": "options_de_paiement",
+    "patterns": [
+      "Quelles sont les options de paiement disponibles sur Paiecash ?",
+      "Options de paiement Paiecash",
+      "Méthodes de paiement acceptées"
+    ],
+    "responses": [
+      "Paiecash prend en charge plusieurs méthodes de paiement, y compris OrangeMoney, CarteBancaire et MtnMoney. Vous pouvez facilement effectuer des paiements à partir de votre compte enregistré."
+    ]
+  },
+  {
+    "tag": "gestion_des_comptes_utilisateurs",
+    "patterns": [
+      "Comment puis-je gérer mes comptes utilisateurs ?",
+      "Gestion des comptes sur Paiecash",
+      "Ajouter des comptes utilisateurs"
+    ],
+    "responses": [
+      "En tant qu'utilisateur, vous pouvez avoir plusieurs comptes associés à un compte principal. Cela permet une gestion simplifiée de vos finances. Pour ajouter ou gérer des comptes, accédez à la section 'Comptes' de votre profil."
+    ]
+  },
+  {
+    "tag": "obtenir_de_l_aide",
+    "patterns": [
+      "Comment puis-je obtenir de l'aide en cas de problème ?",
+      "Besoin d'aide sur Paiecash",
+      "Assistance client"
+    ],
+    "responses": [
+      "Si vous rencontrez des difficultés ou avez des questions, consultez notre section d'aide en ligne. Vous y trouverez des réponses aux questions fréquentes. Si votre problème persiste, n'hésitez pas à contacter notre équipe d'assistance."
+    ]
+  },
+  {
+    "tag": "rester_informe_des_nouveautes",
+    "patterns": [
+      "Comment rester informé des nouveautés de Paiecash ?",
+      "Nouveautés sur Paiecash",
+      "Abonnement à la newsletter"
+    ],
+    "responses": [
+      "Pour suivre les dernières mises à jour et les nouveautés de Paiecash, abonnez-vous à notre newsletter. Vous recevrez régulièrement des informations sur les nouvelles fonctionnalités, les offres spéciales et les événements."
+    ]
+  },
+  {
+    "tag": "geolocalisation_sur_paiecash",
+    "patterns": [
+      "Comment fonctionne la géolocalisation sur Paiecash ?",
+      "Géolocalisation Paiecash",
+      "Localisation des services Paiecash"
+    ],
+    "responses": [
+      "La géolocalisation est utilisée pour fournir des informations contextuelles, telles que les points de recharge ou les partenaires à proximité. Cette fonctionnalité vous aide à trouver rapidement ce dont vous avez besoin."
+    ]
+  },
+  {
+    "tag": "acces_a_votre_compte_paiecash",
+    "patterns": [
+      "Comment puis-je accéder à mon compte Paiecash ?",
+      "Accès à votre compte sur Paiecash",
+      "Connexion à Paiecash"
+    ],
+    "responses": [
+      "Vous pouvez vous connecter à votre compte Paiecash en utilisant vos identifiants de connexion sur notre site web ou notre application mobile. Si vous n'avez pas de compte, inscrivez-vous pour en créer un."
+    ]
+  },
+  {
+    "tag": "etapes_pour_effectuer_un_paiement",
+    "patterns": [
+      "Quelles sont les étapes pour effectuer un paiement sur Paiecash ?",
+      "Paiement sur Paiecash",
+      "Processus de paiement"
+    ],
+    "responses": [
+      "Pour effectuer un paiement, connectez-vous à votre compte, sélectionnez l'option de paiement, choisissez le compte source et le destinataire, puis confirmez la transaction. Une fois confirmée, le paiement sera traité."
+    ]
+  },
+  {
+    "tag": "contacter_le_support_client",
+    "patterns": [
+      "Comment puis-je contacter le support client de Paiecash ?",
+      "Support client Paiecash",
+      "Service client"
+    ],
+    "responses": [
+      "Si vous avez des questions ou des préoccupations, notre équipe d'assistance est là pour vous aider. Utilisez notre formulaire de contact sur le site ou envoyez-nous un e-mail à l'adresse indiquée sur notre page de support."
+    ]
   }
+
 
 
 
