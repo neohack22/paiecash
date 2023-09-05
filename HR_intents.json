@@ -2161,8 +2161,7 @@
       "La dématérialisation du ticket sur Telesud est gérée par ticket.io, offrant une solution pratique pour gérer les billets et les transactions."
     ]
   },
-  [
-    {
+  {
       "tag": "qu_est_ce_que_paiecash",
       "patterns": [
         "Qu'est-ce que PaieCash ?",
@@ -2315,15 +2314,97 @@
       "responses": [
         "Les maquettes de l'application sont disponibles dans les annexes du document de spécifications fonctionnelles de PaieCash."
       ]
+    },
+    {
+      "tag": "objectifs_principaux",
+      "patterns": [
+        "Quels sont les objectifs principaux du chatbot de PAIECASH ?"
+      ],
+      "responses": [
+        "Le chatbot de PAIECASH vise à fournir un service d'auto-assistance conversationnel pour des actions générales et liées aux comptes, ainsi qu'un support lié aux ventes. Il améliore l'efficacité du service client, réduisant la charge de travail et améliorant les délais de réponse."
+      ]
+    },
+    {
+      "tag": "large_public_cible",
+      "patterns": [
+        "Comment le chatbot satisfait-il un large public cible ?"
+      ],
+      "responses": [
+        "Le chatbot est disponible 24/7, offrant une assistance constante sans contraintes de temps ou d'emplacement physique. Il peut gérer simultanément un grand nombre d'utilisateurs."
+      ]
+    },
+    {
+      "tag": "exigences_fonctionnelles",
+      "patterns": [
+        "Quelles sont les exigences fonctionnelles du chatbot ?"
+      ],
+      "responses": [
+        "Le chatbot offre des fonctionnalités d'identification, de planification, de conversation personnalisée et d'expérience client améliorée."
+      ]
+    },
+    {
+      "tag": "technologies_utilisees",
+      "patterns": [
+        "Quelles sont les technologies utilisées pour développer le chatbot ?"
+      ],
+      "responses": [
+        "Nous utilisons Pytorch et Flask pour le backend, avec le chatbot Chat GPT (3.5 ou 4) pour fournir une conversation intelligente."
+      ]
+    },
+    {
+      "tag": "support_evenement_sportif",
+      "patterns": [
+        "Comment le chatbot soutient-il un événement sportif ?"
+      ],
+      "responses": [
+        "Avant, pendant et après l'événement, le chatbot promeut, interagit et recueille des commentaires, améliorant ainsi l'expérience des participants et des joueurs."
+      ]
+    },
+    {
+      "tag": "avantages_joueurs_participants_sponsors",
+      "patterns": [
+        "Quels avantages le chatbot apporte-t-il aux joueurs, aux participants et aux sponsors ?"
+      ],
+      "responses": [
+        "Le chatbot assure une communication fluide, fournit des informations personnalisées, envoie des notifications proactives et maintient une présence constante pour une interaction satisfaisante."
+      ]
+    },
+    {
+      "tag": "duree_projet",
+      "patterns": [
+        "Combien de temps faut-il pour compléter le projet de chatbot ?"
+      ],
+      "responses": [
+        "Le projet est estimé à 2-3 mois pour être achevé."
+      ]
+    },
+    {
+      "tag": "gestion_langues_internationales",
+      "patterns": [
+        "Comment le chatbot gère-t-il les langues internationales ?"
+      ],
+      "responses": [
+        "Le chatbot prend en charge plusieurs langues, y compris des langues internationales telles que le français, l'anglais et l'espagnol, ainsi que des langues locales."
+      ]
+    },
+    {
+      "tag": "transcription_traduction",
+      "patterns": [
+        "Peut-il effectuer la transcription et la traduction ?"
+      ],
+      "responses": [
+        "Oui, le chatbot peut transcrire et traduire les informations des utilisateurs dans leur langue de choix."
+      ]
+    },
+    {
+      "tag": "plus_amples_informations",
+      "patterns": [
+        "Comment obtenir de plus amples informations sur l'offre d'activation et d'intégration de potentiels investisseurs ?"
+      ],
+      "responses": [
+        "Pour en savoir plus sur notre offre, veuillez nous contacter via notre site web ou nos coordonnées de contact fournies."
+      ]
     }
-  ]
   
-
-        
-        
-        
-        
-        
-        
   ]
 }
