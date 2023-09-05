@@ -1388,7 +1388,118 @@
     "responses": [
       "Utilisez la référence de paiement pour vérifier le statut via notre système."
     ]
+  },
+  {
+    "tag": "qrcodes_objectif",
+    "patterns": [
+      "Quel est l'objectif des QRCodes sur les produits Paiecash ?",
+      "Pourquoi Paiecash utilise-t-il des QRCodes sur ses produits ?",
+      "À quoi servent les QRCodes sur les produits Paiecash ?"
+    ],
+    "responses": [
+      "Les QRCodes sont utilisés pour identifier de manière unique les produits Paiecash en termes de qualité et fournir des informations telles que la date de péremption, le lieu de fabrication, l'usine et le pays."
+    ]
+  },
+  {
+    "tag": "qrcodes_fonctionnement",
+    "patterns": [
+      "Comment fonctionnent les QRCodes de Paiecash ?",
+      "Comment utiliser les QRCodes Paiecash ?",
+      "Expliquez le fonctionnement des QRCodes de Paiecash."
+    ],
+    "responses": [
+      "Chaque produit Paiecash est associé à un QRCodes unique qui peut être scanné à l'aide d'une application mobile. Cela permet d'accéder instantanément aux informations essentielles du produit."
+    ]
+  },
+  {
+    "tag": "qrcodes_informations",
+    "patterns": [
+      "Quelles informations sont disponibles via les QRCodes ?",
+      "Que puis-je découvrir en scannant un QRCodes Paiecash ?",
+      "Donnez-moi plus de détails sur les informations fournies par les QRCodes."
+    ],
+    "responses": [
+      "Les QRCodes fournissent des détails tels que la date de péremption, le lieu de fabrication, l'usine de production et le pays d'origine du produit."
+    ]
+  },
+  {
+    "tag": "qrcodes_scanner",
+    "patterns": [
+      "Comment puis-je scanner un QRCodes Paiecash ?",
+      "Quelle est la méthode pour lire un QRCodes Paiecash ?",
+      "Expliquez comment utiliser l'application mobile pour scanner un QRCodes Paiecash."
+    ],
+    "responses": [
+      "Téléchargez simplement notre application mobile, ouvrez-la et scannez le QRCodes en utilisant l'appareil photo de votre téléphone."
+    ]
+  },
+  {
+    "tag": "qrcodes_presence",
+    "patterns": [
+      "Est-ce que tous les produits Paiecash ont un QRCodes ?",
+      "Les QRCodes sont-ils présents sur tous les produits Paiecash ?",
+      "Quelle est la politique de Paiecash concernant les QRCodes sur ses produits ?"
+    ],
+    "responses": [
+      "Oui, tous nos produits sont équipés d'un QRCodes pour garantir une traçabilité et une transparence maximales."
+    ]
+  },
+  {
+    "tag": "qrcodes_securite",
+    "patterns": [
+      "Les QRCodes de Paiecash sont-ils sécurisés ?",
+      "Puis-je faire confiance à la sécurité des QRCodes Paiecash ?",
+      "Comment Paiecash protège-t-il ses QRCodes contre la falsification ?"
+    ],
+    "responses": [
+      "Absolument, nos QRCodes sont sécurisés et conçus pour empêcher toute falsification."
+    ]
+  },
+  {
+    "tag": "qrcodes_authenticite",
+    "patterns": [
+      "Puis-je utiliser les QRCodes pour vérifier l'authenticité d'un produit ?",
+      "Comment puis-je savoir si un produit Paiecash est authentique en scannant son QRCodes ?",
+      "Les QRCodes permettent-ils de confirmer l'authenticité d'un produit Paiecash ?"
+    ],
+    "responses": [
+      "Oui, en scannant le QRCodes, vous pouvez vérifier instantanément l'authenticité d'un produit Paiecash et accéder à ses informations de qualité."
+    ]
+  },
+  {
+    "tag": "qrcodes_experience",
+    "patterns": [
+      "Comment les QRCodes Paiecash améliorent-ils mon expérience en tant que consommateur ?",
+      "En quoi les QRCodes facilitent-ils mon expérience en tant que client Paiecash ?",
+      "Quels sont les avantages des QRCodes pour les consommateurs Paiecash ?"
+    ],
+    "responses": [
+      "Les QRCodes simplifient l'accès aux informations essentielles sur les produits, vous permettant de prendre des décisions d'achat éclairées."
+    ]
+  },
+  {
+    "tag": "qrcodes_connexion",
+    "patterns": [
+      "Puis-je accéder aux QRCodes sans connexion Internet ?",
+      "Est-il nécessaire d'avoir une connexion Internet pour utiliser les QRCodes ?",
+      "Les QRCodes Paiecash fonctionnent-ils hors ligne ?"
+    ],
+    "responses": [
+      "Non, une connexion Internet est requise pour accéder aux informations via les QRCodes."
+    ]
+  },
+  {
+    "tag": "qrcodes_confidentialite",
+    "patterns": [
+      "Comment Paiecash garantit-il la confidentialité de mes données lors de l'utilisation des QRCodes ?",
+      "Quelles mesures de sécurité sont en place pour protéger mes données lorsque j'utilise les QRCodes ?",
+      "Est-ce que mes données personnelles sont en sécurité lorsque j'utilise les QRCodes Paiecash ?"
+    ],
+    "responses": [
+      "Vos données personnelles sont sécurisées et traitées conformément à notre politique de confidentialité. Les informations accessibles via les QRCodes sont spécifiquement liées au produit."
+    ]
   }
+
 
 
 
