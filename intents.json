@@ -995,6 +995,97 @@
     "tag": "paiecash_contact_support",
     "patterns": ["Comment puis-je contacter le support de Paiecash ?", "Besoin d'aide ? Où puis-je trouver de l'aide ?", "Support Paiecash."],
     "responses": ["Pour toute autre question, n'hésitez pas à nous contacter à support@paiecash.com. Notre équipe est là pour vous aider à tirer le meilleur parti de notre plateforme."]
+  },
+  {
+    "tag": "campagne_appareils_indetectables",
+    "patterns": [
+      "Pourquoi devrais-je participer à la campagne d'appareils indétectables ?"
+    ],
+    "responses": [
+      "La campagne vise à vous offrir des appareils fiables et indétectables, assurant votre sécurité et tranquillité."
+    ]
+  },
+  {
+    "tag": "nombre_personnes_contactees",
+    "patterns": [
+      "Quel est le nombre de personnes contactées jusqu'à présent ?"
+    ],
+    "responses": [
+      "À ce jour, 78 personnes ont été contactées dans le cadre de la campagne."
+    ]
+  },
+  {
+    "tag": "optimiser_service_client",
+    "patterns": [
+      "Comment puis-je optimiser mon service client avec cette offre ?"
+    ],
+    "responses": [
+      "En déployant des chatbots sur vos médias sociaux, vous réduisez la charge de travail et améliorez les temps de réponse."
+    ]
+  },
+  {
+    "tag": "avantages_chatbots",
+    "patterns": [
+      "Quels sont les avantages des chatbots pour mon service client ?"
+    ],
+    "responses": [
+      "Les chatbots automatisent les réponses aux questions courantes et facilitent la collecte des commentaires et le traitement des commandes."
+    ]
+  },
+  {
+    "tag": "marques_prises_en_charge",
+    "patterns": [
+      "Quelles marques d'appareils sont prises en charge par la campagne ?"
+    ],
+    "responses": [
+      "La campagne couvre une variété de marques, dont Infinix, Tecno, Sony, Huawei, etc."
+    ]
+  },
+  {
+    "tag": "details_forfaits_disponibles",
+    "patterns": [
+      "Pouvez-vous fournir plus de détails sur les forfaits disponibles ?"
+    ],
+    "responses": [
+      "Nous offrons une gamme de forfaits, de la MTN WANDA au MT4, adaptés à vos besoins et à votre budget."
+    ]
+  },
+  {
+    "tag": "souscrire_offre_appareils_indetectables",
+    "patterns": [
+      "Comment puis-je souscrire à cette offre d'appareils indétectables ?"
+    ],
+    "responses": [
+      "Pour souscrire, veuillez contacter notre équipe d'assistance ou visiter notre site Web."
+    ]
+  },
+  {
+    "tag": "methodes_paiement_acceptees",
+    "patterns": [
+      "Quelles sont les méthodes de paiement acceptées pour ces appareils ?"
+    ],
+    "responses": [
+      "Nous acceptons plusieurs méthodes de paiement sécurisées, y compris les options en ligne et en personne."
+    ]
+  },
+  {
+    "tag": "compatibilite_reseaux_4G+",
+    "patterns": [
+      "Est-ce que ces appareils sont compatibles avec les réseaux 4G+ ?"
+    ],
+    "responses": [
+      "Oui, nos appareils prennent en charge les réseaux 4G+ pour une connectivité rapide et fiable."
+    ]
+  },
+  {
+    "tag": "aide_en_cas_de_probleme",
+    "patterns": [
+      "Comment puis-je obtenir de l'aide en cas de problème avec mon appareil ?"
+    ],
+    "responses": [
+      "Notre équipe d'assistance est disponible pour répondre à vos questions et résoudre tout problème que vous pourriez rencontrer."
+    ]
   }
+
   ]
 }
