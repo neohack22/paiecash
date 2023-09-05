@@ -2404,7 +2404,118 @@
       "responses": [
         "Pour en savoir plus sur notre offre, veuillez nous contacter via notre site web ou nos coordonnées de contact fournies."
       ]
+    },
+    {
+      "tag": "objectifs_installation",
+      "patterns": [
+        "Quels sont les objectifs de l'installation d'UBA chatbot ?",
+        "Pourquoi installer UBA chatbot ?",
+        "Objectifs de l'installation d'UBA chatbot."
+      ],
+      "responses": [
+        "L'installation d'UBA chatbot vise à améliorer notre service client en automatisant les réponses, en fournissant des informations rapides et en facilitant l'accès à l'assistance."
+      ]
+    },
+    {
+      "tag": "langues_fonctionnalites",
+      "patterns": [
+        "Quelles sont les fonctionnalités du chatbot en ce qui concerne les langues ?",
+        "Langues prises en charge par le chatbot.",
+        "Le chatbot peut-il communiquer dans différentes langues ?"
+      ],
+      "responses": [
+        "Le chatbot prend en charge plusieurs langues, y compris les langues internationales telles que l'anglais, le français, le chinois et l'arabe, ainsi que des langues locales africaines comme le bassa, l'ewondo et d'autres."
+      ]
+    },
+    {
+      "tag": "dataset_complet",
+      "patterns": [
+        "Comment puis-je obtenir un dataset complet pour le chatbot ?",
+        "Dataset pour le chatbot.",
+        "Données disponibles pour le chatbot."
+      ],
+      "responses": [
+        "Le chatbot est alimenté par un dataset complet comprenant des informations financières, bancaires, de cartes prépayées et de sports tels que le football et le rugby."
+      ]
+    },
+    {
+      "tag": "types_requetes",
+      "patterns": [
+        "Quels types de requêtes peut traiter le chatbot ?",
+        "Capacités de traitement des requêtes du chatbot.",
+        "Domaines couverts par le chatbot."
+      ],
+      "responses": [
+        "Le chatbot peut traiter une variété de requêtes, de la réponse aux questions fréquemment posées à la collecte de commentaires et au traitement des commandes."
+      ]
+    },
+    {
+      "tag": "aide_probleme_specifique",
+      "patterns": [
+        "Comment puis-je obtenir de l'aide si j'ai un problème spécifique ?",
+        "Assistance pour les problèmes spécifiques.",
+        "Obtenir de l'aide pour un problème particulier."
+      ],
+      "responses": [
+        "Si vous avez un problème spécifique, le chatbot peut vous diriger vers notre support client pour ouvrir un ticket et obtenir une assistance personnalisée."
+      ]
+    },
+    {
+      "tag": "assistance_appel_agent",
+      "patterns": [
+        "Est-il possible d'obtenir une assistance en appelant un agent ?",
+        "Assistance par téléphone avec un agent.",
+        "Contacter un agent pour obtenir de l'aide."
+      ],
+      "responses": [
+        "Oui, si vous avez besoin d'une assistance personnalisée, le chatbot peut vous aider à demander une assistance à partir d'un appel avec l'un de nos agents."
+      ]
+    },
+    {
+      "tag": "acces_tableau_de_bord",
+      "patterns": [
+        "Comment puis-je accéder au tableau de bord et ajouter des données au dataset ?",
+        "Ajouter des données au tableau de bord du chatbot.",
+        "Accès au tableau de bord pour la gestion des données."
+      ],
+      "responses": [
+        "Le chatbot vous guidera pour accéder au tableau de bord où vous pourrez ajouter des données au dataset directement sur le web."
+      ]
+    },
+    {
+      "tag": "integration_mobile_web",
+      "patterns": [
+        "Comment puis-je intégrer le chatbot sur mon application mobile ou sur le web ?",
+        "Intégration du chatbot sur une application mobile ou un site web.",
+        "Ajouter le chatbot à votre application ou site web."
+      ],
+      "responses": [
+        "Vous pouvez intégrer le chatbot sur votre application mobile ou sur le web en utilisant notre API chatbot (JSON) qui prend en charge les méthodes GET et POST."
+      ]
+    },
+    {
+      "tag": "amelioration_service_client",
+      "patterns": [
+        "Comment le chatbot peut-il aider à améliorer l'efficacité de mon service client ?",
+        "Avantages du chatbot pour le service client.",
+        "Impact du chatbot sur l'efficacité du service client."
+      ],
+      "responses": [
+        "Le chatbot réduit la charge de travail de votre équipe en fournissant des réponses instantanées, améliorant les délais de réponse et offrant une assistance 24/7."
+      ]
+    },
+    {
+      "tag": "choix_langue_interaction",
+      "patterns": [
+        "Comment puis-je choisir la langue avec laquelle interagir avec le chatbot ?",
+        "Langue d'interaction avec le chatbot.",
+        "Modifier la langue d'interaction avec le chatbot."
+      ],
+      "responses": [
+        "Vous pouvez choisir la langue avec laquelle interagir avec le chatbot en sélectionnant parmi une gamme de langues disponibles."
+      ]
     }
+  
   
   ]
 }
