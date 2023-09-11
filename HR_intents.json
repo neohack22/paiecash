@@ -287,74 +287,80 @@
           {
             "tag": "niveau_clubs",
             "patterns": [
-              "Quels sont les différents niveaux de clubs ?",
-              "Quels sont les niveaux de clubs disponibles ?"
+                "Quels sont les différents niveaux de clubs ?",
+                "Quels sont les niveaux de clubs disponibles ?",
+                "Pouvez-vous me donner des informations sur les niveaux de clubs ?"
             ],
             "responses": [
-              "Il y a trois niveaux de clubs : Professionnel, Haut niveau et Bas niveau. Chaque niveau a ses propres avantages et fonctionnalités. Pour en savoir plus, vous pouvez consulter la section correspondante dans le document."
+                "Il y a trois niveaux de clubs : Professionnel, Haut niveau et Bas niveau. Chaque niveau a ses propres avantages et fonctionnalités. Pour en savoir plus, vous pouvez consulter la section correspondante dans le document."
             ]
-          },
-          {
+        },
+        {
             "tag": "partenariat",
             "patterns": [
-              "Quelles sont les possibilités de partenariat ?",
-              "Comment fonctionnent les partenariats ?"
+                "Quelles sont les possibilités de partenariat ?",
+                "Comment fonctionnent les partenariats ?",
+                "Pouvez-vous m'expliquer les options de partenariat ?"
             ],
             "responses": [
-              "Nous offrons différentes possibilités de partenariat, y compris des sessions de formation, des offres de cloud dans nos data centers, des partenariats avec des entreprises pour les billets, etc. Pour en savoir plus sur nos partenariats, veuillez vous référer à la section Partenariat du document."
+                "Nous offrons différentes possibilités de partenariat, y compris des sessions de formation, des offres de cloud dans nos data centers, des partenariats avec des entreprises pour les billets, etc. Pour en savoir plus sur nos partenariats, veuillez vous référer à la section Partenariat du document."
             ]
-          },
-          {
+        },
+        {
             "tag": "cartes",
             "patterns": [
-              "Quelles sont les cartes disponibles ?",
-              "Comment puis-je obtenir une carte ?"
+                "Quelles sont les cartes disponibles ?",
+                "Comment puis-je obtenir une carte ?",
+                "Pouvez-vous me dire quelles cartes je peux obtenir ?"
             ],
             "responses": [
-              "Nous proposons des cartes pour diverses utilisations, notamment la billetterie digitale, les achats chez nos partenaires et bien plus encore. Vous pouvez en apprendre davantage en consultant la section Cartes du document."
+                "Nous proposons des cartes pour diverses utilisations, notamment la billetterie digitale, les achats chez nos partenaires et bien plus encore. Vous pouvez en apprendre davantage en consultant la section Cartes du document."
             ]
-          },
-          {
+        },
+        {
             "tag": "billetterie_digitale",
             "patterns": [
-              "Comment fonctionne la billetterie digitale ?",
-              "Pouvez-vous expliquer le concept de billetterie digitale ?"
+                "Comment fonctionne la billetterie digitale ?",
+                "Pouvez-vous expliquer le concept de billetterie digitale ?",
+                "Quelle est la procédure pour utiliser la billetterie digitale ?"
             ],
             "responses": [
-              "Notre système de billetterie digitale vous permet d'acheter des billets en ligne et de les stocker dans votre compte. Vous pourrez ainsi accéder facilement à vos billets lors des événements. Consultez la section Billetterie digitale du document pour en savoir plus."
+                "Notre système de billetterie digitale vous permet d'acheter des billets en ligne et de les stocker dans votre compte. Vous pourrez ainsi accéder facilement à vos billets lors des événements. Consultez la section Billetterie digitale du document pour en savoir plus."
             ]
-          },
-          {
+        },
+        {
             "tag": "cloud_data_center",
             "patterns": [
-              "Pouvez-vous expliquer l'offre cloud dans les data centers ?",
-              "Comment fonctionne l'offre de stockage en ligne dans vos data centers ?"
+                "Pouvez-vous expliquer l'offre cloud dans les data centers ?",
+                "Comment fonctionne l'offre de stockage en ligne dans vos data centers ?",
+                "Quels sont les avantages de l'offre cloud dans vos data centers ?"
             ],
             "responses": [
-              "Nous proposons une offre de stockage en ligne par abonnement dans nos data centers, qui permet aux utilisateurs camerounais de stocker leurs données en toute sécurité. Pour plus de détails, consultez la section Cloud dans nos data centers du document."
+                "Nous proposons une offre de stockage en ligne par abonnement dans nos data centers, qui permet aux utilisateurs camerounais de stocker leurs données en toute sécurité. Pour plus de détails, consultez la section Cloud dans nos data centers du document."
             ]
-          },
-          {
+        },
+        {
             "tag": "partenariat_paiecash",
             "patterns": [
-              "Quel est le partenariat avec Paiecash ?",
-              "Comment fonctionne la digitalisation des entreprises en partenariat avec Paiecash ?"
+                "Quel est le partenariat avec Paiecash ?",
+                "Comment fonctionne la digitalisation des entreprises en partenariat avec Paiecash ?",
+                "Pouvez-vous me parler du partenariat avec Paiecash ?"
             ],
             "responses": [
-              "En partenariat avec Paiecash, nous digitalisons les entreprises en France. Cela permet aux entreprises de bénéficier d'une transformation numérique pour améliorer leurs opérations. Pour plus d'informations, référez-vous à la section Partenariat Paiecash du document."
+                "En partenariat avec Paiecash, nous digitalisons les entreprises en France. Cela permet aux entreprises de bénéficier d'une transformation numérique pour améliorer leurs opérations. Pour plus d'informations, référez-vous à la section Partenariat Paiecash du document."
             ]
-          },
-          {
-            "tag": "paiement_dons_eglis
-      e",
+        },
+        {
+            "tag": "paiement_dons_eglis",
             "patterns": [
-              "Comment fonctionne le paiement des dons et dîmes dans une Église ?",
-              "Pouvez-vous expliquer le processus de paiement des dons dans une Église ?"
+                "Comment fonctionne le paiement des dons et dîmes dans une Église ?",
+                "Pouvez-vous expliquer le processus de paiement des dons dans une Église ?",
+                "Quelle est la procédure pour effectuer des paiements de dons dans une Église ?"
             ],
             "responses": [
-              "Nous avons mis en place un système de paiement pour les dons et dîmes dans une Église. Les fidèles peuvent effectuer des paiements en utilisant nos services en ligne. Pour en savoir plus, consultez la section Paiement des dons dans le document."
+                "Nous avons mis en place un système de paiement pour les dons et dîmes dans une Église. Les fidèles peuvent effectuer des paiements en utilisant nos services en ligne. Pour en savoir plus, consultez la section Paiement des dons dans le document."
             ]
-          },
+        },
           {
             "tag": "Présentation de l'entreprise",
             "patterns": [
