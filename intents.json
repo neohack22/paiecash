@@ -1794,7 +1794,98 @@
     "responses": [
       "Vous pouvez nous contacter au +33 7 67 12 96 52 ou visiter notre site web www.paiecash.com pour obtenir plus d'informations sur nos services et notre partenariat avec les clubs amateurs."
     ]
+  },
+  {
+    "tag": "reconnaissance_qrcode",
+    "patterns": [
+      "Comment fonctionne la reconnaissance et l'identification via le qrcode ?"
+    ],
+    "responses": [
+      "Le qrcode permet d'identifier l'utilisateur de PaieCash. Lorsqu'il est scanné, il permet de reconnaître et d'authentifier le propriétaire du compte."
+    ]
+  },
+  {
+    "tag": "crediter_compte_qrcode",
+    "patterns": [
+      "Comment créditer un compte avec un qrcode ?"
+    ],
+    "responses": [
+      "En scannant le qrcode de l'utilisateur, vous pouvez créditer son compte en ajoutant la somme désirée. Assurez-vous d'avoir l'autorisation de l'utilisateur avant de procéder."
+    ]
+  },
+  {
+    "tag": "debit_sole_initiateur",
+    "patterns": [
+      "Qu'en est-il du débit du solde de l'initiateur ?"
+    ],
+    "responses": [
+      "Lorsque vous effectuez un transfert d'argent via le qrcode, le montant est débité du solde de l'initiateur et crédité sur le compte du destinataire."
+    ]
+  },
+  {
+    "tag": "mise_en_place_transfert_qrcode",
+    "patterns": [
+      "Comment mettre en place le transfert d'argent via le qrcode ?"
+    ],
+    "responses": [
+      "Le transfert d'argent via le qrcode est simple. Il suffit de scanner le qrcode du destinataire, de spécifier le montant et de confirmer la transaction."
+    ]
+  },
+  {
+    "tag": "qrcode_utilisateur",
+    "patterns": [
+      "Pourquoi chaque utilisateur PaieCash possède-t-il un qrcode ?"
+    ],
+    "responses": [
+      "Le qrcode est une méthode pratique pour faciliter les transactions et les échanges d'argent entre utilisateurs PaieCash. Il simplifie le processus en évitant la saisie manuelle des informations."
+    ]
+  },
+  {
+    "tag": "obtenir_propre_qrcode",
+    "patterns": [
+      "Comment puis-je obtenir mon propre qrcode ?"
+    ],
+    "responses": [
+      "Vous pouvez générer votre propre qrcode en vous connectant à votre compte PaieCash et en accédant à la section 'Mon profil'. Suivez les instructions pour générer votre qrcode unique."
+    ]
+  },
+  {
+    "tag": "personnaliser_qrcode",
+    "patterns": [
+      "Puis-je personnaliser mon qrcode ?"
+    ],
+    "responses": [
+      "Actuellement, la personnalisation des qrcodes n'est pas prise en charge. Chaque qrcode est généré de manière automatique et unique pour chaque utilisateur."
+    ]
+  },
+  {
+    "tag": "utiliser_qrcode_payer",
+    "patterns": [
+      "Comment puis-je utiliser mon qrcode pour payer ?"
+    ],
+    "responses": [
+      "Pour effectuer un paiement, il suffit de présenter votre qrcode au commerçant ou à la personne à qui vous souhaitez payer. Ils pourront le scanner pour effectuer la transaction."
+    ]
+  },
+  {
+    "tag": "mettre_jour_informations_qrcode",
+    "patterns": [
+      "Comment mettre à jour les informations liées à mon qrcode ?"
+    ],
+    "responses": [
+      "Pour mettre à jour les informations associées à votre qrcode, connectez-vous à votre compte PaieCash et accédez à la section 'Profil'. Vous pourrez modifier vos informations personnelles."
+    ]
+  },
+  {
+    "tag": "utiliser_qrcode_plusieurs_appareils",
+    "patterns": [
+      "Puis-je utiliser mon qrcode sur plusieurs appareils ?"
+    ],
+    "responses": [
+      "Oui, vous pouvez utiliser votre qrcode sur plusieurs appareils. Cependant, assurez-vous que les appareils sont liés au même compte PaieCash."
+    ]
   }
+
 
   ]
 }
