@@ -3008,7 +3008,100 @@
       "responses": [
         "Si vous rencontrez des problèmes ou souhaitez fournir des retours, veuillez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à résoudre vos problèmes."
       ]
+    },
+    {
+      "tag": "paiecash_qr_supermarches",
+      "patterns": [
+        "Qu'est-ce que Paiecash QR pour les grands supermarchés ?",
+        "Quelles sont les fonctionnalités principales de Paiecash QR pour les grands supermarchés ?"
+      ],
+      "responses": [
+        "Paiecash QR pour les grands supermarchés est une solution numérique innovante conçue pour simplifier les paiements dans les grands supermarchés. Il permet aux clients de réaliser des paiements de manière pratique et rapide.",
+        "Paiecash QR pour les grands supermarchés offre diverses fonctionnalités, notamment la gestion des comptes utilisateurs, la création de clés de licence pour les supermarchés, l'intégration du chatbot, la facturation automatique, et bien plus encore."
+      ]
+    },
+    {
+      "tag": "inscription_utilisateur",
+      "patterns": [
+        "Comment puis-je m'inscrire en tant qu'utilisateur de Paiecash QR pour les grands supermarchés ?"
+      ],
+      "responses": [
+        "L'inscription en tant qu'utilisateur se fait via Web SSO en utilisant des comptes Google ou Facebook. Cela simplifie le processus d'inscription."
+      ]
+    },
+    {
+      "tag": "modes_paiement",
+      "patterns": [
+        "Quels sont les modes de paiement pris en charge par Paiecash QR pour les grands supermarchés ?"
+      ],
+      "responses": [
+        "Vous pouvez effectuer des paiements avec Lyra, Orange Money et MTN Momo. Les API de ces services sont intégrées pour une expérience de paiement fluide."
+      ]
+    },
+    {
+      "tag": "assistance",
+      "patterns": [
+        "Comment puis-je contacter l'assistance en cas de problème avec Paiecash QR ?"
+      ],
+      "responses": [
+        "Vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à résoudre tous les problèmes."
+      ]
+    },
+    {
+      "tag": "generation_cles_licence",
+      "patterns": [
+        "Comment fonctionne la génération de clés de licence pour les grands supermarchés ?"
+      ],
+      "responses": [
+        "Paiecash QR génère des clés de licence pour les supermarchés, leur permettant d'accéder au logiciel pendant une période déterminée. Si la facture n'est pas payée, la licence expire, limitant l'accès au dashboard."
+      ]
+    },
+    {
+      "tag": "documentation_utilisateur_technique",
+      "patterns": [
+        "Où puis-je trouver la documentation utilisateur et technique de Paiecash QR ?"
+      ],
+      "responses": [
+        "La documentation utilisateur et technique est disponible sur notre site web. Vous y trouverez des guides détaillés pour utiliser efficacement notre solution."
+      ]
+    },
+    {
+      "tag": "integration_chatbot",
+      "patterns": [
+        "Comment fonctionne l'intégration du chatbot dans Paiecash QR ?"
+      ],
+      "responses": [
+        "Le chatbot est intégré dans le backend de l'application, offrant une assistance automatisée aux utilisateurs. Il peut répondre à diverses questions et préoccupations."
+      ]
+    },
+    {
+      "tag": "differences_supermarches_petits_commerces",
+      "patterns": [
+        "Quelles sont les différences entre Paiecash QR pour les grands supermarchés et Paiecash QR pour les petits commerces ?"
+      ],
+      "responses": [
+        "Paiecash QR pour les grands supermarchés est conçu pour les supermarchés avec un backend séparé et une application mobile personnalisée. Paiecash QR pour les petits commerces offre une solution unique pour les petits commerces et leurs clients."
+      ]
+    },
+    {
+      "tag": "maquettes_application",
+      "patterns": [
+        "Où puis-je trouver les maquettes de l'application Paiecash QR ?"
+      ],
+      "responses": [
+        "Les maquettes de l'application sont disponibles sur Figma. Vous pouvez les consulter ici : Lien vers les maquettes"
+      ]
+    },
+    {
+      "tag": "qrcode_identification",
+      "patterns": [
+        "Comment fonctionne le Qrcode d'identification sur l'application mobile Paiecash QR ?"
+      ],
+      "responses": [
+        "Le Qrcode d'identification est utilisé pour effectuer des paiements rapides. Les clients peuvent scanner le Qrcode d'une boutique pour effectuer un paiement en quelques étapes simples."
+      ]
     }
+  
   
   
   ]
