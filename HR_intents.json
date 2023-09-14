@@ -2774,6 +2774,114 @@
         "Vous pouvez facilement trouver un point de vente PaieCash grâce à la géolocalisation de tous nos acteurs, y compris nos partenaires, comme les magasins et les supermarchés.",
         "Pour trouver un point de vente PaieCash près de chez vous, utilisez la géolocalisation disponible pour tous nos acteurs, y compris nos partenaires, comme les magasins et les supermarchés."
       ]
+    },
+    {
+      "tag": "Qu'est-ce que PaieCash ?",
+      "patterns": [
+        "Qu'est-ce que PaieCash ?"
+      ],
+      "responses": [
+        "PaieCash est une entreprise innovante opérant en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Notre objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
+      ]
+    },
+    {
+      "tag": "Objectif du projet",
+      "patterns": [
+        "Quel est l'objectif du projet PaieCash ?"
+      ],
+      "responses": [
+        "Le projet vise à créer une application mobile sur Android et IOS, ainsi qu'un site web, permettant aux utilisateurs de réaliser des transactions financières, d'envoyer et de recevoir de l'argent, d'effectuer des paiements en ligne, et bien plus encore."
+      ]
+    },
+    {
+      "tag": "Fonctionnalités principales",
+      "patterns": [
+        "Quelles sont les fonctionnalités principales de l'application PaieCash ?"
+      ],
+      "responses": [
+        "L'application PaieCash propose une gamme complète de services : transferts d'argent entre utilisateurs, dépôts et retraits, paiements en ligne sur des sites marchands, gestion de comptes utilisateurs, échanges de devises, épargne, crédits, et bien d'autres."
+      ]
+    },
+    {
+      "tag": "Différence avec la concurrence",
+      "patterns": [
+        "Comment PaieCash se démarque-t-il de la concurrence ?"
+      ],
+      "responses": [
+        "Nous rassemblons une variété de moyens de paiement numérique en une seule application conviviale. De plus, notre portée internationale vous permet d'effectuer des transactions en Afrique et à l'international en toute fiabilité."
+      ]
+    },
+    {
+      "tag": "Conception des interfaces",
+      "patterns": [
+        "Comment sont conçus les interfaces de PaieCash ?"
+      ],
+      "responses": [
+        "Nos interfaces suivent les normes ergonomiques de l'UI/UX design, garantissant une expérience utilisateur intuitive et conviviale. Nous respectons les normes ISO 26800:2011 pour une expérience optimale."
+      ]
+    },
+    {
+      "tag": "Avantages du projet",
+      "patterns": [
+        "Quels sont les avantages du projet PaieCash ?"
+      ],
+      "responses": [
+        "PaieCash résout le problème du manque de liquidités en Afrique. Il facilite les paiements entre acteurs économiques et offre une solution de paiement rapide et fiable pour tous."
+      ]
+    },
+    {
+      "tag": "Devenir un utilisateur",
+      "patterns": [
+        "Comment puis-je devenir un utilisateur de PaieCash ?"
+      ],
+      "responses": [
+        "Toute personne possédant un téléphone portable peut devenir un utilisateur. Si vous souhaitez effectuer des transactions en ligne, notre application est là pour vous."
+      ]
+    },
+    {
+      "tag": "Budget de développement",
+      "patterns": [
+        "Quel est le budget pour le développement de l'application ?"
+      ],
+      "responses": [
+        "Le budget varie en fonction du développement, de la sécurité et du déploiement. Contactez-nous pour une estimation personnalisée."
+      ]
+    },
+    {
+      "tag": "Disponibilité de l'application",
+      "patterns": [
+        "Quand l'application sera-t-elle disponible ?"
+      ],
+      "responses": [
+        "La date de livraison dépend de la taille du projet, mais soyez assuré que nous travaillons dur pour vous offrir la meilleure expérience dans les plus brefs délais."
+      ]
+    },
+    {
+      "tag": "Obtenir de l'aide",
+      "patterns": [
+        "Comment puis-je obtenir de l'aide en cas de problème ?"
+      ],
+      "responses": [
+        "Vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à chaque étape."
+      ]
+    },
+    {
+      "tag": "Plus d'informations sur les fonctionnalités",
+      "patterns": [
+        "Où puis-je trouver plus d'informations sur les fonctionnalités de PaieCash ?"
+      ],
+      "responses": [
+        "Consultez notre document de spécifications fonctionnelles pour obtenir une vue d'ensemble détaillée des fonctionnalités : Lien vers le document."
+      ]
+    },
+    {
+      "tag": "Maquettes de l'application",
+      "patterns": [
+        "Où puis-je voir les maquettes de l'application ?"
+      ],
+      "responses": [
+        "Les maquettes actuelles sont disponibles ici : Lien vers les maquettes."
+      ]
     }  
   
   ]
