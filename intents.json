@@ -1884,6 +1884,87 @@
     "responses": [
       "Oui, vous pouvez utiliser votre qrcode sur plusieurs appareils. Cependant, assurez-vous que les appareils sont liés au même compte PaieCash."
     ]
+  },
+  {
+    "tag": "Qu'est-ce que PaieCash ?",
+    "patterns": [
+      "Qu'est-ce que PaieCash ?"
+    ],
+    "responses": [
+      "PaieCash est une entreprise innovante en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Son objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
+    ]
+  },
+  {
+    "tag": "Comment créer un compte client ?",
+    "patterns": [
+      "Comment créer un compte client ?"
+    ],
+    "responses": [
+      "Pour créer un compte, vous devez fournir votre adresse e-mail, votre numéro de téléphone, un mot de passe, votre nom et votre prénom."
+    ]
+  },
+  {
+    "tag": "Comment se connecter à l'application ?",
+    "patterns": [
+      "Comment se connecter à l'application ?"
+    ],
+    "responses": [
+      "Après avoir créé un compte, vous pouvez vous connecter à l'application en utilisant votre numéro de téléphone et votre mot de passe."
+    ]
+  },
+  {
+    "tag": "Que faire si j'oublie mon mot de passe ?",
+    "patterns": [
+      "Que faire si j'oublie mon mot de passe ?"
+    ],
+    "responses": [
+      "Si vous oubliez votre mot de passe, vous pouvez le réinitialiser en fournissant votre adresse e-mail. Vous recevrez un code que vous devrez entrer dans l'application pour changer votre mot de passe."
+    ]
+  },
+  {
+    "tag": "Comment enregistrer des produits dans mon panier ?",
+    "patterns": [
+      "Comment enregistrer des produits dans mon panier ?"
+    ],
+    "responses": [
+      "Lorsque vous êtes dans un magasin, scannez les produits que vous souhaitez acheter et ajoutez-les à votre panier avec la quantité souhaitée. La quantité sera multipliée par le prix unitaire de chaque produit."
+    ]
+  },
+  {
+    "tag": "Comment valider les produits dans mon panier ?",
+    "patterns": [
+      "Comment valider les produits dans mon panier ?"
+    ],
+    "responses": [
+      "Une fois que vous avez ajouté les produits que vous souhaitez acheter à votre panier, vous devez les valider pour générer un reçu. Ce reçu sera caché derrière un QR code. Le QR code reste actif tant que le paiement n'est pas effectué."
+    ]
+  },
+  {
+    "tag": "Comment effectuer un paiement à la caisse ?",
+    "patterns": [
+      "Comment effectuer un paiement à la caisse ?"
+    ],
+    "responses": [
+      "Présentez le QR code lié à votre facture à la caisse pour effectuer le paiement."
+    ]
+  },
+  {
+    "tag": "Comment modifier mon profil ?",
+    "patterns": [
+      "Comment modifier mon profil ?"
+    ],
+    "responses": [
+      "Vous pouvez mettre à jour votre profil en modifiant votre nom et prénom."
+    ]
+  },
+  {
+    "tag": "Comment configurer les paramètres de l'application ?",
+    "patterns": [
+      "Comment configurer les paramètres de l'application ?"
+    ],
+    "responses": [
+      "Vous pouvez changer la langue de l'application en Français ou en Anglais, vous déconnecter ou consulter la politique de confidentialité de l'application."
+    ]
   }
 
 
