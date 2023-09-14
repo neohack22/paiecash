@@ -2954,7 +2954,62 @@
       "responses": [
         "Vous pouvez contacter notre service client en utilisant les coordonnées fournies sur notre site web ou en nous envoyant un e-mail à [adresse e-mail du service client]. Nous sommes là pour vous aider à résoudre tous les problèmes ou préoccupations que vous pourriez avoir."
       ]
-    }    
+    },
+    {
+      "tag": "identifiants_connexion",
+      "patterns": [
+        "Quels sont les identifiants de connexion pour PaieCash QR ?"
+      ],
+      "responses": [
+        "Identifiants de connexion :\nURL du site : paiecash qr\nEmail : admin@paiecash.com\nMot de passe : Qwerty15!"
+      ]
+    },
+    {
+      "tag": "telechargement_application",
+      "patterns": [
+        "Où puis-je télécharger la dernière version de l'application PaieCash ?"
+      ],
+      "responses": [
+        "Vous pouvez télécharger la dernière version de l'application PaieCash sur le Play Store en suivant ce lien : [Télécharger sur le Play Store](lien_de_telechargement)"
+      ]
+    },
+    {
+      "tag": "suivi_projets",
+      "patterns": [
+        "Comment puis-je suivre les progrès des projets PaieCash ?"
+      ],
+      "responses": [
+        "Vous pouvez suivre les projets PaieCash sur Trello en utilisant ce lien : [Suivi des projets PaieCash sur Trello](lien_trello)"
+      ]
+    },
+    {
+      "tag": "bugs_connus",
+      "patterns": [
+        "Quels sont les problèmes connus (bugs) de l'application PaieCash QR ?"
+      ],
+      "responses": [
+        "Liste des bugs : [Inscrivez ici les problèmes connus (le cas échéant)]"
+      ]
+    },
+    {
+      "tag": "defauts_connus",
+      "patterns": [
+        "Quels sont les défauts connus de l'application PaieCash QR ?"
+      ],
+      "responses": [
+        "Liste des défauts : [Inscrivez ici les défauts connus (le cas échéant)]"
+      ]
+    },
+    {
+      "tag": "signaler_probleme",
+      "patterns": [
+        "Comment signaler un problème ou fournir des retours ?"
+      ],
+      "responses": [
+        "Si vous rencontrez des problèmes ou souhaitez fournir des retours, veuillez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à résoudre vos problèmes."
+      ]
+    }
+  
   
   ]
 }
