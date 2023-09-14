@@ -2882,7 +2882,79 @@
       "responses": [
         "Les maquettes actuelles sont disponibles ici : Lien vers les maquettes."
       ]
-    }  
+    },
+    {
+      "tag": "envoi_pdf_ticket",
+      "patterns": [
+        "Comment puis-je envoyer le PDF du ticket au client par e-mail ?"
+      ],
+      "responses": [
+        "Vous pouvez facilement envoyer le PDF du ticket au client par e-mail en utilisant la fonction d'envoi par e-mail de notre logiciel. Il vous suffit de sélectionner l'option d'envoi par e-mail lors de la génération du ticket, puis d'entrer l'adresse e-mail du client. Le PDF du ticket sera alors automatiquement envoyé au client."
+      ]
+    },
+    {
+      "tag": "segmentation_clients",
+      "patterns": [
+        "Comment segmentez-vous les clients ?"
+      ],
+      "responses": [
+        "Nous segmentons nos clients en deux catégories principales : les clients grands compte et les clients petit compte. Les clients grands compte sont ceux qui effectuent des achats fréquents ou de grande valeur, tandis que les clients petit compte sont ceux qui effectuent des achats moins fréquents ou de moindre valeur."
+      ]
+    },
+    {
+      "tag": "fidélisation_clients",
+      "patterns": [
+        "Pouvez-vous m'expliquer comment vous gérez la fidélisation des clients ?"
+      ],
+      "responses": [
+        "Bien sûr ! Nous gérons la fidélisation des clients en offrant des programmes de fidélité attractifs. Nos clients fidèles bénéficient de récompenses, de remises spéciales et d'offres exclusives. De plus, nous analysons régulièrement le comportement d'achat de nos clients pour leur offrir des produits et des services personnalisés qui répondent à leurs besoins."
+      ]
+    },
+    {
+      "tag": "avantages_segmentation",
+      "patterns": [
+        "Quels sont les avantages de la segmentation des clients ?"
+      ],
+      "responses": [
+        "La segmentation des clients nous permet de mieux comprendre les besoins et les préférences de chaque groupe de clients. Cela nous permet d'adapter nos offres, nos promotions et notre service client pour répondre de manière plus efficace aux attentes de chaque segment. En fin de compte, cela conduit à une meilleure satisfaction client et à une fidélisation plus élevée."
+      ]
+    },
+    {
+      "tag": "avantages_programme_fidélité",
+      "patterns": [
+        "Comment puis-je bénéficier des avantages du programme de fidélité ?"
+      ],
+      "responses": [
+        "Pour bénéficier des avantages de notre programme de fidélité, il vous suffit de vous inscrire. Une fois inscrit, vous accumulerez des points à chaque achat que vous pourrez échanger contre des récompenses et des remises. Assurez-vous de fournir vos informations de contact pour recevoir des offres exclusives par e-mail."
+      ]
+    },
+    {
+      "tag": "avantages_clients_grands_compte",
+      "patterns": [
+        "Existe-t-il des avantages spécifiques pour les clients grands compte ?"
+      ],
+      "responses": [
+        "Oui, nos clients grands compte bénéficient d'avantages spécifiques, tels que des remises supplémentaires sur les achats en gros, un support dédié et un accès prioritaire à nos nouvelles offres et promotions. Si vous êtes intéressé à devenir un client grands compte, veuillez nous contacter pour discuter de vos besoins spécifiques."
+      ]
+    },
+    {
+      "tag": "changement_segment_client",
+      "patterns": [
+        "Puis-je changer de segment de client si mes besoins évoluent ?"
+      ],
+      "responses": [
+        "Absolument ! Votre segment de client peut évoluer en fonction de vos besoins et de votre comportement d'achat. Si vous commencez en tant que client petit compte mais que vous augmentez vos achats, vous pourriez être éligible pour passer au segment des clients grands compte. Contactez notre équipe pour discuter de vos besoins actuels."
+      ]
+    },
+    {
+      "tag": "contacter_service_client",
+      "patterns": [
+        "Comment puis-je contacter le service client en cas de problème ?"
+      ],
+      "responses": [
+        "Vous pouvez contacter notre service client en utilisant les coordonnées fournies sur notre site web ou en nous envoyant un e-mail à [adresse e-mail du service client]. Nous sommes là pour vous aider à résoudre tous les problèmes ou préoccupations que vous pourriez avoir."
+      ]
+    }    
   
   ]
 }
