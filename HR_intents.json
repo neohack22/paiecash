@@ -2644,7 +2644,137 @@
       "responses": [
         "Nos chatbots peuvent être configurés pour prendre en charge différentes langues, assurant une communication fluide avec vos investisseurs à l'international."
       ]
-    }
+    },
+    {
+      "tag": "presentation",
+      "patterns": [
+        "Qu'est-ce que PaieCash ?",
+        "PaieCash en quelques mots",
+        "Que fait PaieCash ?"
+      ],
+      "responses": [
+        "PaieCash est une entreprise technologique internationale spécialisée dans les solutions numériques pour les paiements en ligne, la téléphonie, l'internet et la télévision.",
+        "PaieCash, c'est une entreprise internationale du secteur des technologies spécialisée dans les solutions numériques pour les paiements en ligne, la téléphonie, l'internet et la télévision.",
+        "PaieCash, c'est une entreprise tech internationale qui se spécialise dans les solutions numériques pour les paiements en ligne, la téléphonie, l'internet et la télévision."
+      ]
+    },
+    {
+      "tag": "objectif_projet",
+      "patterns": [
+        "Quel est l'objectif du projet PaieCash ?",
+        "Pourquoi PaieCash a-t-il été créé ?",
+        "À quoi sert le projet PaieCash ?"
+      ],
+      "responses": [
+        "Le projet PaieCash vise à créer une application mobile (Android et iOS) ainsi qu'une application web permettant aux utilisateurs d'effectuer des transactions d'argent, d'accéder à un tableau de bord d'administration et de faciliter les paiements en ligne.",
+        "L'objectif principal du projet PaieCash est de développer une application mobile (Android et iOS) ainsi qu'une application web pour simplifier les transactions financières, faciliter les paiements en ligne et offrir un tableau de bord d'administration aux utilisateurs.",
+        "Le projet PaieCash a pour but de créer une application mobile (Android et iOS) et une application web pour permettre aux utilisateurs d'effectuer des transactions d'argent, d'accéder à un tableau de bord d'administration et de faciliter les paiements en ligne."
+      ]
+    },
+    {
+      "tag": "fonctionnalites",
+      "patterns": [
+        "Quelles sont les fonctionnalités de la solution PaieCash ?",
+        "Que puis-je faire avec PaieCash ?",
+        "Listez les principales fonctionnalités de PaieCash."
+      ],
+      "responses": [
+        "PaieCash permet le transfert d'argent entre utilisateurs, les dépôts et retraits d'argent, les paiements sur les sites marchands, les paiements locaux par numéro de téléphone ou QR code, le système de parrainage, la gestion des comptes utilisateurs, et bien plus encore.",
+        "Avec PaieCash, vous pouvez effectuer des transferts d'argent entre utilisateurs, des dépôts et retraits d'argent, des paiements sur des sites marchands, des paiements locaux via un numéro de téléphone ou un QR code, profiter du système de parrainage, et gérer votre compte utilisateur, entre autres fonctionnalités.",
+        "Les principales fonctionnalités de PaieCash incluent le transfert d'argent entre utilisateurs, les dépôts et retraits d'argent, les paiements sur les sites marchands, les paiements locaux par numéro de téléphone ou QR code, le système de parrainage, ainsi que la gestion des comptes utilisateurs, et bien d'autres."
+      ]
+    },
+    {
+      "tag": "avantages",
+      "patterns": [
+        "Quels sont les avantages de l'utilisation de PaieCash ?",
+        "Pourquoi devrais-je choisir PaieCash ?",
+        "En quoi PaieCash se démarque-t-il ?"
+      ],
+      "responses": [
+        "PaieCash améliore les conditions de bancarisation, facilite les paiements entre agents économiques, offre un moyen de paiement digital aux développeurs d'applications et sites d'achat en ligne, et rassemble plusieurs moyens de paiement en une seule application.",
+        "Les avantages de PaieCash sont nombreux, notamment l'amélioration des conditions de bancarisation, la facilitation des paiements entre acteurs économiques, l'offre d'un moyen de paiement digital aux développeurs d'applications et aux sites d'achat en ligne, ainsi que la consolidation de plusieurs moyens de paiement en une seule application.",
+        "En choisissant PaieCash, vous bénéficiez de nombreux avantages tels que l'amélioration des conditions de bancarisation, la facilitation des paiements entre acteurs économiques, l'accès à un moyen de paiement digital pour les développeurs d'applications et les sites d'achat en ligne, ainsi que la réunion de plusieurs moyens de paiement en une seule application."
+      ]
+    },
+    {
+      "tag": "utilisateurs",
+      "patterns": [
+        "Qui peut utiliser PaieCash ?",
+        "Quels sont les utilisateurs de PaieCash ?",
+        "PaieCash est destiné à quel public ?"
+      ],
+      "responses": [
+        "PaieCash est destiné aux commerçants, aux e-commerçants, aux supermarchés, aux magasins, aux associations, aux entreprises et à la population en général.",
+        "Les utilisateurs de PaieCash sont variés et comprennent les commerçants, les e-commerçants, les supermarchés, les magasins, les associations, les entreprises et la population en général.",
+        "PaieCash est conçu pour un large public, y compris les commerçants, les e-commerçants, les supermarchés, les magasins, les associations, les entreprises, ainsi que la population en général."
+      ]
+    },
+    {
+      "tag": "interface_utilisateur",
+      "patterns": [
+        "À quoi ressemblera l'interface utilisateur de PaieCash ?",
+        "Comment est conçue l'interface de PaieCash ?",
+        "L'interface de PaieCash est-elle conviviale ?"
+      ],
+      "responses": [
+        "L'interface utilisateur de PaieCash sera conforme aux normes d'une application de transfert d'argent, conviviale et accessible. Elle respectera la norme ISO 26800:2011 pour une expérience utilisateur optimale.",
+        "L'interface de PaieCash est conçue pour être conforme aux normes d'une application de transfert d'argent. Elle est conviviale et accessible, et elle suit la norme ISO 26800:2011 pour garantir une expérience utilisateur optimale.",
+        "L'interface utilisateur de PaieCash est conçue pour être conforme aux normes d'une application de transfert d'argent. Elle est conviviale, accessible et respecte la norme ISO 26800:2011 pour assurer une expérience utilisateur optimale."
+      ]
+    },
+    {
+      "tag": "livrables",
+      "patterns": [
+        "Quels sont les livrables attendus de PaieCash ?",
+        "Que vais-je recevoir avec PaieCash ?",
+        "PaieCash fournira-t-il une documentation ?"
+      ],
+      "responses": [
+        "Les livrables de PaieCash comprennent une application mobile, une base de données cohérente, un site web, des API serveurs et de documentation, ainsi qu'un manuel utilisateur complet.",
+        "Avec PaieCash, vous recevrez une application mobile, une base de données bien structurée, un site web, des API serveurs et une documentation complète, y compris un manuel utilisateur détaillé.",
+        "Vous pouvez vous attendre à recevoir plusieurs livrables de PaieCash, notamment une application mobile, une base de données bien organisée, un site web, des API serveurs, une documentation complète, y compris un manuel utilisateur détaillé."
+      ]
+    },
+    {
+      "tag": "disponibilite",
+      "patterns": [
+        "Quand sera disponible PaieCash ?",
+        "Date de lancement de PaieCash ?",
+        "Quand puis-je utiliser PaieCash ?"
+      ],
+      "responses": [
+        "La date de livraison de PaieCash sera estimée en fonction de la méthodologie COCOMO pour un projet de cette envergure.",
+        "La disponibilité de PaieCash sera déterminée en fonction de la méthodologie COCOMO adaptée à un projet de cette envergure.",
+        "Vous pourrez utiliser PaieCash dès que la date de livraison estimée en fonction de la méthodologie COCOMO sera atteinte."
+      ]
+    },
+    {
+      "tag": "assistance",
+      "patterns": [
+        "Où puis-je obtenir de l'aide en cas de problème ?",
+        "Comment puis-je contacter l'assistance de PaieCash ?",
+        "Besoin d'aide avec PaieCash ?"
+      ],
+      "responses": [
+        "Pour toute assistance ou question, contactez notre équipe d'assistance via le chat intégré dans l'application.",
+        "Si vous avez besoin d'aide ou si vous avez des questions, n'hésitez pas à contacter notre équipe d'assistance via le chat intégré dans l'application PaieCash.",
+        "L'assistance de PaieCash est facilement accessible via le chat intégré dans l'application. N'hésitez pas à nous contacter si vous avez besoin d'aide."
+      ]
+    },
+    {
+      "tag": "points_vente",
+      "patterns": [
+        "Comment puis-je trouver un point de vente PaieCash ?",
+        "Où sont les points de vente PaieCash ?",
+        "Où puis-je utiliser PaieCash en personne ?"
+      ],
+      "responses": [
+        "La géolocalisation de tous nos acteurs, y compris les magasins et supermarchés partenaires, vous permettra de localiser facilement un point de vente PaieCash près de chez vous.",
+        "Vous pouvez facilement trouver un point de vente PaieCash grâce à la géolocalisation de tous nos acteurs, y compris nos partenaires, comme les magasins et les supermarchés.",
+        "Pour trouver un point de vente PaieCash près de chez vous, utilisez la géolocalisation disponible pour tous nos acteurs, y compris nos partenaires, comme les magasins et les supermarchés."
+      ]
+    }  
   
   ]
 }
