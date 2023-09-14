@@ -320,9 +320,7 @@
         "Comment mettre à jour mes informations de compte sur Paiecash ?"
       ],
       "responses": [
-        "Vous pouvez
-
- mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
+        "Vous pouvez mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
       ]
     },
     {
@@ -1708,14 +1706,95 @@
     "responses": [
       "Actuellement, Paiecash offre un support en langue [indiquez les langues prises en charge]. Nous travaillons constamment pour étendre notre support à d'autres langues dans le futur."
     ]
+  },
+  {
+    "tag": "qu-est-ce-que-paiecash-et-le-partenariat",
+    "patterns": [
+      "Qu'est-ce que PaieCash et en quoi consiste ce partenariat ?",
+      "Expliquez PaieCash et son partenariat.",
+      "Pouvez-vous me parler de PaieCash et de son partenariat ?"
+    ],
+    "responses": [
+      "PaieCash est une solution de facilitation des transactions qui s'associe aux clubs amateurs et à leurs investisseurs pour stimuler les échanges. Ce partenariat favorise le développement sportif et social."
+    ]
+  },
+  {
+    "tag": "avantages-partenariat-pour-adherents",
+    "patterns": [
+      "Comment les adhérents du club bénéficient-ils de ce partenariat ?",
+      "Quels avantages les membres du club obtiennent-ils de ce partenariat ?",
+      "En quoi ce partenariat est-il avantageux pour les adhérents du club ?"
+    ],
+    "responses": [
+      "Les adhérents profitent d'avantages tels que la gestion simplifiée des cotisations et des paiements, ainsi que l'accès à des fonctionnalités conviviales pour les équipes sportives."
+    ]
+  },
+  {
+    "tag": "collaboration-avec-collectivites-et-commercants",
+    "patterns": [
+      "Comment fonctionne la collaboration avec les collectivités locales et les commerçants ?",
+      "Expliquez la relation avec les collectivités et les commerçants.",
+      "Pouvez-vous détailler la collaboration avec les collectivités et les commerçants ?"
+    ],
+    "responses": [
+      "PaieCash collabore avec les collectivités locales et les commerçants pour proposer des solutions de financement, ainsi que pour promouvoir les activités des clubs et assurer une visibilité accrue."
+    ]
+  },
+  {
+    "tag": "gestion-transactions-et-paiements",
+    "patterns": [
+      "Comment puis-je gérer les transactions et les paiements avec PaieCash ?",
+      "Expliquez le processus de gestion des paiements avec PaieCash.",
+      "Quelles sont les étapes pour gérer les transactions avec PaieCash ?"
+    ],
+    "responses": [
+      "PaieCash offre une plateforme numérique pour gérer efficacement les paiements, les cotisations, les recettes de buvette et d'événements. Elle permet également d'inscrire les équipes aux compétitions sportives."
+    ]
+  },
+  {
+    "tag": "utilisation-solution-paiecash",
+    "patterns": [
+      "Comment puis-je utiliser la solution de paiement PaieCash ?",
+      "Expliquez le fonctionnement de la solution PaieCash.",
+      "Quelles sont les options pour utiliser la solution PaieCash ?"
+    ],
+    "responses": [
+      "La solution PaieCash offre une carte personnalisée aux couleurs de votre club, permettant des transactions immédiates via la carte, le scan du code ou l'application."
+    ]
+  },
+  {
+    "tag": "developpement-numerique-et-visibilite-club",
+    "patterns": [
+      "Comment PaieCash favorise-t-il le développement numérique et la visibilité du club ?",
+      "Expliquez comment PaieCash contribue au développement numérique des clubs.",
+      "Quels sont les avantages de PaieCash en termes de visibilité pour les clubs ?"
+    ],
+    "responses": [
+      "PaieCash met en place des solutions numériques pour les clubs, favorisant la visibilité, la communication et l'interaction avec les investisseurs, les sponsors et les adhérents."
+    ]
+  },
+  {
+    "tag": "choisir-offre-paiecash",
+    "patterns": [
+      "Comment puis-je choisir l'offre PaieCash qui me convient le mieux ?",
+      "Quelles sont les options pour sélectionner une offre PaieCash ?",
+      "Comment déterminer quelle offre PaieCash est la plus adaptée ?"
+    ],
+    "responses": [
+      "PaieCash propose des offres échelonnées pour répondre aux besoins spécifiques de chaque club. Nous vous invitons à prendre rendez-vous pour discuter de l'offre la plus adaptée à votre situation."
+    ]
+  },
+  {
+    "tag": "contacter-paiecash",
+    "patterns": [
+      "Comment puis-je contacter PaieCash pour en savoir plus ?",
+      "Quels sont les moyens de communication avec PaieCash ?",
+      "Où puis-je trouver les informations de contact de PaieCash ?"
+    ],
+    "responses": [
+      "Vous pouvez nous contacter au +33 7 67 12 96 52 ou visiter notre site web www.paiecash.com pour obtenir plus d'informations sur nos services et notre partenariat avec les clubs amateurs."
+    ]
   }
-
-
-
-
-
-
-
 
   ]
 }
