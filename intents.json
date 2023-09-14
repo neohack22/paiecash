@@ -2085,7 +2085,143 @@
     "responses": [
       "Vous pouvez participer aux événements spéciaux organisés par le supermarché."
     ]
+  },
+  {
+    "tag": "qu_est_ce_que_paiecash",
+    "patterns": [
+      "Qu'est-ce que Paiecash ?"
+    ],
+    "responses": [
+      "Paiecash est une application de fidélité et de cashback multi-commerçants qui relie les clients aux entreprises dans le but de faire gagner des récompenses et de simplifier le shopping des clients tout en aidant les entreprises à se développer et à prospérer."
+    ]
+  },
+  {
+    "tag": "services_offerts",
+    "patterns": [
+      "Quels sont les services offerts par Paiecash ?"
+    ],
+    "responses": [
+      "Paiecash offre deux principaux services : le Cashback, qui permet aux utilisateurs de recevoir un pourcentage du montant de leur paiement chez les Commerces Paiecash, et les Top Up, qui permettent d'acheter des bons d'achat digitaux utilisables chez n'importe quel Commerce Paiecash."
+    ]
+  },
+  {
+    "tag": "conditions_cashback",
+    "patterns": [
+      "Quelles sont les conditions d'obtention du Cashback ?"
+    ],
+    "responses": [
+      "Pour obtenir du Cashback, vous devez effectuer un paiement chez un Commerce Paiecash et présenter votre QR code de carte de fidélité pour que la transaction soit enregistrée. Les détails spécifiques du Cashback peuvent varier d'un Commerce Paiecash à un autre."
+    ]
+  },
+  {
+    "tag": "fonctionnement_top_up",
+    "patterns": [
+      "Comment fonctionne le Top Up de Paiecash ?"
+    ],
+    "responses": [
+      "Le service Top Up de Paiecash vous permet d'acheter et de gérer des bons d'achat digitaux. Ces bons d'achat sont nominatifs et personnels, et ils peuvent être utilisés chez les Commerces Paiecash."
+    ]
+  },
+  {
+    "tag": "inscription_paiecash",
+    "patterns": [
+      "Comment puis-je m'inscrire sur Paiecash ?"
+    ],
+    "responses": [
+      "Pour vous inscrire sur Paiecash, téléchargez l'application Paiecash Client depuis l'Appstore ou le Google Play Store, puis suivez les instructions d'inscription."
+    ]
+  },
+  {
+    "tag": "conditions_top_up",
+    "patterns": [
+      "Quelles sont les conditions d'obtention du Top Up ?"
+    ],
+    "responses": [
+      "Les utilisateurs de Paiecash peuvent obtenir des Top Up de différentes manières, notamment lors d'un achat chez un Commerce Paiecash."
+    ]
+  },
+  {
+    "tag": "recevoir_cashback",
+    "patterns": [
+      "Quand et comment reçoit-on le Cashback ?"
+    ],
+    "responses": [
+      "Le Cashback est crédité instantanément sur votre compte Paiecash dans votre carte de fidélité chez le Commerce Paiecash où vous avez effectué votre paiement."
+    ]
+  },
+  {
+    "tag": "non_reception_cashback",
+    "patterns": [
+      "Que faire si je n'ai pas reçu mon Cashback après un paiement ?"
+    ],
+    "responses": [
+      "Si vous n'avez pas reçu votre Cashback après un paiement chez un Commerce Paiecash, veuillez contacter le support de Paiecash via l'application mobile ou par e-mail à etot@paiecash.com pour résoudre le problème."
+    ]
+  },
+  {
+    "tag": "modes_paiement",
+    "patterns": [
+      "Quels sont les modes de paiement acceptés par Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez effectuer vos paiements chez les Commerces Paiecash en utilisant différents modes de paiement, y compris l'argent en espèces, les cartes bancaires VISA et Mastercard, OM, MTN MoMo, Yoomee Money, et d'autres moyens de paiement dématérialisés."
+    ]
+  },
+  {
+    "tag": "commerces_participants",
+    "patterns": [
+      "Où puis-je trouver la liste des Commerces Paiecash participants ?"
+    ],
+    "responses": [
+      "Vous pouvez trouver la liste complète et mise à jour des Commerces Paiecash participants sur le site web de Paiecash : lien vers la liste."
+    ]
+  },
+  {
+    "tag": "litige_reclamation",
+    "patterns": [
+      "Que faire en cas de litige ou de réclamation ?"
+    ],
+    "responses": [
+      "En cas de litige ou de réclamation concernant le Cashback ou les Top Up, veuillez contacter le support client de Paiecash pour obtenir de l'aide et résoudre le problème."
+    ]
+  },
+  {
+    "tag": "protection_donnees",
+    "patterns": [
+      "Comment sont protégées mes données personnelles sur Paiecash ?"
+    ],
+    "responses": [
+      "Paiecash Cameroun protège, utilise et respecte vos données personnelles conformément aux lois et réglementations en vigueur, notamment en matière de protection des données à caractère personnel."
+    ]
+  },
+  {
+    "tag": "lutte_fraude_blanchiment",
+    "patterns": [
+      "Comment Paiecash lutte-t-il contre la fraude et le blanchiment d'argent ?"
+    ],
+    "responses": [
+      "Paiecash s'engage à lutter contre la fraude et le blanchiment d'argent. Toute tentative de fraude expose les auteurs à des mesures telles que l'annulation de la transaction et des poursuites judiciaires."
+    ]
+  },
+  {
+    "tag": "contact_support_client",
+    "patterns": [
+      "Comment contacter le support client de Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez contacter le support client de Paiecash via l'application mobile Paiecash ou par e-mail à etot@paiecash.com. Nous sommes là pour vous aider."
+    ]
+  },
+  {
+    "tag": "cgu_paiecash",
+    "patterns": [
+      "Où puis-je trouver les Conditions Générales d'Utilisation complètes de Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez consulter les Conditions Générales d'Utilisation complètes de Paiecash sur le site web de Paiecash : lien vers les CGU."
+    ]
   }
+
 
 
   ]
