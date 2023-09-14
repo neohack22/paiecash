@@ -1965,6 +1965,126 @@
     "responses": [
       "Vous pouvez changer la langue de l'application en Français ou en Anglais, vous déconnecter ou consulter la politique de confidentialité de l'application."
     ]
+  },
+  {
+    "tag": "Qu'est-ce que PaieCash QR Code ?",
+    "patterns": [
+      "Expliquez PaieCash QR Code",
+      "En quoi consiste PaieCash QR Code ?"
+    ],
+    "responses": [
+      "PaieCash QR Code est une solution de tickets de caisse dématérialisés via un QR code. Elle permet de récupérer votre facture ou ticket de caisse immédiatement et de façon permanente tout en conservant vos droits de garantie."
+    ]
+  },
+  {
+    "tag": "Fonctionnalités de PaieCash QR Code",
+    "patterns": [
+      "Quelles sont les fonctionnalités principales de PaieCash QR Code ?",
+      "Listez les fonctionnalités de PaieCash QR Code."
+    ],
+    "responses": [
+      "PaieCash QR Code propose des fonctionnalités telles que l'authentification des utilisateurs, la gestion des produits et des stocks, la gestion du panier et des tickets, la validation des tickets, l'interface admin du caissier, l'interface admin du magasin, la modération des comptes par l'administrateur, les promotions de produits, et bien d'autres."
+    ]
+  },
+  {
+    "tag": "Création de compte client",
+    "patterns": [
+      "Comment créer un compte client sur PaieCash QR Code ?",
+      "Quels sont les étapes pour s'inscrire sur PaieCash QR Code ?"
+    ],
+    "responses": [
+      "Pour créer un compte client, vous devez fournir votre email, numéro de téléphone et nom."
+    ]
+  },
+  {
+    "tag": "Connexion à l'application",
+    "patterns": [
+      "Comment se connecter à l'application PaieCash QR Code ?",
+      "Quelles sont les étapes pour se connecter à PaieCash QR Code ?"
+    ],
+    "responses": [
+      "Pour vous connecter à l'application, utilisez votre numéro de téléphone et votre mot de passe."
+    ]
+  },
+  {
+    "tag": "Réinitialisation de mot de passe",
+    "patterns": [
+      "Que faire si j'oublie mon mot de passe ?",
+      "Comment réinitialiser mon mot de passe en cas d'oubli ?"
+    ],
+    "responses": [
+      "Si vous oubliez votre mot de passe, vous pouvez le réinitialiser en fournissant votre adresse email. Vous recevrez un code pour réinitialiser votre mot de passe."
+    ]
+  },
+  {
+    "tag": "Gestion du panier",
+    "patterns": [
+      "Comment enregistrer des produits dans mon panier ?",
+      "Quelle est la procédure pour ajouter des articles à mon panier ?"
+    ],
+    "responses": [
+      "Vous pouvez scanner les produits que vous souhaitez acheter et les ajouter à votre panier avec la quantité souhaitée."
+    ]
+  },
+  {
+    "tag": "Validation du panier",
+    "patterns": [
+      "Comment valider les produits dans mon panier ?",
+      "Quelle est la démarche pour finaliser mon panier ?"
+    ],
+    "responses": [
+      "Une fois que vous avez ajouté les produits à votre panier, vous pouvez les valider pour générer un reçu associé à un QR code."
+    ]
+  },
+  {
+    "tag": "Paiement à la caisse",
+    "patterns": [
+      "Comment effectuer le paiement à la caisse ?",
+      "Quelle est la procédure pour payer mes achats ?"
+    ],
+    "responses": [
+      "Présentez le QR code lié à votre facture à la caisse pour effectuer le paiement."
+    ]
+  },
+  {
+    "tag": "Modification de profil",
+    "patterns": [
+      "Comment modifier mon profil ?",
+      "Quelles sont les étapes pour mettre à jour mon profil ?"
+    ],
+    "responses": [
+      "Vous pouvez mettre à jour votre profil en modifiant votre nom et prénom."
+    ]
+  },
+  {
+    "tag": "Configuration des paramètres",
+    "patterns": [
+      "Comment configurer les paramètres de l'application ?",
+      "Quelles options de configuration sont disponibles ?"
+    ],
+    "responses": [
+      "Vous pouvez configurer les paramètres de l'application, y compris la langue (français ou anglais), vous déconnecter et consulter la politique de confidentialité."
+    ]
+  },
+  {
+    "tag": "Promotions sur PaieCash QR Code",
+    "patterns": [
+      "Comment profiter des promotions sur PaieCash QR Code ?",
+      "Quelles sont les étapes pour bénéficier des offres promotionnelles ?"
+    ],
+    "responses": [
+      "Vous pouvez profiter des promotions créées par le supermarché pour obtenir des réductions sur vos achats."
+    ]
+  },
+  {
+    "tag": "Événements sur PaieCash QR Code",
+    "patterns": [
+      "Comment participer aux événements sur PaieCash QR Code ?",
+      "Quelles sont les démarches pour assister aux événements spéciaux ?"
+    ],
+    "responses": [
+      "Vous pouvez participer aux événements spéciaux organisés par le supermarché."
+    ]
   }
 
 
