@@ -488,287 +488,166 @@
       }
       ]
       ,
-    {
-      "tag": "avantages_club_foot_paiecash",
-      "patterns": [
-        "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?"
-      ],
-      "responses": [
-        "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
-      ]
-    },
-    {
-      "tag": "paiement_qr_code_paiecash",
-      "patterns": [
-        "Comment fonctionne le paiement par QR code sur Paiecash ?"
-      ],
-      "responses": [
-        "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
-      ]
-    },
-    {
-      "tag": "support_client_paiecash",
-      "patterns": [
-        "Comment puis-je contacter le support client de Paiecash ?"
-      ],
-      "responses": [
-        "Vous pouvez contacter le support client de Paiecash via l'application en utilisant la fonction de messagerie ou en envoyant un e-mail à l'adresse de support fournie sur le site web."
-      ]
-    },
-    {
-      "tag": "promotions_nouvelles_fonctionnalites_paiecash",
-      "patterns": [
-        "Comment être informé des promotions et des nouvelles fonctionnalités sur Paiecash ?"
-      ],
-      "responses": [
-        "Vous serez informé des promotions et des nouvelles fonctionnalités de Paiecash via des notifications dans l'application, des e-mails et des annonces sur le site web."
-      ]
-    },
-    {
-      "tag": "mise_a_jour_informations_compte_paiecash",
-      "patterns": [
-        "Comment mettre à jour mes informations de compte sur Paiecash ?"
-      ],
-      "responses": [
-        "Vous pouvez mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
-      ]
-    },
-    {
-      "tag": "gestion_partenariats_commercants_paiecash",
-      "patterns": [
-        "Comment fonctionne la gestion des partenariats avec les commerçants sur Paiecash ?"
-      ],
-      "responses": [
-        "Paiecash permet aux commerçants de créer des offres et des promotions pour les utilisateurs. Les utilisateurs peuvent profiter de réductions et de récompenses en effectuant des achats chez les partenaires de Paiecash."
-      ]
-    },
-    {
-      "tag": "suivi_transactions_paiements_paiecash",
-      "patterns": [
-        "Comment puis-je suivre mes transactions et paiements sur Paiecash ?"
-      ],
-      "responses": [
-        "Vous pouvez suivre vos transactions et paiements sur Paiecash en consultant l'historique des transactions dans l'application. Vous y trouverez des détails sur vos achats et vos paiements."
-      ]
-    },
-    {
-      "tag": "mesures_securite_paiecash",
-      "patterns": [
-        "Quelles sont les mesures de sécurité mises en place par Paiecash ?"
-      ],
-      "responses": [
-        "Paiecash utilise des mesures de sécurité avancées pour protéger vos données personnelles et vos informations de paiement. Le paiement par QR code et la connexion sécurisée font partie des méthodes de sécurité."
-      ]
-    },
-    {
-      "tag": "systeme_cashback_paiecash",
-      "patterns": [
-        "Comment fonctionne le système de cashback pour les utilisateurs de Paiecash ?"
-      ],
-      "responses": [
-        "Le système de cashback de Paiecash permet aux utilisateurs de gagner de l'argent en effectuant des achats chez les commerçants partenaires. Une partie du montant dépensé est reversée sous forme de cashback."
-      ]
-    }
-  ]
-},                                           
-{
-  "tag": "qu_est_ce_que_paiecash",
-  "patterns": [
-  "Qu'est-ce que Paiecash ?"
-  ],
-  "responses": [
-  "Paiecash est une plateforme de paiement en ligne et de gestion de cartes de fidélité. Elle propose diverses fonctionnalités pour les utilisateurs et les commerçants."
-  ]
-  },
-  {
-  "tag": "fonctionnalites_paiecash",
-  "patterns": [
-  "Quelles sont les fonctionnalités de Paiecash ?"
-  ],
-  "responses": [
-  "Paiecash offre diverses fonctionnalités telles que les paiements en ligne, la gestion des cartes de fidélité, la création de codes QR pour les paiements et les promotions, ainsi que la possibilité d'envoyer des notifications aux membres."
-  ]
-  },
-  {
-  "tag": "inscription_paiecash",
-  "patterns": [
-  "Comment puis-je m'inscrire sur Paiecash ?"
-  ],
-  "responses": [
-  "Vous pouvez vous inscrire sur Paiecash en créant un compte via l'application mobile ou le site web. Suivez les instructions fournies pour compléter le processus d'inscription."
-  ]
-  },
-  {
-  "tag": "cartes_fidelite_paiecash",
-  "patterns": [
-  "Comment fonctionnent les cartes de fidélité sur Paiecash ?"
-  ],
-  "responses": [
-  "Les cartes de fidélité de Paiecash permettent aux utilisateurs de cumuler des points d'achat et de bénéficier de réductions, de promotions et de cadeaux chez les commerçants participants."
-  ]
-  },
-  {
-  "tag": "codes_qr_paiecash",
-  "patterns": [
-  "Comment puis-je utiliser les codes QR de Paiecash ?"
-  ],
-  "responses": [
-  "Les codes QR de Paiecash peuvent être utilisés pour effectuer des paiements rapides en scannant le code avec l'application. Ils peuvent également être utilisés pour les promotions et les réductions dans les magasins partenaires."
-  ]
-  },
-  {
-  "tag": "systeme_parrainage_paiecash",
-  "patterns": [
-  "Comment fonctionne le système de parrainage sur Paiecash ?"
-  ],
-  "responses": [
-  "Le système de parrainage de Paiecash vous permet de parrainer d'autres utilisateurs et de gagner des récompenses. Vous recevrez un pourcentage des achats effectués par vos filleuls."
-  ]
-  },
-  {
-  "tag": "avantages_club_foot_paiecash",
-  "patterns": [
-  "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?"
-  ],
-  "responses": [
-  "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
-  ]
-  },
-  {
-  "tag": "paiement_qr_code_paiecash",
-  "patterns": [
-  "Comment fonctionne le paiement par QR code sur Paiecash ?"
-  ],
-  "responses": [
-  "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
-  ]
-  },
-  {
-  "tag": "support_client_paiecash",
-  "patterns": [
-  "Comment puis-je contacter le support client de Paiecash ?"
-  ],
-  "responses": [
-  "Vous pouvez contacter le support client de Paiecash via l'application en utilisant la fonction de messagerie ou en envoyant un e-mail à l'adresse de support fournie sur le site web."
-  ]
-  },
-  {
-  "tag": "promotions_nouvelles_fonctionnalites_paiecash",
-  "patterns": [
-  "Comment être informé des promotions et des nouvelles fonctionnalités sur Paiecash ?"
-  ],
-  "responses": [
-  "Vous serez informé des promotions et des nouvelles fonctionnalités de Paiecash via des notifications dans l'application, des e-mails et des annonces sur le site web."
-  ]
-  },
-  {
-  "tag": "mise_a_jour_informations_compte_paiecash",
-  "patterns": [
-  "Comment mettre à jour mes informations de compte sur Paiecash ?"
-  ],
-  "responses": [
-  "Vous pouvez mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
-  ]
-  },
-  {
-  "tag": "gestion_partenariats_commercants_paiecash",
-  "patterns": [
-  "Comment fonctionne la gestion des partenariats avec les commerçants sur Paiecash ?"
-  ],
-  "responses": [
-  "Paiecash permet aux commerçants de créer des offres et des promotions pour les utilisateurs. Les utilisateurs peuvent profiter de réductions et de récompenses en effectuant des achats chez les partenaires de Paiecash."
-  ]
-  },
-  {
-  "tag": "suivi_transactions_paiements_paiecash",
-  "patterns": [
-  "Comment puis-je suivre mes transactions et paiements sur Paiecash ?"
-  ],
-  "responses": [
-  "Vous pouvez suivre vos transactions et paiements sur Paiecash en consultant l'historique des transactions dans l'application. Vous y trouverez des détails sur vos achats et vos paiements."
-  ]
-  },
-  {
-  "tag": "mesures_securite_paiecash",
-  "patterns": [
-  "Quelles sont les mesures de sécurité mises en place par Paiecash ?"
-  ],
-  "responses": [
-  "Paiecash utilise des mesures de sécurité avancées pour protéger vos données personnelles et vos informations de paiement. Le paiement par QR code et la connexion sécurisée font partie des méthodes de sécurité."
-  ]
-  },
-  {
-  "tag": "systeme_cashback_paiecash",
-  "patterns": [
-  "Comment fonctionne le système de cashback pour les utilisateurs de Paiecash ?"
-  ],
-  "responses": [
-  "Le système de cashback de Paiecash permet aux utilisateurs de gagner de l'argent en effectuant des achats chez les commerçants partenaires. Une partie du montant dépensé est reversée sous forme de cashback."
-  ]
-  },
-  {
-    "tag": "Qu'est-ce que PaieCash ?",
-    "patterns": [
-      "Qu'est-ce que PaieCash ?"
-    ],
-    "responses": [
-      "PaieCash est une entreprise innovante opérant en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Notre objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
-    ]
-  },
-  {
-    "tag": "Objectif du projet",
-    "patterns": [
-      "Quel est l'objectif du projet PaieCash ?"
-    ],
-    "responses": [
-      "Le projet vise à créer une application mobile sur Android et IOS, ainsi qu'un site web, permettant aux utilisateurs de réaliser des transactions financières, d'envoyer et de recevoir de l'argent, d'effectuer des paiements en ligne, et bien plus encore."
-    ]
-  },
-  {
-    "tag": "Fonctionnalités principales",
-    "patterns": [
-      "Quelles sont les fonctionnalités principales de l'application PaieCash ?"
-    ],
-    "responses": [
-      "L'application PaieCash propose une gamme complète de services : transferts d'argent entre utilisateurs, dépôts et retraits, paiements en ligne sur des sites marchands, gestion de comptes utilisateurs, échanges de devises, épargne, crédits, et bien d'autres."
-    ]
-  },
-  {
-    "tag": "Différence avec la concurrence",
-    "patterns": [
-      "Comment PaieCash se démarque-t-il de la concurrence ?"
-    ],
-    "responses": [
-      "Nous rassemblons une variété de moyens de paiement numérique en une seule application conviviale. De plus, notre portée internationale vous permet d'effectuer des transactions en Afrique et à l'international en toute fiabilité."
-    ]
-  },
-  {
-    "tag": "Conception des interfaces",
-    "patterns": [
-      "Comment sont conçus les interfaces de PaieCash ?"
-    ],
-    "responses": [
-      "Nos interfaces suivent les normes ergonomiques de l'UI/UX design, garantissant une expérience utilisateur intuitive et conviviale. Nous respectons les normes ISO 26800:2011 pour une expérience optimale."
-    ]
-  },
-  {
-    "tag": "Avantages du projet",
-    "patterns": [
-      "Quels sont les avantages du projet PaieCash ?"
-    ],
-    "responses": [
-      "PaieCash résout le problème du manque de liquidités en Afrique. Il facilite les paiements entre acteurs économiques et offre une solution de paiement rapide et fiable pour tous."
-    ]
-  },
-  {
-    "tag": "Devenir un utilisateur",
-    "patterns": [
-      "Comment puis-je devenir un utilisateur de PaieCash ?"
-    ],
-    "responses": [
-      "Toute personne possédant un téléphone portable peut devenir un utilisateur. Si vous souhaitez effectuer des transactions en ligne, notre application est là pour vous."
-    ]
-  },
+      {
+        "tag": "avantages_club_foot_paiecash",
+        "patterns": [
+          "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?",
+          "Quels bénéfices offre Paiecash aux clubs de football ?"
+        ],
+        "responses": [
+          "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
+        ]
+      },
+      {
+        "tag": "paiement_qr_code_paiecash",
+        "patterns": [
+          "Comment fonctionne le paiement par QR code sur Paiecash ?",
+          "Expliquez le processus de paiement via QR code sur Paiecash."
+        ],
+        "responses": [
+          "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
+        ]
+      },
+      {
+        "tag": "support_client_paiecash",
+        "patterns": [
+          "Comment puis-je contacter le support client de Paiecash ?",
+          "Quels sont les moyens de contacter le support client de Paiecash ?"
+        ],
+        "responses": [
+          "Vous pouvez contacter le support client de Paiecash via l'application en utilisant la fonction de messagerie ou en envoyant un e-mail à l'adresse de support fournie sur le site web."
+        ]
+      },
+      {
+        "tag": "promotions_nouvelles_fonctionnalites_paiecash",
+        "patterns": [
+          "Comment être informé des promotions et des nouvelles fonctionnalités sur Paiecash ?",
+          "Où puis-je trouver des informations sur les promotions et les mises à jour de Paiecash ?"
+        ],
+        "responses": [
+          "Vous serez informé des promotions et des nouvelles fonctionnalités de Paiecash via des notifications dans l'application, des e-mails et des annonces sur le site web."
+        ]
+      },
+      {
+        "tag": "mise_a_jour_informations_compte_paiecash",
+        "patterns": [
+          "Comment mettre à jour mes informations de compte sur Paiecash ?",
+          "Quelle est la procédure pour modifier les détails de mon compte Paiecash ?"
+        ],
+        "responses": [
+          "Vous pouvez mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
+        ]
+      },
+      {
+        "tag": "gestion_partenariats_commercants_paiecash",
+        "patterns": [
+          "Comment fonctionne la gestion des partenariats avec les commerçants sur Paiecash ?",
+          "Expliquez le processus de partenariat entre Paiecash et les commerçants."
+        ],
+        "responses": [
+          "Paiecash permet aux commerçants de créer des offres et des promotions pour les utilisateurs. Les utilisateurs peuvent profiter de réductions et de récompenses en effectuant des achats chez les partenaires de Paiecash."
+        ]
+      },
+      {
+        "tag": "suivi_transactions_paiements_paiecash",
+        "patterns": [
+          "Comment puis-je suivre mes transactions et paiements sur Paiecash ?",
+          "Où puis-je consulter l'historique de mes paiements et de mes transactions sur Paiecash ?"
+        ],
+        "responses": [
+          "Vous pouvez suivre vos transactions et paiements sur Paiecash en consultant l'historique des transactions dans l'application. Vous y trouverez des détails sur vos achats et vos paiements."
+        ]
+      },
+      {
+        "tag": "mesures_securite_paiecash",
+        "patterns": [
+          "Quelles sont les mesures de sécurité mises en place par Paiecash ?",
+          "Comment Paiecash garantit-il la sécurité de mes données et de mes paiements ?"
+        ],
+        "responses": [
+          "Paiecash utilise des mesures de sécurité avancées pour protéger vos données personnelles et vos informations de paiement. Le paiement par QR code et la connexion sécurisée font partie des méthodes de sécurité."
+        ]
+      },
+      {
+        "tag": "systeme_cashback_paiecash",
+        "patterns": [
+          "Comment fonctionne le système de cashback pour les utilisateurs de Paiecash ?",
+          "Expliquez le système de cashback proposé par Paiecash."
+        ],
+        "responses": [
+          "Le système de cashback de Paiecash permet aux utilisateurs de gagner de l'argent en effectuant des achats chez les commerçants partenaires. Une partie du montant dépensé est reversée sous forme de cashback."
+        ]
+      },
+      {
+        "tag": "qu_est_ce_que_paiecash",
+        "patterns": [
+          "Qu'est-ce que PaieCash ?",
+          "Pouvez-vous me donner une description de PaieCash ?"
+        ],
+        "responses": [
+          "PaieCash est une entreprise innovante opérant en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Notre objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
+        ]
+      },
+      {
+        "tag": "Objectif du projet",
+        "patterns": [
+          "Quel est l'objectif du projet PaieCash ?",
+          "Quels sont les buts visés par le projet PaieCash ?"
+        ],
+        "responses": [
+          "Le projet vise à créer une application mobile sur Android et IOS, ainsi qu'un site web, permettant aux utilisateurs de réaliser des transactions financières, d'envoyer et de recevoir de l'argent, d'effectuer des paiements en ligne, et bien plus encore."
+        ]
+      },
+      {
+        "tag": "Fonctionnalités principales",
+        "patterns": [
+          "Quelles sont les fonctionnalités principales de l'application PaieCash ?",
+          "Pouvez-vous me donner un aperçu des principales fonctionnalités de PaieCash ?"
+        ],
+        "responses": [
+          "L'application PaieCash propose une gamme complète de services : transferts d'argent entre utilisateurs, dépôts et retraits, paiements en ligne sur des sites marchands, gestion de comptes utilisateurs, échanges de devises, épargne, crédits, et bien d'autres."
+        ]
+      },
+      {
+        "tag": "Différence avec la concurrence",
+        "patterns": [
+          "Comment PaieCash se démarque-t-il de la concurrence ?",
+          "Qu'est-ce qui distingue PaieCash de ses concurrents ?"
+        ],
+        "responses": [
+          "Nous rassemblons une variété de moyens de paiement numérique en une seule application conviviale. De plus, notre portée internationale vous permet d'effectuer des transactions en Afrique et à l'international en toute fiabilité."
+        ]
+      },
+      {
+        "tag": "Conception des interfaces",
+        "patterns": [
+          "Comment sont conçus les interfaces de PaieCash ?",
+          "Pouvez-vous expliquer la conception des interfaces de PaieCash ?"
+        ],
+        "responses": [
+          "Nos interfaces suivent les normes ergonomiques de l'UI/UX design, garantissant une expérience utilisateur intuitive et conviviale. Nous respectons les normes ISO 26800:2011 pour une expérience optimale."
+        ]
+      },
+      {
+        "tag": "Avantages du projet",
+        "patterns": [
+          "Quels sont les avantages du projet PaieCash ?",
+          "Pouvez-vous me donner des détails sur les bénéfices du projet PaieCash ?"
+        ],
+        "responses": [
+          "PaieCash résout le problème du manque de liquidités en Afrique. Il facilite les paiements entre acteurs économiques et offre une solution de paiement rapide et fiable pour tous."
+        ]
+      },
+      {
+        "tag": "Devenir un utilisateur",
+        "patterns": [
+          "Comment puis-je devenir un utilisateur de PaieCash ?",
+          "Quelle est la procédure pour devenir utilisateur de PaieCash ?"
+        ],
+        "responses": [
+          "Toute personne possédant un téléphone portable peut devenir un utilisateur. Si vous souhaitez effectuer des transactions en ligne, notre application est là pour vous."
+        ]
+      },
   {
     "tag": "Budget de développement",
     "patterns": [
