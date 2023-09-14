@@ -488,170 +488,171 @@
       }
       ]
       ,
-      {
-        "tag": "avantages_club_foot_paiecash",
-        "patterns": [
-          "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?",
-          "Quels bénéfices offre Paiecash aux clubs de football ?"
-        ],
-        "responses": [
-          "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
-        ]
-      },
-      {
-        "tag": "paiement_qr_code_paiecash",
-        "patterns": [
-          "Comment fonctionne le paiement par QR code sur Paiecash ?",
-          "Expliquez le processus de paiement via QR code sur Paiecash."
-        ],
-        "responses": [
-          "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
-        ]
-      },
-      {
-        "tag": "support_client_paiecash",
-        "patterns": [
-          "Comment puis-je contacter le support client de Paiecash ?",
-          "Quels sont les moyens de contacter le support client de Paiecash ?"
-        ],
-        "responses": [
-          "Vous pouvez contacter le support client de Paiecash via l'application en utilisant la fonction de messagerie ou en envoyant un e-mail à l'adresse de support fournie sur le site web."
-        ]
-      },
-      {
-        "tag": "promotions_nouvelles_fonctionnalites_paiecash",
-        "patterns": [
-          "Comment être informé des promotions et des nouvelles fonctionnalités sur Paiecash ?",
-          "Où puis-je trouver des informations sur les promotions et les mises à jour de Paiecash ?"
-        ],
-        "responses": [
-          "Vous serez informé des promotions et des nouvelles fonctionnalités de Paiecash via des notifications dans l'application, des e-mails et des annonces sur le site web."
-        ]
-      },
-      {
-        "tag": "mise_a_jour_informations_compte_paiecash",
-        "patterns": [
-          "Comment mettre à jour mes informations de compte sur Paiecash ?",
-          "Quelle est la procédure pour modifier les détails de mon compte Paiecash ?"
-        ],
-        "responses": [
-          "Vous pouvez mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
-        ]
-      },
-      {
-        "tag": "gestion_partenariats_commercants_paiecash",
-        "patterns": [
-          "Comment fonctionne la gestion des partenariats avec les commerçants sur Paiecash ?",
-          "Expliquez le processus de partenariat entre Paiecash et les commerçants."
-        ],
-        "responses": [
-          "Paiecash permet aux commerçants de créer des offres et des promotions pour les utilisateurs. Les utilisateurs peuvent profiter de réductions et de récompenses en effectuant des achats chez les partenaires de Paiecash."
-        ]
-      },
-      {
-        "tag": "suivi_transactions_paiements_paiecash",
-        "patterns": [
-          "Comment puis-je suivre mes transactions et paiements sur Paiecash ?",
-          "Où puis-je consulter l'historique de mes paiements et de mes transactions sur Paiecash ?"
-        ],
-        "responses": [
-          "Vous pouvez suivre vos transactions et paiements sur Paiecash en consultant l'historique des transactions dans l'application. Vous y trouverez des détails sur vos achats et vos paiements."
-        ]
-      },
-      {
-        "tag": "mesures_securite_paiecash",
-        "patterns": [
-          "Quelles sont les mesures de sécurité mises en place par Paiecash ?",
-          "Comment Paiecash garantit-il la sécurité de mes données et de mes paiements ?"
-        ],
-        "responses": [
-          "Paiecash utilise des mesures de sécurité avancées pour protéger vos données personnelles et vos informations de paiement. Le paiement par QR code et la connexion sécurisée font partie des méthodes de sécurité."
-        ]
-      },
-      {
-        "tag": "systeme_cashback_paiecash",
-        "patterns": [
-          "Comment fonctionne le système de cashback pour les utilisateurs de Paiecash ?",
-          "Expliquez le système de cashback proposé par Paiecash."
-        ],
-        "responses": [
-          "Le système de cashback de Paiecash permet aux utilisateurs de gagner de l'argent en effectuant des achats chez les commerçants partenaires. Une partie du montant dépensé est reversée sous forme de cashback."
-        ]
-      },
-      {
-        "tag": "qu_est_ce_que_paiecash",
-        "patterns": [
-          "Qu'est-ce que PaieCash ?",
-          "Pouvez-vous me donner une description de PaieCash ?"
-        ],
-        "responses": [
-          "PaieCash est une entreprise innovante opérant en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Notre objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
-        ]
-      },
-      {
-        "tag": "Objectif du projet",
-        "patterns": [
-          "Quel est l'objectif du projet PaieCash ?",
-          "Quels sont les buts visés par le projet PaieCash ?"
-        ],
-        "responses": [
-          "Le projet vise à créer une application mobile sur Android et IOS, ainsi qu'un site web, permettant aux utilisateurs de réaliser des transactions financières, d'envoyer et de recevoir de l'argent, d'effectuer des paiements en ligne, et bien plus encore."
-        ]
-      },
-      {
-        "tag": "Fonctionnalités principales",
-        "patterns": [
-          "Quelles sont les fonctionnalités principales de l'application PaieCash ?",
-          "Pouvez-vous me donner un aperçu des principales fonctionnalités de PaieCash ?"
-        ],
-        "responses": [
-          "L'application PaieCash propose une gamme complète de services : transferts d'argent entre utilisateurs, dépôts et retraits, paiements en ligne sur des sites marchands, gestion de comptes utilisateurs, échanges de devises, épargne, crédits, et bien d'autres."
-        ]
-      },
-      {
-        "tag": "Différence avec la concurrence",
-        "patterns": [
-          "Comment PaieCash se démarque-t-il de la concurrence ?",
-          "Qu'est-ce qui distingue PaieCash de ses concurrents ?"
-        ],
-        "responses": [
-          "Nous rassemblons une variété de moyens de paiement numérique en une seule application conviviale. De plus, notre portée internationale vous permet d'effectuer des transactions en Afrique et à l'international en toute fiabilité."
-        ]
-      },
-      {
-        "tag": "Conception des interfaces",
-        "patterns": [
-          "Comment sont conçus les interfaces de PaieCash ?",
-          "Pouvez-vous expliquer la conception des interfaces de PaieCash ?"
-        ],
-        "responses": [
-          "Nos interfaces suivent les normes ergonomiques de l'UI/UX design, garantissant une expérience utilisateur intuitive et conviviale. Nous respectons les normes ISO 26800:2011 pour une expérience optimale."
-        ]
-      },
-      {
-        "tag": "Avantages du projet",
-        "patterns": [
-          "Quels sont les avantages du projet PaieCash ?",
-          "Pouvez-vous me donner des détails sur les bénéfices du projet PaieCash ?"
-        ],
-        "responses": [
-          "PaieCash résout le problème du manque de liquidités en Afrique. Il facilite les paiements entre acteurs économiques et offre une solution de paiement rapide et fiable pour tous."
-        ]
-      },
-      {
-        "tag": "Devenir un utilisateur",
-        "patterns": [
-          "Comment puis-je devenir un utilisateur de PaieCash ?",
-          "Quelle est la procédure pour devenir utilisateur de PaieCash ?"
-        ],
-        "responses": [
-          "Toute personne possédant un téléphone portable peut devenir un utilisateur. Si vous souhaitez effectuer des transactions en ligne, notre application est là pour vous."
-        ]
-      },
+    {
+    "tag": "avantages_club_foot_paiecash",
+    "patterns": [
+      "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?",
+      "Quels bénéfices offre Paiecash aux clubs de football ?"
+    ],
+    "responses": [
+      "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
+    ]
+  },
+  {
+    "tag": "paiement_qr_code_paiecash",
+    "patterns": [
+      "Comment fonctionne le paiement par QR code sur Paiecash ?",
+      "Expliquez le processus de paiement via QR code sur Paiecash."
+    ],
+    "responses": [
+      "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
+    ]
+  },
+  {
+    "tag": "support_client_paiecash",
+    "patterns": [
+      "Comment puis-je contacter le support client de Paiecash ?",
+      "Quels sont les moyens de contacter le support client de Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez contacter le support client de Paiecash via l'application en utilisant la fonction de messagerie ou en envoyant un e-mail à l'adresse de support fournie sur le site web."
+    ]
+  },
+  {
+    "tag": "promotions_nouvelles_fonctionnalites_paiecash",
+    "patterns": [
+      "Comment être informé des promotions et des nouvelles fonctionnalités sur Paiecash ?",
+      "Où puis-je trouver des informations sur les promotions et les mises à jour de Paiecash ?"
+    ],
+    "responses": [
+      "Vous serez informé des promotions et des nouvelles fonctionnalités de Paiecash via des notifications dans l'application, des e-mails et des annonces sur le site web."
+    ]
+  },
+  {
+    "tag": "mise_a_jour_informations_compte_paiecash",
+    "patterns": [
+      "Comment mettre à jour mes informations de compte sur Paiecash ?",
+      "Quelle est la procédure pour modifier les détails de mon compte Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez mettre à jour vos informations de compte sur Paiecash en accédant à vos paramètres de profil dans l'application ou sur le site web et en modifiant les détails nécessaires."
+    ]
+  },
+  {
+    "tag": "gestion_partenariats_commercants_paiecash",
+    "patterns": [
+      "Comment fonctionne la gestion des partenariats avec les commerçants sur Paiecash ?",
+      "Expliquez le processus de partenariat entre Paiecash et les commerçants."
+    ],
+    "responses": [
+      "Paiecash permet aux commerçants de créer des offres et des promotions pour les utilisateurs. Les utilisateurs peuvent profiter de réductions et de récompenses en effectuant des achats chez les partenaires de Paiecash."
+    ]
+  },
+  {
+    "tag": "suivi_transactions_paiements_paiecash",
+    "patterns": [
+      "Comment puis-je suivre mes transactions et paiements sur Paiecash ?",
+      "Où puis-je consulter l'historique de mes paiements et de mes transactions sur Paiecash ?"
+    ],
+    "responses": [
+      "Vous pouvez suivre vos transactions et paiements sur Paiecash en consultant l'historique des transactions dans l'application. Vous y trouverez des détails sur vos achats et vos paiements."
+    ]
+  },
+  {
+    "tag": "mesures_securite_paiecash",
+    "patterns": [
+      "Quelles sont les mesures de sécurité mises en place par Paiecash ?",
+      "Comment Paiecash garantit-il la sécurité de mes données et de mes paiements ?"
+    ],
+    "responses": [
+      "Paiecash utilise des mesures de sécurité avancées pour protéger vos données personnelles et vos informations de paiement. Le paiement par QR code et la connexion sécurisée font partie des méthodes de sécurité."
+    ]
+  },
+  {
+    "tag": "systeme_cashback_paiecash",
+    "patterns": [
+      "Comment fonctionne le système de cashback pour les utilisateurs de Paiecash ?",
+      "Expliquez le système de cashback proposé par Paiecash."
+    ],
+    "responses": [
+      "Le système de cashback de Paiecash permet aux utilisateurs de gagner de l'argent en effectuant des achats chez les commerçants partenaires. Une partie du montant dépensé est reversée sous forme de cashback."
+    ]
+  },
+  {
+    "tag": "qu_est_ce_que_paiecash",
+    "patterns": [
+      "Qu'est-ce que PaieCash ?",
+      "Pouvez-vous me donner une description de PaieCash ?"
+    ],
+    "responses": [
+      "PaieCash est une entreprise innovante opérant en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Notre objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
+    ]
+  },
+  {
+    "tag": "Objectif du projet",
+    "patterns": [
+      "Quel est l'objectif du projet PaieCash ?",
+      "Quels sont les buts visés par le projet PaieCash ?"
+    ],
+    "responses": [
+      "Le projet vise à créer une application mobile sur Android et IOS, ainsi qu'un site web, permettant aux utilisateurs de réaliser des transactions financières, d'envoyer et de recevoir de l'argent, d'effectuer des paiements en ligne, et bien plus encore."
+    ]
+  },
+  {
+    "tag": "Fonctionnalités principales",
+    "patterns": [
+      "Quelles sont les fonctionnalités principales de l'application PaieCash ?",
+      "Pouvez-vous me donner un aperçu des principales fonctionnalités de PaieCash ?"
+    ],
+    "responses": [
+      "L'application PaieCash propose une gamme complète de services : transferts d'argent entre utilisateurs, dépôts et retraits, paiements en ligne sur des sites marchands, gestion de comptes utilisateurs, échanges de devises, épargne, crédits, et bien d'autres."
+    ]
+  },
+  {
+    "tag": "Différence avec la concurrence",
+    "patterns": [
+      "Comment PaieCash se démarque-t-il de la concurrence ?",
+      "Qu'est-ce qui distingue PaieCash de ses concurrents ?"
+    ],
+    "responses": [
+      "Nous rassemblons une variété de moyens de paiement numérique en une seule application conviviale. De plus, notre portée internationale vous permet d'effectuer des transactions en Afrique et à l'international en toute fiabilité."
+    ]
+  },
+  {
+    "tag": "Conception des interfaces",
+    "patterns": [
+      "Comment sont conçus les interfaces de PaieCash ?",
+      "Pouvez-vous expliquer la conception des interfaces de PaieCash ?"
+    ],
+    "responses": [
+      "Nos interfaces suivent les normes ergonomiques de l'UI/UX design, garantissant une expérience utilisateur intuitive et conviviale. Nous respectons les normes ISO 26800:2011 pour une expérience optimale."
+    ]
+  },
+  {
+    "tag": "Avantages du projet",
+    "patterns": [
+      "Quels sont les avantages du projet PaieCash ?",
+      "Pouvez-vous me donner des détails sur les bénéfices du projet PaieCash ?"
+    ],
+    "responses": [
+      "PaieCash résout le problème du manque de liquidités en Afrique. Il facilite les paiements entre acteurs économiques et offre une solution de paiement rapide et fiable pour tous."
+    ]
+  },
+  {
+    "tag": "Devenir un utilisateur",
+    "patterns": [
+      "Comment puis-je devenir un utilisateur de PaieCash ?",
+      "Quelle est la procédure pour devenir utilisateur de PaieCash ?"
+    ],
+    "responses": [
+      "Toute personne possédant un téléphone portable peut devenir un utilisateur. Si vous souhaitez effectuer des transactions en ligne, notre application est là pour vous."
+    ]
+  },
   {
     "tag": "Budget de développement",
     "patterns": [
-      "Quel est le budget pour le développement de l'application ?"
+      "Quel est le budget pour le développement de l'application ?",
+      "Pouvez-vous me donner une idée du coût de développement de l'application ?"
     ],
     "responses": [
       "Le budget varie en fonction du développement, de la sécurité et du déploiement. Contactez-nous pour une estimation personnalisée."
@@ -660,7 +661,8 @@
   {
     "tag": "Disponibilité de l'application",
     "patterns": [
-      "Quand l'application sera-t-elle disponible ?"
+      "Quand l'application sera-t-elle disponible ?",
+      "Avez-vous une date de lancement prévue pour l'application ?"
     ],
     "responses": [
       "La date de livraison dépend de la taille du projet, mais soyez assuré que nous travaillons dur pour vous offrir la meilleure expérience dans les plus brefs délais."
@@ -669,7 +671,8 @@
   {
     "tag": "Obtenir de l'aide",
     "patterns": [
-      "Comment puis-je obtenir de l'aide en cas de problème ?"
+      "Comment puis-je obtenir de l'aide en cas de problème ?",
+      "Quelle est la marche à suivre si j'ai des problèmes avec l'application ?"
     ],
     "responses": [
       "Vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à chaque étape."
@@ -678,7 +681,8 @@
   {
     "tag": "Plus d'informations sur les fonctionnalités",
     "patterns": [
-      "Où puis-je trouver plus d'informations sur les fonctionnalités de PaieCash ?"
+      "Où puis-je trouver plus d'informations sur les fonctionnalités de PaieCash ?",
+      "Existe-t-il un document détaillé sur les fonctionnalités de PaieCash ?"
     ],
     "responses": [
       "Consultez notre document de spécifications fonctionnelles pour obtenir une vue d'ensemble détaillée des fonctionnalités : Lien vers le document."
@@ -687,7 +691,8 @@
   {
     "tag": "Maquettes de l'application",
     "patterns": [
-      "Où puis-je voir les maquettes de l'application ?"
+      "Où puis-je voir les maquettes de l'application ?",
+      "Avez-vous des exemples visuels de l'application que je peux consulter ?"
     ],
     "responses": [
       "Les maquettes actuelles sont disponibles ici : Lien vers les maquettes."
@@ -695,53 +700,113 @@
   },
   {
     "tag": "dépôts",
-    "patterns": ["Comment effectuer un dépôt dans Paiecash?", "Quelles sont les méthodes de paiement pour les dépôts?", "Comment choisir un portefeuille pour le dépôt?"],
-    "responses": ["Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash en utilisant nos méthodes de paiement système. Vous pouvez choisir le portefeuille dans lequel vous souhaitez déposer le montant."]
+    "patterns": [
+      "Comment effectuer un dépôt dans Paiecash?",
+      "Quelles sont les méthodes de paiement pour les dépôts?",
+      "Comment choisir un portefeuille pour le dépôt?"
+    ],
+    "responses": [
+      "Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash en utilisant nos méthodes de paiement système. Vous pouvez choisir le portefeuille dans lequel vous souhaitez déposer le montant."
+    ]
   },
   {
     "tag": "cartes",
-    "patterns": ["Comment obtenir une carte bancaire Paiecash?", "Quelle est la procédure pour obtenir une carte physique?", "Comment fonctionne la carte numérique?"],
-    "responses": ["Lors de l'inscription, les utilisateurs reçoivent automatiquement une carte numérique. Si vous souhaitez une carte physique, elle peut être commandée et livrée en quelques semaines. La carte physique peut être retirée chez un distributeur proche en Afrique et livrée par courrier ailleurs dans le monde."]
+    "patterns": [
+      "Comment obtenir une carte bancaire Paiecash?",
+      "Quelle est la procédure pour obtenir une carte physique?",
+      "Comment fonctionne la carte numérique?"
+    ],
+    "responses": [
+      "Lors de l'inscription, les utilisateurs reçoivent automatiquement une carte numérique. Si vous souhaitez une carte physique, elle peut être commandée et livrée en quelques semaines. La carte physique peut être retirée chez un distributeur proche en Afrique et livrée par courrier ailleurs dans le monde."
+    ]
   },
   {
     "tag": "transferts",
-    "patterns": ["Puis-je transférer de l'argent à tout utilisateur?", "Qu'en est-il des transferts vers des utilisateurs non enregistrés?", "Comment fonctionne le transfert de montant?"],
-    "responses": ["Les utilisateurs enregistrés peuvent transférer de l'argent à tout utilisateur, enregistré ou non. Les utilisateurs non enregistrés peuvent voir leur argent une fois inscrits. Vous pouvez également contacter le Call center en cas de problème ou de besoin d'informations."]
+    "patterns": [
+      "Puis-je transférer de l'argent à tout utilisateur?",
+      "Qu'en est-il des transferts vers des utilisateurs non enregistrés?",
+      "Comment fonctionne le transfert de montant?"
+    ],
+    "responses": [
+      "Les utilisateurs enregistrés peuvent transférer de l'argent à tout utilisateur, enregistré ou non. Les utilisateurs non enregistrés peuvent voir leur argent une fois inscrits. Vous pouvez également contacter le Call center en cas de problème ou de besoin d'informations."
+    ]
   },
   {
     "tag": "Dépôts",
-    "patterns": ["Comment effectuer un dépôt?", "Quelles sont les méthodes de dépôt?", "Comment sélectionner un portefeuille pour le dépôt?"],
-    "responses": ["Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash en utilisant nos méthodes de paiement disponibles. Choisissez la méthode de dépôt préférée et sélectionnez le portefeuille dans lequel vous souhaitez déposer le montant."]
+    "patterns": [
+      "Comment effectuer un dépôt?",
+      "Quelles sont les méthodes de dépôt?",
+      "Comment sélectionner un portefeuille pour le dépôt?"
+    ],
+    "responses": [
+      "Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash en utilisant nos méthodes de paiement disponibles. Choisissez la méthode de dépôt préférée et sélectionnez le portefeuille dans lequel vous souhaitez déposer le montant."
+    ]
   },
   {
     "tag": "Carte bancaire",
-    "patterns": ["Comment obtenir une carte bancaire Paiecash?", "Quels types de cartes Paiecash sont disponibles?", "Comment fonctionne la carte bancaire Paiecash?"],
-    "responses": ["Lorsque vous vous inscrivez sur Paiecash, vous obtenez automatiquement une carte bancaire numérique. Pour une carte physique, vous pouvez en commander une qui sera livrée en quelques semaines. La carte physique peut être utilisée pour des transactions chez les distributeurs en Afrique et par un service de courrier pour le reste du monde."]
+    "patterns": [
+      "Comment obtenir une carte bancaire Paiecash?",
+      "Quels types de cartes Paiecash sont disponibles?",
+      "Comment fonctionne la carte bancaire Paiecash?"
+    ],
+    "responses": [
+      "Lorsque vous vous inscrivez sur Paiecash, vous obtenez automatiquement une carte bancaire numérique. Pour une carte physique, vous pouvez en commander une qui sera livrée en quelques semaines. La carte physique peut être utilisée pour des transactions chez les distributeurs en Afrique et par un service de courrier pour le reste du monde."
+    ]
   },
   {
     "tag": "Montant du transfert",
-    "patterns": ["Comment transférer de l'argent à un utilisateur?", "Quels sont les frais pour transférer de l'argent?", "Comment contacter le service client en cas de problème de transfert?"],
-    "responses": ["Les utilisateurs enregistrés peuvent transférer de l'argent à tout utilisateur enregistré ou non enregistré. Les frais de transfert peuvent varier en fonction des montants et des méthodes de paiement. En cas de problème de transfert, veuillez contacter notre service client."]
+    "patterns": [
+      "Comment transférer de l'argent à un utilisateur?",
+      "Quels sont les frais pour transférer de l'argent?",
+      "Comment contacter le service client en cas de problème de transfert?"
+    ],
+    "responses": [
+      "Les utilisateurs enregistrés peuvent transférer de l'argent à tout utilisateur enregistré ou non enregistré. Les frais de transfert peuvent varier en fonction des montants et des méthodes de paiement. En cas de problème de transfert, veuillez contacter notre service client."
+    ]
   },
   {
     "tag": "Paiement dans les entreprises",
-    "patterns": ["Puis-je effectuer un paiement dans les hôpitaux ou d'autres entreprises?", "Comment fonctionne le paiement des factures dans la diaspora?", "Est-ce que Paiecash propose des paiements dans les supermarchés?"],
-    "responses": ["Oui, vous pouvez effectuer des paiements dans des entreprises, y compris les hôpitaux. Vous pouvez également payer des factures via Paiecash lorsque vous êtes à l'étranger. Nous proposons également une carte Kdo pour payer dans les supermarchés, pharmacies et autres commerces."]
+    "patterns": [
+      "Puis-je effectuer un paiement dans les hôpitaux ou d'autres entreprises?",
+      "Comment fonctionne le paiement des factures dans la diaspora?",
+      "Est-ce que Paiecash propose des paiements dans les supermarchés?"
+    ],
+    "responses": [
+      "Oui, vous pouvez effectuer des paiements dans des entreprises, y compris les hôpitaux. Vous pouvez également payer des factures via Paiecash lorsque vous êtes à l'étranger. Nous proposons également une carte Kdo pour payer dans les supermarchés, pharmacies et autres commerces."
+    ]
   },
   {
     "tag": "Échange de devises",
-    "patterns": ["Comment fonctionne l'échange de devises sur Paiecash?", "Quelles sont les méthodes d'échange disponibles?", "Comment le taux de change est-il déterminé?"],
-    "responses": ["Sur Paiecash, vous pouvez échanger différentes devises en payant de l'argent. Le taux de change peut être défini comme local ou via API. Le montant sera converti en fonction du taux de change et ajouté à votre portefeuille. L'administrateur peut voir les détails de chaque échange dans Currency Exchange."]
+    "patterns": [
+      "Comment fonctionne l'échange de devises sur Paiecash?",
+      "Quelles sont les méthodes d'échange disponibles?",
+      "Comment le taux de change est-il déterminé?"
+    ],
+    "responses": [
+      "Sur Paiecash, vous pouvez échanger différentes devises en payant de l'argent. Le taux de change peut être défini comme local ou via API. Le montant sera converti en fonction du taux de change et ajouté à votre portefeuille. L'administrateur peut voir les détails de chaque échange dans Currency Exchange."
+    ]
   },
   {
     "tag": "Méthodes de paiement",
-    "patterns": ["Quelles sont les méthodes de paiement acceptées?", "Pouvez-vous me dire quelles méthodes de paiement sont disponibles?", "Comment activer ou désactiver les méthodes de paiement?"],
-    "responses": ["Actuellement, nous acceptons 8 méthodes de paiement pour les dépôts, y compris Banque Atlantique, MasterCard, Orange Money et MTN Money. Vous pouvez activer ou désactiver ces méthodes depuis les paramètres."]
+    "patterns": [
+      "Quelles sont les méthodes de paiement acceptées?",
+      "Pouvez-vous me dire quelles méthodes de paiement sont disponibles?",
+      "Comment activer ou désactiver les méthodes de paiement?"
+    ],
+    "responses": [
+      "Actuellement, nous acceptons 8 méthodes de paiement pour les dépôts, y compris Banque Atlantique, MasterCard, Orange Money et MTN Money. Vous pouvez activer ou désactiver ces méthodes depuis les paramètres."
+    ]
   },
   {
     "tag": "Rôles et autorisations",
-    "patterns": ["Quels sont les différents rôles sur Paiecash?", "Comment ajouter un administrateur?", "Quels sont les privilèges d'un agent Paiecash?"],
-    "responses": ["Il existe différents rôles sur Paiecash, dont le super administrateur, les administrateurs, les agents Paiecash, etc. En tant que propriétaire, vous pouvez ajouter d'autres utilisateurs en tant qu'administrateurs avec des autorisations spécifiques."]
+    "patterns": [
+      "Quels sont les différents rôles sur Paiecash?",
+      "Comment ajouter un administrateur?",
+      "Quels sont les privilèges d'un agent Paiecash?"
+    ],
+    "responses": [
+      "Il existe différents rôles sur Paiecash, dont le super administrateur, les administrateurs, les agents Paiecash, etc. En tant que propriétaire, vous pouvez ajouter d'autres utilisateurs en tant qu'administrateurs avec des autorisations spécifiques."
+    ]
   },
   {
     "tag": "Gerer les comptes",
@@ -812,7 +877,8 @@
   {
     "tag": "Qui sommes-nous ?",
     "patterns": [
-      "Qui sommes-nous ?"
+      "Qui sommes-nous ?",
+      "Pouvez-vous me parler de votre entreprise ?"
     ],
     "responses": [
       "Vous pouvez consulter nos Mentions Légales disponibles sur notre site internet paiecashqr.com."
@@ -821,7 +887,8 @@
   {
     "tag": "Utilisation des données personnelles collectées",
     "patterns": [
-      "Quand collectez-vous des données personnelles ?"
+      "Quand collectez-vous des données personnelles ?",
+      "Quelles données personnelles collectez-vous et quand ?"
     ],
     "responses": [
       "Dans le cadre de la navigation sur le site web, dans l’envoi de formulaires ou le passage de commandes, des données personnelles sont collectées."
@@ -830,7 +897,8 @@
   {
     "tag": "Statistiques du site et mesure d’audience",
     "patterns": [
-      "Comment utilisez-vous les cookies ?"
+      "Comment utilisez-vous les cookies ?",
+      "À quelles fins utilisez-vous les cookies sur votre site ?"
     ],
     "responses": [
       "Pour améliorer le parcours sur notre site internet et mieux comprendre nos utilisateurs, nous utilisons des services tiers qui se servent de cookies pour vous identifier."
@@ -839,7 +907,8 @@
   {
     "tag": "Gérer votre consentement",
     "patterns": [
-      "Que se passe-t-il lorsque je remplis un formulaire de contact ?"
+      "Que se passe-t-il lorsque je remplis un formulaire de contact ?",
+      "Comment mes informations sont-elles traitées lorsque je contacte votre équipe ?"
     ],
     "responses": [
       "Lorsque vous remplissez un formulaire de contact, vos données saisies sont enregistrées automatiquement dans notre base de données et votre demande est transmise par e-mail à notre équipe."
@@ -848,7 +917,8 @@
   {
     "tag": "Stockage des informations de paiement",
     "patterns": [
-      "Stockez-vous les informations de paiement ?"
+      "Stockez-vous les informations de paiement ?",
+      "Comment gérez-vous les informations de paiement des utilisateurs ?"
     ],
     "responses": [
       "Si notre site internet a déployé une option e-commerce, sachez que nous stockons toutes les informations de livraison, de facturation et tous les détails des commandes. Nous ne stockons cependant pas vos numéros de carte bancaire. L’étape du paiement est sécurisée et externalisée via un prestataire de service de paiement."
@@ -857,7 +927,8 @@
   {
     "tag": "Durées de conservation des données",
     "patterns": [
-      "Pendant combien de temps conservez-vous mes données personnelles ?"
+      "Pendant combien de temps conservez-vous mes données personnelles ?",
+      "Quelles sont les durées de conservation de mes données ?"
     ],
     "responses": [
       "Pour votre information, notre système e-commerce peut être amené à conserver vos données personnelles selon les durées suivantes :",
@@ -884,7 +955,8 @@
   {
     "tag": "Qu'est-ce que PaieCash QR Code ?",
     "patterns": [
-      "Qu'est-ce que PaieCash QR Code ?"
+      "Qu'est-ce que PaieCash QR Code ?",
+      "Pouvez-vous m'expliquer ce qu'est PaieCash QR Code ?"
     ],
     "responses": [
       "PaieCash QR Code est une solution de tickets de caisse dématérialisés via un QR code. Placée directement à la caisse de votre magasin, elle vous permet de récupérer votre facture ou ticket de caisse immédiatement et de façon permanente tout en conservant vos droits de garantie."
@@ -893,7 +965,8 @@
   {
     "tag": "Comment s'inscrire sur l'application mobile ?",
     "patterns": [
-      "Comment s'inscrire sur l'application mobile ?"
+      "Comment s'inscrire sur l'application mobile ?",
+      "Quelles sont les étapes pour créer un compte sur l'application mobile ?"
     ],
     "responses": [
       "Vous pouvez vous inscrire sur l'application mobile de PaieCash QR Code de deux manières : en utilisant votre compte Google ou Facebook, ou en vous inscrivant par e-mail avec l'envoi d'un code de vérification."
@@ -902,7 +975,8 @@
   {
     "tag": "Comment gérer le panier utilisateur ?",
     "patterns": [
-      "Comment gérer le panier utilisateur ?"
+      "Comment gérer le panier utilisateur ?",
+      "Pouvez-vous m'expliquer comment ajouter et supprimer des éléments du panier utilisateur ?"
     ],
     "responses": [
       "Vous pouvez gérer votre panier utilisateur à travers l'application mobile. Ajoutez des produits, modifiez les quantités et supprimez des éléments selon vos besoins."
@@ -911,21 +985,41 @@
   {
     "tag": "Quels sont les moyens de paiement acceptés ?",
     "patterns": [
-      "Quels sont les moyens de paiement acceptés ?"
+      "Quels sont les moyens de paiement acceptés ?",
+      "Comment puis-je régler mes achats sur votre plateforme ?"
     ],
     "responses": [
-      "Vous pouvez régler votre facture via différents moyens de paiement, y compris PaieCash, Google Pay, Apple Pay, carte bancaire, et d'autres options."
+      "Vous pouvez régler vos achats sur notre plateforme PaieCash QR Code en utilisant différentes méthodes de paiement, y compris les cartes de crédit, les cartes de débit et d'autres options de paiement en ligne."
     ]
   },
   {
-    "tag": "Exemples d'applications concurrentes",
+    "tag": "Livrez-vous à l'international ?",
     "patterns": [
-      "Pouvez-vous donner des exemples d'applications concurrentes ?"
+      "Livrez-vous à l'international ?",
+      "Pouvez-vous expédier des produits à l'étranger ?"
     ],
     "responses": [
-      "Voici quelques exemples d'applications concurrentes similaires à PaieCash QR Code :",
-      "- Limpidius : [Lien vers leur site Web](https://limpidius.com/fr_fr/solutions/dematerialisation)",
-      "- Tickie : [Lien vers leur site Web](https://www.tickie.io/en)"
+      "Oui, nous proposons des options de livraison à l'international. Vous pouvez passer commande depuis n'importe où dans le monde et faire livrer vos produits à l'adresse de votre choix."
+    ]
+  },
+  {
+    "tag": "Retours et remboursements",
+    "patterns": [
+      "Quelle est votre politique de retour et de remboursement ?",
+      "Que dois-je faire si je veux retourner un produit ou obtenir un remboursement ?"
+    ],
+    "responses": [
+      "Nous offrons une politique de retour et de remboursement flexible. Si vous n'êtes pas satisfait de votre achat, contactez notre service client dans les 30 jours suivant la réception de votre commande pour discuter des options de retour et de remboursement."
+    ]
+  },
+  {
+    "tag": "Comment puis-je contacter le service client ?",
+    "patterns": [
+      "Comment puis-je contacter le service client ?",
+      "Quels sont les canaux de communication disponibles pour contacter le service client ?"
+    ],
+    "responses": [
+      "Vous pouvez contacter notre service clientèle par téléphone, par e-mail ou via le chat en direct sur notre site web. Notre équipe est là pour répondre à toutes vos questions et préoccupations."
     ]
   },
   {
