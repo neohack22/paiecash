@@ -1251,254 +1251,254 @@
               "Paiecash bi offre une gamme complète de solutions, de l'exploration des données à l'intelligence artificielle, pour optimiser votre activité. Vous pouvez bénéficier d'une meilleure compréhension de vos données, d'une amélioration de votre marketing et de l'automatisation de certains processus."
             ]
           },
-  {
-    "tag": "activation_de_partenariat",
-    "patterns": [
-      "Qu'est-ce que l'activation de partenariat, comme dans le cas de l'ASM Clermont Auvergne ?",
-      "Pouvez-vous expliquer ce que signifie l'activation de partenariat, en particulier dans le contexte de l'ASM Clermont Auvergne ?",
-      "L'activation de partenariat, c'est quoi, notamment dans le cas de l'ASM Clermont Auvergne ?"
-    ],
-    "responses": [
-      "L'activation de partenariat consiste à utiliser des initiatives créatives pour mettre en valeur les relations de partenariat. Dans le cas de l'ASM Clermont Auvergne, l'activation a permis à la Banque Populaire de renforcer son partenariat en offrant des récompenses aux supporters, tout en collectant des données pour des campagnes futures."
-    ]
-  },
-  {
-    "tag": "offre_e-commerce_et_merchandising",
-    "patterns": [
-      "Comment puis-je profiter de l'offre E-commerce et merchandising de Paiecash bi ?",
-      "Quels avantages puis-je obtenir de l'offre E-commerce et merchandising de Paiecash bi ?",
-      "En quoi consiste l'offre E-commerce et merchandising de Paiecash bi ?"
-    ],
-    "responses": [
-      "L'offre E-commerce et merchandising de Paiecash bi vous permet de dynamiser vos ventes en ligne grâce à des stratégies marketing ciblées et à une optimisation de la présentation de vos produits. Vous pouvez améliorer l'expérience d'achat de vos clients tout en augmentant vos revenus."
-    ]
-  },
-  {
-    "tag": "mise_en_place_chatbot_service_client",
-    "patterns": [
-      "Comment puis-je mettre en place un chatbot pour mon service client ?",
-      "Quelles étapes dois-je suivre pour intégrer un chatbot à mon service client grâce à Paiecash bi ?",
-      "Pouvez-vous m'expliquer comment avoir un chatbot pour mon service client avec Paiecash bi ?"
-    ],
-    "responses": [
-      "Paiecash bi propose des solutions avancées, y compris la mise en place de chatbots sur vos médias sociaux. Ces chatbots peuvent réduire la charge de travail de votre service client, améliorer les temps de réponse et fournir aux clients un moyen pratique d'obtenir les informations dont ils ont besoin."
-    ]
-  },
-  {
-    "tag": "personnalisation_campagnes_emailing_et_sms",
-    "patterns": [
-      "Puis-je personnaliser les campagnes emailing et SMS grâce à Paiecash bi ?",
-      "Comment puis-je personnaliser mes campagnes emailing et SMS avec l'aide de Paiecash bi ?",
-      "Quelles sont les possibilités de personnalisation des campagnes emailing et SMS offertes par Paiecash bi ?"
-    ],
-    "responses": [
-      "Absolument, en collectant des données à partir de jeux concours comme celui de l'ASM Clermont Auvergne, vous pouvez enrichir votre CRM avec des adresses e-mail et des numéros de téléphone. Cela vous permet de créer des campagnes emailing et SMS personnalisées pour engager vos clients de manière plus ciblée."
-    ]
-  },
-  {
-    "tag": "services_intelligence_artificielle_marketing",
-    "patterns": [
-      "Comment puis-je bénéficier des services d'intelligence artificielle pour le marketing ?",
-      "En quoi consistent les services d'intelligence artificielle pour le marketing proposés par Paiecash bi ?",
-      "Quels sont les avantages de l'utilisation de l'intelligence artificielle dans le marketing avec Paiecash bi ?"
-    ],
-    "responses": [
-      "Paiecash bi offre des solutions d'intelligence artificielle pour améliorer votre stratégie marketing. Cela inclut l'analyse de données pour comprendre les préférences des clients, ainsi que l'utilisation de l'IA pour créer des campagnes plus efficaces et personnalisées."
-    ]
-  },
-  {
-    "tag": "comment_demarrer_avec_paiecash_bi",
-    "patterns": [
-      "Comment puis-je démarrer avec Paiecash bi ?",
-      "Quelles sont les étapes pour commencer à utiliser les services de Paiecash bi ?",
-      "Comment puis-je entrer en contact avec Paiecash bi pour débuter ?"
-    ],
-    "responses": [
-      "Pour commencer avec Paiecash bi et découvrir comment nos solutions peuvent bénéficier à votre entreprise, contactez notre équipe dès aujourd'hui. Nous serions ravis de discuter de vos besoins et de vous présenter nos services."
-    ]
-  },
-  {
-    "tag": "qu_est_ce_que_paiecash_et_en_quoi_consiste_ce_partenariat",
-    "patterns": [
-      "Qu'est-ce que PaieCash et en quoi consiste ce partenariat ?"
-    ],
-    "responses": [
-      "PaieCash est une solution de facilitation des transactions qui s'associe aux clubs amateurs et à leurs investisseurs pour stimuler les échanges. Ce partenariat favorise le développement sportif et social."
-    ]
-  },
-  {
-    "tag": "comment_les_adherents_du_club_beneficient_ils_de_ce_partenariat",
-    "patterns": [
-      "Comment les adhérents du club bénéficient-ils de ce partenariat ?"
-    ],
-    "responses": [
-      "Les adhérents profitent d'avantages tels que la gestion simplifiée des cotisations et des paiements, ainsi que l'accès à des fonctionnalités conviviales pour les équipes sportives."
-    ]
-  },
-  {
-    "tag": "comment_fonctionne_la_collaboration_avec_les_collectivites_locales_et_les_commercants",
-    "patterns": [
-      "Comment fonctionne la collaboration avec les collectivités locales et les commerçants ?"
-    ],
-    "responses": [
-      "PaieCash collabore avec les collectivités locales et les commerçants pour proposer des solutions de financement, ainsi que pour promouvoir les activités des clubs et assurer une visibilité accrue."
-    ]
-  },
-  {
-    "tag": "comment_puis_je_gerer_les_transactions_et_les_paiements_avec_paiecash",
-    "patterns": [
-      "Comment puis-je gérer les transactions et les paiements avec PaieCash ?"
-    ],
-    "responses": [
-      "PaieCash offre une plateforme numérique pour gérer efficacement les paiements, les cotisations, les recettes de buvette et d'événements. Elle permet également d'inscrire les équipes aux compétitions sportives."
-    ]
-  },
-  {
-    "tag": "comment_puis_je_utiliser_la_solution_de_paiement_paiecash",
-    "patterns": [
-      "Comment puis-je utiliser la solution de paiement PaieCash ?"
-    ],
-    "responses": [
-      "La solution PaieCash offre une carte personnalisée aux couleurs de votre club, permettant des transactions immédiates via la carte, le scan du code ou l'application."
-    ]
-  },
-  {
-    "tag": "comment_paiecash_favorise_t_il_le_developpement_numerique_et_la_visibilite_du_club",
-    "patterns": [
-      "Comment PaieCash favorise-t-il le développement numérique et la visibilité du club ?"
-    ],
-    "responses": [
-      "PaieCash met en place des solutions numériques pour les clubs, favorisant la visibilité, la communication et l'interaction avec les investisseurs, les sponsors et les adhérents."
-    ]
-  },
-  {
-    "tag": "comment_puis_je_choisir_loffre_paiecash_qui_me_convient_le_mieux",
-    "patterns": [
-      "Comment puis-je choisir l'offre PaieCash qui me convient le mieux ?"
-    ],
-    "responses": [
-      "PaieCash propose des offres échelonnées pour répondre aux besoins spécifiques de chaque club. Nous vous invitons à prendre rendez-vous pour discuter de l'offre la plus adaptée à votre situation."
-    ]
-  },
-  {
-    "tag": "comment_puis_je_contacter_paiecash_pour_en_savoir_plus",
-    "patterns": [
-      "Comment puis-je contacter PaieCash pour en savoir plus ?"
-    ],
-    "responses": [
-      "Vous pouvez nous contacter au +33 7 67 12 96 52 ou visiter notre site web www.paiecash.com pour obtenir plus d'informations sur nos services et notre partenariat avec les clubs amateurs."
-    ]
-  },
-  {
-    "tag": "achat_carte_clubs",
-    "patterns": [
-      "Comment puis-je acheter une carte sur le site des clubs ?",
-      "Comment commander une carte sur le site des clubs ?",
-      "Quel est le processus d'achat d'une carte sur le site des clubs ?"
-    ],
-    "responses": [
-      "Choisissez la carte et le style souhaités, remplissez vos informations, y compris l'adresse de livraison et les détails de votre carte bancaire, puis validez le paiement. Vous recevrez un reçu de paiement avec la date de disponibilité de votre carte."
-    ]
-  },
-  {
-    "tag": "traitement_commande_apres_paiement",
-    "patterns": [
-      "Comment la commande est-elle traitée après le paiement ?",
-      "Que se passe-t-il après avoir payé ma commande ?",
-      "Comment Paiecash traite-t-il ma commande après paiement ?"
-    ],
-    "responses": [
-      "Paiecash reçoit votre commande et vous recevrez votre carte à l'adresse indiquée dans les délais prévus."
-    ]
-  },
-  {
-    "tag": "paiement_panier_en_ligne",
-    "patterns": [
-      "Comment effectuer un paiement pour mon panier en ligne ?",
-      "Quelle est la procédure de paiement pour mon panier en ligne ?",
-      "Comment puis-je payer pour mes achats en ligne ?"
-    ],
-    "responses": [
-      "Lorsque vous ouvrez la page de paiement, un lien de paiement est généré avec le montant correspondant à votre panier. Utilisez la référence de commande pour effectuer le paiement."
-    ]
-  },
-  {
-    "tag": "paiement_via_paiecash_qr",
-    "patterns": [
-      "Comment fonctionne le paiement via Paiecash QR dans les supermarchés ?",
-      "Expliquez le processus de paiement avec Paiecash QR dans les supermarchés.",
-      "Comment puis-je utiliser Paiecash QR pour payer dans les supermarchés ?"
-    ],
-    "responses": [
-      "Choisissez le supermarché et le système ouvrira la page de paiement pour faciliter le paiement sur place. La référence de paiement est générée automatiquement et le statut du paiement est mis à jour dans notre système."
-    ]
-  },
-  {
-    "tag": "paiement_par_qr_code",
-    "patterns": [
-      "Comment payer en scannant un QR Code ?",
-      "Quelle est la procédure pour payer en scannant un QR Code ?",
-      "Comment fonctionne le paiement par scan de QR Code ?"
-    ],
-    "responses": [
-      "Après avoir rempli votre panier, cliquez sur le bouton de scan. Scannez le QR Code de la caisse, le système ouvrira la page de paiement où vous pourrez saisir vos informations bancaires et valider."
-    ]
-  },
-  {
-    "tag": "informations_necessaires_paiement",
-    "patterns": [
-      "Quelles informations sont nécessaires pour initier un paiement ?",
-      "Que dois-je fournir pour commencer un paiement ?",
-      "Quels sont les détails requis pour un paiement ?"
-    ],
-    "responses": [
-      "Vous devez fournir des informations telles que le montant, la référence, vos coordonnées, et d'autres détails pertinents."
-    ]
-  },
-  {
-    "tag": "annulation_paiement",
-    "patterns": [
-      "Puis-je annuler un paiement déjà effectué ?",
-      "Est-il possible d'annuler un paiement que j'ai déjà effectué ?",
-      "Comment puis-je annuler un paiement effectué ?"
-    ],
-    "responses": [
-      "Oui, sous certaines conditions."
-    ]
-  },
-  {
-    "tag": "verification_statut_paiement",
-    "patterns": [
-      "Comment vérifier le statut d'un paiement ?",
-      "Où puis-je vérifier le statut de mon paiement ?",
-      "Comment savoir si mon paiement a été traité ?"
-    ],
-    "responses": [
-      "Utilisez la référence de paiement pour vérifier le statut via notre système."
-    ]
-  },
-  {
-    "tag": "qrcodes_objectif",
-    "patterns": [
-      "Quel est l'objectif des QRCodes sur les produits Paiecash ?",
-      "Pourquoi Paiecash utilise-t-il des QRCodes sur ses produits ?",
-      "À quoi servent les QRCodes sur les produits Paiecash ?"
-    ],
-    "responses": [
-      "Les QRCodes sont utilisés pour identifier de manière unique les produits Paiecash en termes de qualité et fournir des informations telles que la date de péremption, le lieu de fabrication, l'usine et le pays."
-    ]
-  },
-  {
-    "tag": "qrcodes_fonctionnement",
-    "patterns": [
-      "Comment fonctionnent les QRCodes de Paiecash ?",
-      "Comment utiliser les QRCodes Paiecash ?",
-      "Expliquez le fonctionnement des QRCodes de Paiecash."
-    ],
-    "responses": [
-      "Chaque produit Paiecash est associé à un QRCodes unique qui peut être scanné à l'aide d'une application mobile. Cela permet d'accéder instantanément aux informations essentielles du produit."
-    ]
-  },
+          {
+            "tag": "activation_de_partenariat",
+            "patterns": [
+              "Qu'est-ce que l'activation de partenariat, comme dans le cas de l'ASM Clermont Auvergne ?",
+              "Pouvez-vous expliquer ce que signifie l'activation de partenariat, en particulier dans le contexte de l'ASM Clermont Auvergne ?",
+              "L'activation de partenariat, c'est quoi, notamment dans le cas de l'ASM Clermont Auvergne ?"
+            ],
+            "responses": [
+              "L'activation de partenariat consiste à utiliser des initiatives créatives pour mettre en valeur les relations de partenariat. Dans le cas de l'ASM Clermont Auvergne, l'activation a permis à la Banque Populaire de renforcer son partenariat en offrant des récompenses aux supporters, tout en collectant des données pour des campagnes futures."
+            ]
+          },
+          {
+            "tag": "offre_e-commerce_et_merchandising",
+            "patterns": [
+              "Comment puis-je profiter de l'offre E-commerce et merchandising de Paiecash bi ?",
+              "Quels avantages puis-je obtenir de l'offre E-commerce et merchandising de Paiecash bi ?",
+              "En quoi consiste l'offre E-commerce et merchandising de Paiecash bi ?"
+            ],
+            "responses": [
+              "L'offre E-commerce et merchandising de Paiecash bi vous permet de dynamiser vos ventes en ligne grâce à des stratégies marketing ciblées et à une optimisation de la présentation de vos produits. Vous pouvez améliorer l'expérience d'achat de vos clients tout en augmentant vos revenus."
+            ]
+          },
+          {
+            "tag": "mise_en_place_chatbot_service_client",
+            "patterns": [
+              "Comment puis-je mettre en place un chatbot pour mon service client ?",
+              "Quelles étapes dois-je suivre pour intégrer un chatbot à mon service client grâce à Paiecash bi ?",
+              "Pouvez-vous m'expliquer comment avoir un chatbot pour mon service client avec Paiecash bi ?"
+            ],
+            "responses": [
+              "Paiecash bi propose des solutions avancées, y compris la mise en place de chatbots sur vos médias sociaux. Ces chatbots peuvent réduire la charge de travail de votre service client, améliorer les temps de réponse et fournir aux clients un moyen pratique d'obtenir les informations dont ils ont besoin."
+            ]
+          },
+          {
+            "tag": "personnalisation_campagnes_emailing_et_sms",
+            "patterns": [
+              "Puis-je personnaliser les campagnes emailing et SMS grâce à Paiecash bi ?",
+              "Comment puis-je personnaliser mes campagnes emailing et SMS avec l'aide de Paiecash bi ?",
+              "Quelles sont les possibilités de personnalisation des campagnes emailing et SMS offertes par Paiecash bi ?"
+            ],
+            "responses": [
+              "Absolument, en collectant des données à partir de jeux concours comme celui de l'ASM Clermont Auvergne, vous pouvez enrichir votre CRM avec des adresses e-mail et des numéros de téléphone. Cela vous permet de créer des campagnes emailing et SMS personnalisées pour engager vos clients de manière plus ciblée."
+            ]
+          },
+          {
+            "tag": "services_intelligence_artificielle_marketing",
+            "patterns": [
+              "Comment puis-je bénéficier des services d'intelligence artificielle pour le marketing ?",
+              "En quoi consistent les services d'intelligence artificielle pour le marketing proposés par Paiecash bi ?",
+              "Quels sont les avantages de l'utilisation de l'intelligence artificielle dans le marketing avec Paiecash bi ?"
+            ],
+            "responses": [
+              "Paiecash bi offre des solutions d'intelligence artificielle pour améliorer votre stratégie marketing. Cela inclut l'analyse de données pour comprendre les préférences des clients, ainsi que l'utilisation de l'IA pour créer des campagnes plus efficaces et personnalisées."
+            ]
+          },
+          {
+            "tag": "comment_demarrer_avec_paiecash_bi",
+            "patterns": [
+              "Comment puis-je démarrer avec Paiecash bi ?",
+              "Quelles sont les étapes pour commencer à utiliser les services de Paiecash bi ?",
+              "Comment puis-je entrer en contact avec Paiecash bi pour débuter ?"
+            ],
+            "responses": [
+              "Pour commencer avec Paiecash bi et découvrir comment nos solutions peuvent bénéficier à votre entreprise, contactez notre équipe dès aujourd'hui. Nous serions ravis de discuter de vos besoins et de vous présenter nos services."
+            ]
+          },
+          {
+            "tag": "qu_est_ce_que_paiecash_et_en_quoi_consiste_ce_partenariat",
+            "patterns": [
+              "Qu'est-ce que PaieCash et en quoi consiste ce partenariat ?"
+            ],
+            "responses": [
+              "PaieCash est une solution de facilitation des transactions qui s'associe aux clubs amateurs et à leurs investisseurs pour stimuler les échanges. Ce partenariat favorise le développement sportif et social."
+            ]
+          },
+          {
+            "tag": "comment_les_adherents_du_club_beneficient_ils_de_ce_partenariat",
+            "patterns": [
+              "Comment les adhérents du club bénéficient-ils de ce partenariat ?"
+            ],
+            "responses": [
+              "Les adhérents profitent d'avantages tels que la gestion simplifiée des cotisations et des paiements, ainsi que l'accès à des fonctionnalités conviviales pour les équipes sportives."
+            ]
+          },
+          {
+            "tag": "comment_fonctionne_la_collaboration_avec_les_collectivites_locales_et_les_commercants",
+            "patterns": [
+              "Comment fonctionne la collaboration avec les collectivités locales et les commerçants ?"
+            ],
+            "responses": [
+              "PaieCash collabore avec les collectivités locales et les commerçants pour proposer des solutions de financement, ainsi que pour promouvoir les activités des clubs et assurer une visibilité accrue."
+            ]
+          },
+          {
+            "tag": "comment_puis_je_gerer_les_transactions_et_les_paiements_avec_paiecash",
+            "patterns": [
+              "Comment puis-je gérer les transactions et les paiements avec PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash offre une plateforme numérique pour gérer efficacement les paiements, les cotisations, les recettes de buvette et d'événements. Elle permet également d'inscrire les équipes aux compétitions sportives."
+            ]
+          },
+          {
+            "tag": "comment_puis_je_utiliser_la_solution_de_paiement_paiecash",
+            "patterns": [
+              "Comment puis-je utiliser la solution de paiement PaieCash ?"
+            ],
+            "responses": [
+              "La solution PaieCash offre une carte personnalisée aux couleurs de votre club, permettant des transactions immédiates via la carte, le scan du code ou l'application."
+            ]
+          },
+          {
+            "tag": "comment_paiecash_favorise_t_il_le_developpement_numerique_et_la_visibilite_du_club",
+            "patterns": [
+              "Comment PaieCash favorise-t-il le développement numérique et la visibilité du club ?"
+            ],
+            "responses": [
+              "PaieCash met en place des solutions numériques pour les clubs, favorisant la visibilité, la communication et l'interaction avec les investisseurs, les sponsors et les adhérents."
+            ]
+          },
+          {
+            "tag": "comment_puis_je_choisir_loffre_paiecash_qui_me_convient_le_mieux",
+            "patterns": [
+              "Comment puis-je choisir l'offre PaieCash qui me convient le mieux ?"
+            ],
+            "responses": [
+              "PaieCash propose des offres échelonnées pour répondre aux besoins spécifiques de chaque club. Nous vous invitons à prendre rendez-vous pour discuter de l'offre la plus adaptée à votre situation."
+            ]
+          },
+          {
+            "tag": "comment_puis_je_contacter_paiecash_pour_en_savoir_plus",
+            "patterns": [
+              "Comment puis-je contacter PaieCash pour en savoir plus ?"
+            ],
+            "responses": [
+              "Vous pouvez nous contacter au +33 7 67 12 96 52 ou visiter notre site web www.paiecash.com pour obtenir plus d'informations sur nos services et notre partenariat avec les clubs amateurs."
+            ]
+          },
+          {
+            "tag": "achat_carte_clubs",
+            "patterns": [
+              "Comment puis-je acheter une carte sur le site des clubs ?",
+              "Comment commander une carte sur le site des clubs ?",
+              "Quel est le processus d'achat d'une carte sur le site des clubs ?"
+            ],
+            "responses": [
+              "Choisissez la carte et le style souhaités, remplissez vos informations, y compris l'adresse de livraison et les détails de votre carte bancaire, puis validez le paiement. Vous recevrez un reçu de paiement avec la date de disponibilité de votre carte."
+            ]
+          },
+          {
+            "tag": "traitement_commande_apres_paiement",
+            "patterns": [
+              "Comment la commande est-elle traitée après le paiement ?",
+              "Que se passe-t-il après avoir payé ma commande ?",
+              "Comment Paiecash traite-t-il ma commande après paiement ?"
+            ],
+            "responses": [
+              "Paiecash reçoit votre commande et vous recevrez votre carte à l'adresse indiquée dans les délais prévus."
+            ]
+          },
+          {
+            "tag": "paiement_panier_en_ligne",
+            "patterns": [
+              "Comment effectuer un paiement pour mon panier en ligne ?",
+              "Quelle est la procédure de paiement pour mon panier en ligne ?",
+              "Comment puis-je payer pour mes achats en ligne ?"
+            ],
+            "responses": [
+              "Lorsque vous ouvrez la page de paiement, un lien de paiement est généré avec le montant correspondant à votre panier. Utilisez la référence de commande pour effectuer le paiement."
+            ]
+          },
+          {
+            "tag": "paiement_via_paiecash_qr",
+            "patterns": [
+              "Comment fonctionne le paiement via Paiecash QR dans les supermarchés ?",
+              "Expliquez le processus de paiement avec Paiecash QR dans les supermarchés.",
+              "Comment puis-je utiliser Paiecash QR pour payer dans les supermarchés ?"
+            ],
+            "responses": [
+              "Choisissez le supermarché et le système ouvrira la page de paiement pour faciliter le paiement sur place. La référence de paiement est générée automatiquement et le statut du paiement est mis à jour dans notre système."
+            ]
+          },
+          {
+            "tag": "paiement_par_qr_code",
+            "patterns": [
+              "Comment payer en scannant un QR Code ?",
+              "Quelle est la procédure pour payer en scannant un QR Code ?",
+              "Comment fonctionne le paiement par scan de QR Code ?"
+            ],
+            "responses": [
+              "Après avoir rempli votre panier, cliquez sur le bouton de scan. Scannez le QR Code de la caisse, le système ouvrira la page de paiement où vous pourrez saisir vos informations bancaires et valider."
+            ]
+          },
+          {
+            "tag": "informations_necessaires_paiement",
+            "patterns": [
+              "Quelles informations sont nécessaires pour initier un paiement ?",
+              "Que dois-je fournir pour commencer un paiement ?",
+              "Quels sont les détails requis pour un paiement ?"
+            ],
+            "responses": [
+              "Vous devez fournir des informations telles que le montant, la référence, vos coordonnées, et d'autres détails pertinents."
+            ]
+          },
+          {
+            "tag": "annulation_paiement",
+            "patterns": [
+              "Puis-je annuler un paiement déjà effectué ?",
+              "Est-il possible d'annuler un paiement que j'ai déjà effectué ?",
+              "Comment puis-je annuler un paiement effectué ?"
+            ],
+            "responses": [
+              "Oui, sous certaines conditions."
+            ]
+          },
+          {
+            "tag": "verification_statut_paiement",
+            "patterns": [
+              "Comment vérifier le statut d'un paiement ?",
+              "Où puis-je vérifier le statut de mon paiement ?",
+              "Comment savoir si mon paiement a été traité ?"
+            ],
+            "responses": [
+              "Utilisez la référence de paiement pour vérifier le statut via notre système."
+            ]
+          },
+          {
+            "tag": "qrcodes_objectif",
+            "patterns": [
+              "Quel est l'objectif des QRCodes sur les produits Paiecash ?",
+              "Pourquoi Paiecash utilise-t-il des QRCodes sur ses produits ?",
+              "À quoi servent les QRCodes sur les produits Paiecash ?"
+            ],
+            "responses": [
+              "Les QRCodes sont utilisés pour identifier de manière unique les produits Paiecash en termes de qualité et fournir des informations telles que la date de péremption, le lieu de fabrication, l'usine et le pays."
+            ]
+          },
+          {
+            "tag": "qrcodes_fonctionnement",
+            "patterns": [
+              "Comment fonctionnent les QRCodes de Paiecash ?",
+              "Comment utiliser les QRCodes Paiecash ?",
+              "Expliquez le fonctionnement des QRCodes de Paiecash."
+            ],
+            "responses": [
+              "Chaque produit Paiecash est associé à un QRCodes unique qui peut être scanné à l'aide d'une application mobile. Cela permet d'accéder instantanément aux informations essentielles du produit."
+            ]
+          },
   {
     "tag": "qrcodes_informations",
     "patterns": [
