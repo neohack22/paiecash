@@ -1757,251 +1757,251 @@
               "Oui, Paiecash propose des fonctionnalités de géolocalisation pour faciliter la recherche de lieux tels que les stades et les points de recharge. Cela vous aide à trouver rapidement les informations dont vous avez besoin."
             ]
           },
-  {
-    "tag": "creation_compte",
-    "patterns": [
-      "Comment puis-je créer un compte Paiecash ?",
-      "Quels sont les étapes pour m'inscrire sur Paiecash ?"
-    ],
-    "responses": [
-      "Pour créer un compte sur Paiecash, visitez notre site web et suivez les instructions d'inscription. Vous devrez fournir des informations de base et créer un identifiant unique pour votre compte."
-    ]
-  },
-  {
-    "tag": "temps_traitement_paiement",
-    "patterns": [
-      "Combien de temps faut-il pour traiter un paiement sur Paiecash ?",
-      "Quelle est la durée de traitement des paiements sur Paiecash ?"
-    ],
-    "responses": [
-      "Le temps de traitement des paiements sur Paiecash dépend du type de transaction et du mode de paiement que vous choisissez. En général, la plupart des paiements sont traités en quelques minutes à quelques heures."
-    ]
-  },
-  {
-    "tag": "mise_a_jour_informations_compte",
-    "patterns": [
-      "Comment mettre à jour mes informations de compte sur Paiecash ?",
-      "Puis-je modifier les détails de mon compte Paiecash ?"
-    ],
-    "responses": [
-      "Vous pouvez mettre à jour vos informations de compte en accédant à votre profil sur Paiecash. Vous aurez la possibilité de modifier vos détails personnels et vos préférences."
-    ]
-  },
-  {
-    "tag": "support_en_plusieurs_langues",
-    "patterns": [
-      "Est-ce que Paiecash offre un support en plusieurs langues ?",
-      "Dans quelles langues puis-je obtenir de l'aide sur Paiecash ?"
-    ],
-    "responses": [
-      "Actuellement, Paiecash offre un support en langue [indiquez les langues prises en charge]. Nous travaillons constamment pour étendre notre support à d'autres langues dans le futur."
-    ]
-  },
-  {
-    "tag": "qu-est-ce-que-paiecash-et-le-partenariat",
-    "patterns": [
-      "Qu'est-ce que PaieCash et en quoi consiste ce partenariat ?",
-      "Expliquez PaieCash et son partenariat.",
-      "Pouvez-vous me parler de PaieCash et de son partenariat ?"
-    ],
-    "responses": [
-      "PaieCash est une solution de facilitation des transactions qui s'associe aux clubs amateurs et à leurs investisseurs pour stimuler les échanges. Ce partenariat favorise le développement sportif et social."
-    ]
-  },
-  {
-    "tag": "avantages-partenariat-pour-adherents",
-    "patterns": [
-      "Comment les adhérents du club bénéficient-ils de ce partenariat ?",
-      "Quels avantages les membres du club obtiennent-ils de ce partenariat ?",
-      "En quoi ce partenariat est-il avantageux pour les adhérents du club ?"
-    ],
-    "responses": [
-      "Les adhérents profitent d'avantages tels que la gestion simplifiée des cotisations et des paiements, ainsi que l'accès à des fonctionnalités conviviales pour les équipes sportives."
-    ]
-  },
-  {
-    "tag": "collaboration-avec-collectivites-et-commercants",
-    "patterns": [
-      "Comment fonctionne la collaboration avec les collectivités locales et les commerçants ?",
-      "Expliquez la relation avec les collectivités et les commerçants.",
-      "Pouvez-vous détailler la collaboration avec les collectivités et les commerçants ?"
-    ],
-    "responses": [
-      "PaieCash collabore avec les collectivités locales et les commerçants pour proposer des solutions de financement, ainsi que pour promouvoir les activités des clubs et assurer une visibilité accrue."
-    ]
-  },
-  {
-    "tag": "gestion-transactions-et-paiements",
-    "patterns": [
-      "Comment puis-je gérer les transactions et les paiements avec PaieCash ?",
-      "Expliquez le processus de gestion des paiements avec PaieCash.",
-      "Quelles sont les étapes pour gérer les transactions avec PaieCash ?"
-    ],
-    "responses": [
-      "PaieCash offre une plateforme numérique pour gérer efficacement les paiements, les cotisations, les recettes de buvette et d'événements. Elle permet également d'inscrire les équipes aux compétitions sportives."
-    ]
-  },
-  {
-    "tag": "utilisation-solution-paiecash",
-    "patterns": [
-      "Comment puis-je utiliser la solution de paiement PaieCash ?",
-      "Expliquez le fonctionnement de la solution PaieCash.",
-      "Quelles sont les options pour utiliser la solution PaieCash ?"
-    ],
-    "responses": [
-      "La solution PaieCash offre une carte personnalisée aux couleurs de votre club, permettant des transactions immédiates via la carte, le scan du code ou l'application."
-    ]
-  },
-  {
-    "tag": "developpement-numerique-et-visibilite-club",
-    "patterns": [
-      "Comment PaieCash favorise-t-il le développement numérique et la visibilité du club ?",
-      "Expliquez comment PaieCash contribue au développement numérique des clubs.",
-      "Quels sont les avantages de PaieCash en termes de visibilité pour les clubs ?"
-    ],
-    "responses": [
-      "PaieCash met en place des solutions numériques pour les clubs, favorisant la visibilité, la communication et l'interaction avec les investisseurs, les sponsors et les adhérents."
-    ]
-  },
-  {
-    "tag": "choisir-offre-paiecash",
-    "patterns": [
-      "Comment puis-je choisir l'offre PaieCash qui me convient le mieux ?",
-      "Quelles sont les options pour sélectionner une offre PaieCash ?",
-      "Comment déterminer quelle offre PaieCash est la plus adaptée ?"
-    ],
-    "responses": [
-      "PaieCash propose des offres échelonnées pour répondre aux besoins spécifiques de chaque club. Nous vous invitons à prendre rendez-vous pour discuter de l'offre la plus adaptée à votre situation."
-    ]
-  },
-  {
-    "tag": "contacter-paiecash",
-    "patterns": [
-      "Comment puis-je contacter PaieCash pour en savoir plus ?",
-      "Quels sont les moyens de communication avec PaieCash ?",
-      "Où puis-je trouver les informations de contact de PaieCash ?"
-    ],
-    "responses": [
-      "Vous pouvez nous contacter au +33 7 67 12 96 52 ou visiter notre site web www.paiecash.com pour obtenir plus d'informations sur nos services et notre partenariat avec les clubs amateurs."
-    ]
-  },
-  {
-    "tag": "reconnaissance_qrcode",
-    "patterns": [
-      "Comment fonctionne la reconnaissance et l'identification via le qrcode ?"
-    ],
-    "responses": [
-      "Le qrcode permet d'identifier l'utilisateur de PaieCash. Lorsqu'il est scanné, il permet de reconnaître et d'authentifier le propriétaire du compte."
-    ]
-  },
-  {
-    "tag": "crediter_compte_qrcode",
-    "patterns": [
-      "Comment créditer un compte avec un qrcode ?"
-    ],
-    "responses": [
-      "En scannant le qrcode de l'utilisateur, vous pouvez créditer son compte en ajoutant la somme désirée. Assurez-vous d'avoir l'autorisation de l'utilisateur avant de procéder."
-    ]
-  },
-  {
-    "tag": "debit_sole_initiateur",
-    "patterns": [
-      "Qu'en est-il du débit du solde de l'initiateur ?"
-    ],
-    "responses": [
-      "Lorsque vous effectuez un transfert d'argent via le qrcode, le montant est débité du solde de l'initiateur et crédité sur le compte du destinataire."
-    ]
-  },
-  {
-    "tag": "mise_en_place_transfert_qrcode",
-    "patterns": [
-      "Comment mettre en place le transfert d'argent via le qrcode ?"
-    ],
-    "responses": [
-      "Le transfert d'argent via le qrcode est simple. Il suffit de scanner le qrcode du destinataire, de spécifier le montant et de confirmer la transaction."
-    ]
-  },
-  {
-    "tag": "qrcode_utilisateur",
-    "patterns": [
-      "Pourquoi chaque utilisateur PaieCash possède-t-il un qrcode ?"
-    ],
-    "responses": [
-      "Le qrcode est une méthode pratique pour faciliter les transactions et les échanges d'argent entre utilisateurs PaieCash. Il simplifie le processus en évitant la saisie manuelle des informations."
-    ]
-  },
-  {
-    "tag": "obtenir_propre_qrcode",
-    "patterns": [
-      "Comment puis-je obtenir mon propre qrcode ?"
-    ],
-    "responses": [
-      "Vous pouvez générer votre propre qrcode en vous connectant à votre compte PaieCash et en accédant à la section 'Mon profil'. Suivez les instructions pour générer votre qrcode unique."
-    ]
-  },
-  {
-    "tag": "personnaliser_qrcode",
-    "patterns": [
-      "Puis-je personnaliser mon qrcode ?"
-    ],
-    "responses": [
-      "Actuellement, la personnalisation des qrcodes n'est pas prise en charge. Chaque qrcode est généré de manière automatique et unique pour chaque utilisateur."
-    ]
-  },
-  {
-    "tag": "utiliser_qrcode_payer",
-    "patterns": [
-      "Comment puis-je utiliser mon qrcode pour payer ?"
-    ],
-    "responses": [
-      "Pour effectuer un paiement, il suffit de présenter votre qrcode au commerçant ou à la personne à qui vous souhaitez payer. Ils pourront le scanner pour effectuer la transaction."
-    ]
-  },
-  {
-    "tag": "mettre_jour_informations_qrcode",
-    "patterns": [
-      "Comment mettre à jour les informations liées à mon qrcode ?"
-    ],
-    "responses": [
-      "Pour mettre à jour les informations associées à votre qrcode, connectez-vous à votre compte PaieCash et accédez à la section 'Profil'. Vous pourrez modifier vos informations personnelles."
-    ]
-  },
-  {
-    "tag": "utiliser_qrcode_plusieurs_appareils",
-    "patterns": [
-      "Puis-je utiliser mon qrcode sur plusieurs appareils ?"
-    ],
-    "responses": [
-      "Oui, vous pouvez utiliser votre qrcode sur plusieurs appareils. Cependant, assurez-vous que les appareils sont liés au même compte PaieCash."
-    ]
-  },
-  {
-    "tag": "Qu'est-ce que PaieCash ?",
-    "patterns": [
-      "Qu'est-ce que PaieCash ?"
-    ],
-    "responses": [
-      "PaieCash est une entreprise innovante en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Son objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
-    ]
-  },
-  {
-    "tag": "Comment créer un compte client ?",
-    "patterns": [
-      "Comment créer un compte client ?"
-    ],
-    "responses": [
-      "Pour créer un compte, vous devez fournir votre adresse e-mail, votre numéro de téléphone, un mot de passe, votre nom et votre prénom."
-    ]
-  },
-  {
-    "tag": "Comment se connecter à l'application ?",
-    "patterns": [
-      "Comment se connecter à l'application ?"
-    ],
-    "responses": [
-      "Après avoir créé un compte, vous pouvez vous connecter à l'application en utilisant votre numéro de téléphone et votre mot de passe."
-    ]
-  },
+          {
+            "tag": "creation_compte",
+            "patterns": [
+              "Comment puis-je créer un compte Paiecash ?",
+              "Quels sont les étapes pour m'inscrire sur Paiecash ?"
+            ],
+            "responses": [
+              "Pour créer un compte sur Paiecash, visitez notre site web et suivez les instructions d'inscription. Vous devrez fournir des informations de base et créer un identifiant unique pour votre compte."
+            ]
+          },
+          {
+            "tag": "temps_traitement_paiement",
+            "patterns": [
+              "Combien de temps faut-il pour traiter un paiement sur Paiecash ?",
+              "Quelle est la durée de traitement des paiements sur Paiecash ?"
+            ],
+            "responses": [
+              "Le temps de traitement des paiements sur Paiecash dépend du type de transaction et du mode de paiement que vous choisissez. En général, la plupart des paiements sont traités en quelques minutes à quelques heures."
+            ]
+          },
+          {
+            "tag": "mise_a_jour_informations_compte",
+            "patterns": [
+              "Comment mettre à jour mes informations de compte sur Paiecash ?",
+              "Puis-je modifier les détails de mon compte Paiecash ?"
+            ],
+            "responses": [
+              "Vous pouvez mettre à jour vos informations de compte en accédant à votre profil sur Paiecash. Vous aurez la possibilité de modifier vos détails personnels et vos préférences."
+            ]
+          },
+          {
+            "tag": "support_en_plusieurs_langues",
+            "patterns": [
+              "Est-ce que Paiecash offre un support en plusieurs langues ?",
+              "Dans quelles langues puis-je obtenir de l'aide sur Paiecash ?"
+            ],
+            "responses": [
+              "Actuellement, Paiecash offre un support en langue [indiquez les langues prises en charge]. Nous travaillons constamment pour étendre notre support à d'autres langues dans le futur."
+            ]
+          },
+          {
+            "tag": "qu_est_ce_que_paiecash_et_le_partenariat",
+            "patterns": [
+              "Qu'est-ce que PaieCash et en quoi consiste ce partenariat ?",
+              "Expliquez PaieCash et son partenariat.",
+              "Pouvez-vous me parler de PaieCash et de son partenariat ?"
+            ],
+            "responses": [
+              "PaieCash est une solution de facilitation des transactions qui s'associe aux clubs amateurs et à leurs investisseurs pour stimuler les échanges. Ce partenariat favorise le développement sportif et social."
+            ]
+          },
+          {
+            "tag": "avantages_partenariat_pour_adherents",
+            "patterns": [
+              "Comment les adhérents du club bénéficient-ils de ce partenariat ?",
+              "Quels avantages les membres du club obtiennent-ils de ce partenariat ?",
+              "En quoi ce partenariat est-il avantageux pour les adhérents du club ?"
+            ],
+            "responses": [
+              "Les adhérents profitent d'avantages tels que la gestion simplifiée des cotisations et des paiements, ainsi que l'accès à des fonctionnalités conviviales pour les équipes sportives."
+            ]
+          },
+          {
+            "tag": "collaboration_avec_collectivites_et_commercants",
+            "patterns": [
+              "Comment fonctionne la collaboration avec les collectivités locales et les commerçants ?",
+              "Expliquez la relation avec les collectivités et les commerçants.",
+              "Pouvez-vous détailler la collaboration avec les collectivités et les commerçants ?"
+            ],
+            "responses": [
+              "PaieCash collabore avec les collectivités locales et les commerçants pour proposer des solutions de financement, ainsi que pour promouvoir les activités des clubs et assurer une visibilité accrue."
+            ]
+          },
+          {
+            "tag": "gestion_transactions_et_paiements",
+            "patterns": [
+              "Comment puis-je gérer les transactions et les paiements avec PaieCash ?",
+              "Expliquez le processus de gestion des paiements avec PaieCash.",
+              "Quelles sont les étapes pour gérer les transactions avec PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash offre une plateforme numérique pour gérer efficacement les paiements, les cotisations, les recettes de buvette et d'événements. Elle permet également d'inscrire les équipes aux compétitions sportives."
+            ]
+          },
+          {
+            "tag": "utilisation_solution_paiecash",
+            "patterns": [
+              "Comment puis-je utiliser la solution de paiement PaieCash ?",
+              "Expliquez le fonctionnement de la solution PaieCash.",
+              "Quelles sont les options pour utiliser la solution PaieCash ?"
+            ],
+            "responses": [
+              "La solution PaieCash offre une carte personnalisée aux couleurs de votre club, permettant des transactions immédiates via la carte, le scan du code ou l'application."
+            ]
+          },
+          {
+            "tag": "developpement_numerique_et_visibilite_club",
+            "patterns": [
+              "Comment PaieCash favorise-t-il le développement numérique et la visibilité du club ?",
+              "Expliquez comment PaieCash contribue au développement numérique des clubs.",
+              "Quels sont les avantages de PaieCash en termes de visibilité pour les clubs ?"
+            ],
+            "responses": [
+              "PaieCash met en place des solutions numériques pour les clubs, favorisant la visibilité, la communication et l'interaction avec les investisseurs, les sponsors et les adhérents."
+            ]
+          },
+          {
+            "tag": "choisir_offre_paiecash",
+            "patterns": [
+              "Comment puis-je choisir l'offre PaieCash qui me convient le mieux ?",
+              "Quelles sont les options pour sélectionner une offre PaieCash ?",
+              "Comment déterminer quelle offre PaieCash est la plus adaptée ?"
+            ],
+            "responses": [
+              "PaieCash propose des offres échelonnées pour répondre aux besoins spécifiques de chaque club. Nous vous invitons à prendre rendez-vous pour discuter de l'offre la plus adaptée à votre situation."
+            ]
+          },
+          {
+            "tag": "contacter_paiecash",
+            "patterns": [
+              "Comment puis-je contacter PaieCash pour en savoir plus ?",
+              "Quels sont les moyens de communication avec PaieCash ?",
+              "Où puis-je trouver les informations de contact de PaieCash ?"
+            ],
+            "responses": [
+              "Vous pouvez nous contacter au +33 7 67 12 96 52 ou visiter notre site web www.paiecash.com pour obtenir plus d'informations sur nos services et notre partenariat avec les clubs amateurs."
+            ]
+          },
+          {
+            "tag": "reconnaissance_qrcode",
+            "patterns": [
+              "Comment fonctionne la reconnaissance et l'identification via le qrcode ?"
+            ],
+            "responses": [
+              "Le qrcode permet d'identifier l'utilisateur de PaieCash. Lorsqu'il est scanné, il permet de reconnaître et d'authentifier le propriétaire du compte."
+            ]
+          },
+          {
+            "tag": "crediter_compte_qrcode",
+            "patterns": [
+              "Comment créditer un compte avec un qrcode ?"
+            ],
+            "responses": [
+              "En scannant le qrcode de l'utilisateur, vous pouvez créditer son compte en ajoutant la somme désirée. Assurez-vous d'avoir l'autorisation de l'utilisateur avant de procéder."
+            ]
+          },
+          {
+            "tag": "debit_sole_initiateur",
+            "patterns": [
+              "Qu'en est-il du débit du solde de l'initiateur ?"
+            ],
+            "responses": [
+              "Lorsque vous effectuez un transfert d'argent via le qrcode, le montant est débité du solde de l'initiateur et crédité sur le compte du destinataire."
+            ]
+          },
+          {
+            "tag": "mise_en_place_transfert_qrcode",
+            "patterns": [
+              "Comment mettre en place le transfert d'argent via le qrcode ?"
+            ],
+            "responses": [
+              "Le transfert d'argent via le qrcode est simple. Il suffit de scanner le qrcode du destinataire, de spécifier le montant et de confirmer la transaction."
+            ]
+          },
+          {
+            "tag": "qrcode_utilisateur",
+            "patterns": [
+              "Pourquoi chaque utilisateur PaieCash possède-t-il un qrcode ?"
+            ],
+            "responses": [
+              "Le qrcode est une méthode pratique pour faciliter les transactions et les échanges d'argent entre utilisateurs PaieCash. Il simplifie le processus en évitant la saisie manuelle des informations."
+            ]
+          },
+          {
+            "tag": "obtenir_propre_qrcode",
+            "patterns": [
+              "Comment puis-je obtenir mon propre qrcode ?"
+            ],
+            "responses": [
+              "Vous pouvez générer votre propre qrcode en vous connectant à votre compte PaieCash et en accédant à la section 'Mon profil'. Suivez les instructions pour générer votre qrcode unique."
+            ]
+          },
+          {
+            "tag": "personnaliser_qrcode",
+            "patterns": [
+              "Puis-je personnaliser mon qrcode ?"
+            ],
+            "responses": [
+              "Actuellement, la personnalisation des qrcodes n'est pas prise en charge. Chaque qrcode est généré de manière automatique et unique pour chaque utilisateur."
+            ]
+          },
+          {
+            "tag": "utiliser_qrcode_payer",
+            "patterns": [
+              "Comment puis-je utiliser mon qrcode pour payer ?"
+            ],
+            "responses": [
+              "Pour effectuer un paiement, il suffit de présenter votre qrcode au commerçant ou à la personne à qui vous souhaitez payer. Ils pourront le scanner pour effectuer la transaction."
+            ]
+          },
+          {
+            "tag": "mettre_jour_informations_qrcode",
+            "patterns": [
+              "Comment mettre à jour les informations liées à mon qrcode ?"
+            ],
+            "responses": [
+              "Pour mettre à jour les informations associées à votre qrcode, connectez-vous à votre compte PaieCash et accédez à la section 'Profil'. Vous pourrez modifier vos informations personnelles."
+            ]
+          },
+          {
+            "tag": "utiliser_qrcode_plusieurs_appareils",
+            "patterns": [
+              "Puis-je utiliser mon qrcode sur plusieurs appareils ?"
+            ],
+            "responses": [
+              "Oui, vous pouvez utiliser votre qrcode sur plusieurs appareils. Cependant, assurez-vous que les appareils sont liés au même compte PaieCash."
+            ]
+          },
+          {
+            "tag": "qu_est_ce_que_paiecash",
+            "patterns": [
+              "Qu'est-ce que PaieCash ?"
+            ],
+            "responses": [
+              "PaieCash est une entreprise innovante en Afrique, offrant des solutions numériques dans les domaines de la téléphonie, d'Internet et de la télévision. Son objectif est de simplifier les transactions et les paiements en ligne pour tout le monde."
+            ]
+          },
+          {
+            "tag": "comment_creer_un_compte_client",
+            "patterns": [
+              "Comment créer un compte client ?"
+            ],
+            "responses": [
+              "Pour créer un compte, vous devez fournir votre adresse e-mail, votre numéro de téléphone, un mot de passe, votre nom et votre prénom."
+            ]
+          },
+          {
+            "tag": "comment_se_connecter_a_l_application",
+            "patterns": [
+              "Comment se connecter à l'application ?"
+            ],
+            "responses": [
+              "Après avoir créé un compte, vous pouvez vous connecter à l'application en utilisant votre numéro de téléphone et votre mot de passe."
+            ]
+          },
   {
     "tag": "Que faire si j'oublie mon mot de passe ?",
     "patterns": [
