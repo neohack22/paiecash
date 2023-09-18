@@ -1499,264 +1499,264 @@
               "Chaque produit Paiecash est associé à un QRCodes unique qui peut être scanné à l'aide d'une application mobile. Cela permet d'accéder instantanément aux informations essentielles du produit."
             ]
           },
-  {
-    "tag": "qrcodes_informations",
-    "patterns": [
-      "Quelles informations sont disponibles via les QRCodes ?",
-      "Que puis-je découvrir en scannant un QRCodes Paiecash ?",
-      "Donnez-moi plus de détails sur les informations fournies par les QRCodes."
-    ],
-    "responses": [
-      "Les QRCodes fournissent des détails tels que la date de péremption, le lieu de fabrication, l'usine de production et le pays d'origine du produit."
-    ]
-  },
-  {
-    "tag": "qrcodes_scanner",
-    "patterns": [
-      "Comment puis-je scanner un QRCodes Paiecash ?",
-      "Quelle est la méthode pour lire un QRCodes Paiecash ?",
-      "Expliquez comment utiliser l'application mobile pour scanner un QRCodes Paiecash."
-    ],
-    "responses": [
-      "Téléchargez simplement notre application mobile, ouvrez-la et scannez le QRCodes en utilisant l'appareil photo de votre téléphone."
-    ]
-  },
-  {
-    "tag": "qrcodes_presence",
-    "patterns": [
-      "Est-ce que tous les produits Paiecash ont un QRCodes ?",
-      "Les QRCodes sont-ils présents sur tous les produits Paiecash ?",
-      "Quelle est la politique de Paiecash concernant les QRCodes sur ses produits ?"
-    ],
-    "responses": [
-      "Oui, tous nos produits sont équipés d'un QRCodes pour garantir une traçabilité et une transparence maximales."
-    ]
-  },
-  {
-    "tag": "qrcodes_securite",
-    "patterns": [
-      "Les QRCodes de Paiecash sont-ils sécurisés ?",
-      "Puis-je faire confiance à la sécurité des QRCodes Paiecash ?",
-      "Comment Paiecash protège-t-il ses QRCodes contre la falsification ?"
-    ],
-    "responses": [
-      "Absolument, nos QRCodes sont sécurisés et conçus pour empêcher toute falsification."
-    ]
-  },
-  {
-    "tag": "qrcodes_authenticite",
-    "patterns": [
-      "Puis-je utiliser les QRCodes pour vérifier l'authenticité d'un produit ?",
-      "Comment puis-je savoir si un produit Paiecash est authentique en scannant son QRCodes ?",
-      "Les QRCodes permettent-ils de confirmer l'authenticité d'un produit Paiecash ?"
-    ],
-    "responses": [
-      "Oui, en scannant le QRCodes, vous pouvez vérifier instantanément l'authenticité d'un produit Paiecash et accéder à ses informations de qualité."
-    ]
-  },
-  {
-    "tag": "qrcodes_experience",
-    "patterns": [
-      "Comment les QRCodes Paiecash améliorent-ils mon expérience en tant que consommateur ?",
-      "En quoi les QRCodes facilitent-ils mon expérience en tant que client Paiecash ?",
-      "Quels sont les avantages des QRCodes pour les consommateurs Paiecash ?"
-    ],
-    "responses": [
-      "Les QRCodes simplifient l'accès aux informations essentielles sur les produits, vous permettant de prendre des décisions d'achat éclairées."
-    ]
-  },
-  {
-    "tag": "qrcodes_connexion",
-    "patterns": [
-      "Puis-je accéder aux QRCodes sans connexion Internet ?",
-      "Est-il nécessaire d'avoir une connexion Internet pour utiliser les QRCodes ?",
-      "Les QRCodes Paiecash fonctionnent-ils hors ligne ?"
-    ],
-    "responses": [
-      "Non, une connexion Internet est requise pour accéder aux informations via les QRCodes."
-    ]
-  },
-  {
-    "tag": "qrcodes_confidentialite",
-    "patterns": [
-      "Comment Paiecash garantit-il la confidentialité de mes données lors de l'utilisation des QRCodes ?",
-      "Quelles mesures de sécurité sont en place pour protéger mes données lorsque j'utilise les QRCodes ?",
-      "Est-ce que mes données personnelles sont en sécurité lorsque j'utilise les QRCodes Paiecash ?"
-    ],
-    "responses": [
-      "Vos données personnelles sont sécurisées et traitées conformément à notre politique de confidentialité. Les informations accessibles via les QRCodes sont spécifiquement liées au produit."
-    ]
-  },
-  {
-    "tag": "qu_est_ce_que_paiecash",
-    "patterns": [
-      "Qu'est-ce que Paiecash ?",
-      "Qu'est-ce que Paiecash",
-      "Paiecash"
-    ],
-    "responses": [
-      "Paiecash est une plateforme offrant des services de paiement et de gestion de comptes. Notre gamme de fonctionnalités inclut des options de recharge, des paiements, des comptes utilisateur et bien plus encore."
-    ]
-  },
-  {
-    "tag": "utilisation_des_chatbots",
-    "patterns": [
-      "Comment les chatbots sont-ils utilisés sur Paiecash ?",
-      "Utilisation des chatbots sur Paiecash",
-      "Chatbots Paiecash"
-    ],
-    "responses": [
-      "Les chatbots sont déployés pour améliorer l'expérience utilisateur. Ils peuvent répondre aux questions fréquemment posées, collecter des commentaires et aider dans le traitement des paiements et des recharges."
-    ]
-  },
-  {
-    "tag": "options_de_paiement",
-    "patterns": [
-      "Quelles sont les options de paiement disponibles sur Paiecash ?",
-      "Options de paiement Paiecash",
-      "Méthodes de paiement acceptées"
-    ],
-    "responses": [
-      "Paiecash prend en charge plusieurs méthodes de paiement, y compris OrangeMoney, CarteBancaire et MtnMoney. Vous pouvez facilement effectuer des paiements à partir de votre compte enregistré."
-    ]
-  },
-  {
-    "tag": "gestion_des_comptes_utilisateurs",
-    "patterns": [
-      "Comment puis-je gérer mes comptes utilisateurs ?",
-      "Gestion des comptes sur Paiecash",
-      "Ajouter des comptes utilisateurs"
-    ],
-    "responses": [
-      "En tant qu'utilisateur, vous pouvez avoir plusieurs comptes associés à un compte principal. Cela permet une gestion simplifiée de vos finances. Pour ajouter ou gérer des comptes, accédez à la section 'Comptes' de votre profil."
-    ]
-  },
-  {
-    "tag": "obtenir_de_l_aide",
-    "patterns": [
-      "Comment puis-je obtenir de l'aide en cas de problème ?",
-      "Besoin d'aide sur Paiecash",
-      "Assistance client"
-    ],
-    "responses": [
-      "Si vous rencontrez des difficultés ou avez des questions, consultez notre section d'aide en ligne. Vous y trouverez des réponses aux questions fréquentes. Si votre problème persiste, n'hésitez pas à contacter notre équipe d'assistance."
-    ]
-  },
-  {
-    "tag": "rester_informe_des_nouveautes",
-    "patterns": [
-      "Comment rester informé des nouveautés de Paiecash ?",
-      "Nouveautés sur Paiecash",
-      "Abonnement à la newsletter"
-    ],
-    "responses": [
-      "Pour suivre les dernières mises à jour et les nouveautés de Paiecash, abonnez-vous à notre newsletter. Vous recevrez régulièrement des informations sur les nouvelles fonctionnalités, les offres spéciales et les événements."
-    ]
-  },
-  {
-    "tag": "geolocalisation_sur_paiecash",
-    "patterns": [
-      "Comment fonctionne la géolocalisation sur Paiecash ?",
-      "Géolocalisation Paiecash",
-      "Localisation des services Paiecash"
-    ],
-    "responses": [
-      "La géolocalisation est utilisée pour fournir des informations contextuelles, telles que les points de recharge ou les partenaires à proximité. Cette fonctionnalité vous aide à trouver rapidement ce dont vous avez besoin."
-    ]
-  },
-  {
-    "tag": "acces_a_votre_compte_paiecash",
-    "patterns": [
-      "Comment puis-je accéder à mon compte Paiecash ?",
-      "Accès à votre compte sur Paiecash",
-      "Connexion à Paiecash"
-    ],
-    "responses": [
-      "Vous pouvez vous connecter à votre compte Paiecash en utilisant vos identifiants de connexion sur notre site web ou notre application mobile. Si vous n'avez pas de compte, inscrivez-vous pour en créer un."
-    ]
-  },
-  {
-    "tag": "etapes_pour_effectuer_un_paiement",
-    "patterns": [
-      "Quelles sont les étapes pour effectuer un paiement sur Paiecash ?",
-      "Paiement sur Paiecash",
-      "Processus de paiement"
-    ],
-    "responses": [
-      "Pour effectuer un paiement, connectez-vous à votre compte, sélectionnez l'option de paiement, choisissez le compte source et le destinataire, puis confirmez la transaction. Une fois confirmée, le paiement sera traité."
-    ]
-  },
-  {
-    "tag": "contacter_le_support_client",
-    "patterns": [
-      "Comment puis-je contacter le support client de Paiecash ?",
-      "Support client Paiecash",
-      "Service client"
-    ],
-    "responses": [
-      "Si vous avez des questions ou des préoccupations, notre équipe d'assistance est là pour vous aider. Utilisez notre formulaire de contact sur le site ou envoyez-nous un e-mail à l'adresse indiquée sur notre page de support."
-    ]
-  },
-  {
-    "tag": "qu_est_ce_que_paiecash",
-    "patterns": [
-      "Qu'est-ce que Paiecash ?",
-      "Que propose Paiecash ?"
-    ],
-    "responses": [
-      "Paiecash est une plateforme qui propose une gamme de services de paiement et de recharge, tels que les recharges de type OrangeMoney, CarteBancaire et MtnMoney, ainsi que des paiements et des achats de tickets. Notre plateforme vise à simplifier vos transactions financières."
-    ]
-  },
-  {
-    "tag": "utilisation_services_recharge",
-    "patterns": [
-      "Comment puis-je utiliser les services de recharge sur Paiecash ?",
-      "Quelles méthodes de recharge puis-je utiliser sur Paiecash ?"
-    ],
-    "responses": [
-      "Vous pouvez recharger votre compte en utilisant des méthodes telles que OrangeMoney, CarteBancaire et MtnMoney. Sélectionnez simplement le type de recharge que vous préférez et suivez les instructions pour effectuer la transaction."
-    ]
-  },
-  {
-    "tag": "avantages_chatbots",
-    "patterns": [
-      "Quels sont les avantages de l'utilisation de chatbots sur Paiecash ?",
-      "Pourquoi devrais-je utiliser des chatbots sur Paiecash ?"
-    ],
-    "responses": [
-      "Les chatbots sur Paiecash vous permettent de poser des questions fréquentes, d'obtenir des réponses instantanées et de gérer vos transactions de manière efficace. Cela simplifie votre expérience utilisateur et réduit le temps d'attente pour obtenir de l'aide."
-    ]
-  },
-  {
-    "tag": "paiements_via_paiecash",
-    "patterns": [
-      "Puis-je effectuer des paiements via Paiecash ?",
-      "Comment puis-je effectuer un paiement sur Paiecash ?"
-    ],
-    "responses": [
-      "Oui, Paiecash offre la possibilité d'effectuer des paiements à partir de votre compte. Vous pouvez associer un compte à votre paiement et suivre le processus de paiement facilement."
-    ]
-  },
-  {
-    "tag": "obtenir_de_l_aide",
-    "patterns": [
-      "Comment puis-je obtenir de l'aide en cas de problème sur Paiecash ?",
-      "Que faire si j'ai des problèmes avec Paiecash ?"
-    ],
-    "responses": [
-      "Si vous rencontrez des problèmes ou avez des questions, vous pouvez utiliser notre service de chatbot pour obtenir des réponses rapides. Si le problème persiste, vous pouvez également contacter notre équipe d'assistance via les coordonnées fournies sur notre site web."
-    ]
-  },
-  {
-    "tag": "fonctionnalites_geolocalisation",
-    "patterns": [
-      "Est-ce que Paiecash propose des fonctionnalités de géolocalisation ?",
-      "Comment puis-je utiliser la géolocalisation sur Paiecash ?"
-    ],
-    "responses": [
-      "Oui, Paiecash propose des fonctionnalités de géolocalisation pour faciliter la recherche de lieux tels que les stades et les points de recharge. Cela vous aide à trouver rapidement les informations dont vous avez besoin."
-    ]
-  },
+          {
+            "tag": "qrcodes_informations",
+            "patterns": [
+              "Quelles informations sont disponibles via les QRCodes ?",
+              "Que puis-je découvrir en scannant un QRCodes Paiecash ?",
+              "Donnez-moi plus de détails sur les informations fournies par les QRCodes."
+            ],
+            "responses": [
+              "Les QRCodes fournissent des détails tels que la date de péremption, le lieu de fabrication, l'usine de production et le pays d'origine du produit."
+            ]
+          },
+          {
+            "tag": "qrcodes_scanner",
+            "patterns": [
+              "Comment puis-je scanner un QRCodes Paiecash ?",
+              "Quelle est la méthode pour lire un QRCodes Paiecash ?",
+              "Expliquez comment utiliser l'application mobile pour scanner un QRCodes Paiecash."
+            ],
+            "responses": [
+              "Téléchargez simplement notre application mobile, ouvrez-la et scannez le QRCodes en utilisant l'appareil photo de votre téléphone."
+            ]
+          },
+          {
+            "tag": "qrcodes_presence",
+            "patterns": [
+              "Est-ce que tous les produits Paiecash ont un QRCodes ?",
+              "Les QRCodes sont-ils présents sur tous les produits Paiecash ?",
+              "Quelle est la politique de Paiecash concernant les QRCodes sur ses produits ?"
+            ],
+            "responses": [
+              "Oui, tous nos produits sont équipés d'un QRCodes pour garantir une traçabilité et une transparence maximales."
+            ]
+          },
+          {
+            "tag": "qrcodes_securite",
+            "patterns": [
+              "Les QRCodes de Paiecash sont-ils sécurisés ?",
+              "Puis-je faire confiance à la sécurité des QRCodes Paiecash ?",
+              "Comment Paiecash protège-t-il ses QRCodes contre la falsification ?"
+            ],
+            "responses": [
+              "Absolument, nos QRCodes sont sécurisés et conçus pour empêcher toute falsification."
+            ]
+          },
+          {
+            "tag": "qrcodes_authenticite",
+            "patterns": [
+              "Puis-je utiliser les QRCodes pour vérifier l'authenticité d'un produit ?",
+              "Comment puis-je savoir si un produit Paiecash est authentique en scannant son QRCodes ?",
+              "Les QRCodes permettent-ils de confirmer l'authenticité d'un produit Paiecash ?"
+            ],
+            "responses": [
+              "Oui, en scannant le QRCodes, vous pouvez vérifier instantanément l'authenticité d'un produit Paiecash et accéder à ses informations de qualité."
+            ]
+          },
+          {
+            "tag": "qrcodes_experience",
+            "patterns": [
+              "Comment les QRCodes Paiecash améliorent-ils mon expérience en tant que consommateur ?",
+              "En quoi les QRCodes facilitent-ils mon expérience en tant que client Paiecash ?",
+              "Quels sont les avantages des QRCodes pour les consommateurs Paiecash ?"
+            ],
+            "responses": [
+              "Les QRCodes simplifient l'accès aux informations essentielles sur les produits, vous permettant de prendre des décisions d'achat éclairées."
+            ]
+          },
+          {
+            "tag": "qrcodes_connexion",
+            "patterns": [
+              "Puis-je accéder aux QRCodes sans connexion Internet ?",
+              "Est-il nécessaire d'avoir une connexion Internet pour utiliser les QRCodes ?",
+              "Les QRCodes Paiecash fonctionnent-ils hors ligne ?"
+            ],
+            "responses": [
+              "Non, une connexion Internet est requise pour accéder aux informations via les QRCodes."
+            ]
+          },
+          {
+            "tag": "qrcodes_confidentialite",
+            "patterns": [
+              "Comment Paiecash garantit-il la confidentialité de mes données lors de l'utilisation des QRCodes ?",
+              "Quelles mesures de sécurité sont en place pour protéger mes données lorsque j'utilise les QRCodes ?",
+              "Est-ce que mes données personnelles sont en sécurité lorsque j'utilise les QRCodes Paiecash ?"
+            ],
+            "responses": [
+              "Vos données personnelles sont sécurisées et traitées conformément à notre politique de confidentialité. Les informations accessibles via les QRCodes sont spécifiquement liées au produit."
+            ]
+          },
+          {
+            "tag": "qu_est_ce_que_paiecash",
+            "patterns": [
+              "Qu'est-ce que Paiecash ?",
+              "Qu'est-ce que Paiecash",
+              "Paiecash"
+            ],
+            "responses": [
+              "Paiecash est une plateforme qui propose une gamme de services de paiement et de recharge, tels que les recharges de type OrangeMoney, CarteBancaire et MtnMoney, ainsi que des paiements et des achats de tickets. Notre plateforme vise à simplifier vos transactions financières."
+            ]
+          },
+          {
+            "tag": "utilisation_des_chatbots",
+            "patterns": [
+              "Comment les chatbots sont-ils utilisés sur Paiecash ?",
+              "Utilisation des chatbots sur Paiecash",
+              "Chatbots Paiecash"
+            ],
+            "responses": [
+              "Les chatbots sont déployés pour améliorer l'expérience utilisateur. Ils peuvent répondre aux questions fréquemment posées, collecter des commentaires et aider dans le traitement des paiements et des recharges."
+            ]
+          },
+          {
+            "tag": "options_de_paiement",
+            "patterns": [
+              "Quelles sont les options de paiement disponibles sur Paiecash ?",
+              "Options de paiement Paiecash",
+              "Méthodes de paiement acceptées"
+            ],
+            "responses": [
+              "Paiecash prend en charge plusieurs méthodes de paiement, y compris OrangeMoney, CarteBancaire et MtnMoney. Vous pouvez facilement effectuer des paiements à partir de votre compte enregistré."
+            ]
+          },
+          {
+            "tag": "gestion_des_comptes_utilisateurs",
+            "patterns": [
+              "Comment puis-je gérer mes comptes utilisateurs ?",
+              "Gestion des comptes sur Paiecash",
+              "Ajouter des comptes utilisateurs"
+            ],
+            "responses": [
+              "En tant qu'utilisateur, vous pouvez avoir plusieurs comptes associés à un compte principal. Cela permet une gestion simplifiée de vos finances. Pour ajouter ou gérer des comptes, accédez à la section 'Comptes' de votre profil."
+            ]
+          },
+          {
+            "tag": "obtenir_de_l_aide",
+            "patterns": [
+              "Comment puis-je obtenir de l'aide en cas de problème ?",
+              "Besoin d'aide sur Paiecash",
+              "Assistance client"
+            ],
+            "responses": [
+              "Si vous rencontrez des difficultés ou avez des questions, consultez notre section d'aide en ligne. Vous y trouverez des réponses aux questions fréquentes. Si votre problème persiste, n'hésitez pas à contacter notre équipe d'assistance."
+            ]
+          },
+          {
+            "tag": "rester_informe_des_nouveautes",
+            "patterns": [
+              "Comment rester informé des nouveautés de Paiecash ?",
+              "Nouveautés sur Paiecash",
+              "Abonnement à la newsletter"
+            ],
+            "responses": [
+              "Pour suivre les dernières mises à jour et les nouveautés de Paiecash, abonnez-vous à notre newsletter. Vous recevrez régulièrement des informations sur les nouvelles fonctionnalités, les offres spéciales et les événements."
+            ]
+          },
+          {
+            "tag": "geolocalisation_sur_paiecash",
+            "patterns": [
+              "Comment fonctionne la géolocalisation sur Paiecash ?",
+              "Géolocalisation Paiecash",
+              "Localisation des services Paiecash"
+            ],
+            "responses": [
+              "La géolocalisation est utilisée pour fournir des informations contextuelles, telles que les points de recharge ou les partenaires à proximité. Cette fonctionnalité vous aide à trouver rapidement ce dont vous avez besoin."
+            ]
+          },
+          {
+            "tag": "acces_a_votre_compte_paiecash",
+            "patterns": [
+              "Comment puis-je accéder à mon compte Paiecash ?",
+              "Accès à votre compte sur Paiecash",
+              "Connexion à Paiecash"
+            ],
+            "responses": [
+              "Vous pouvez vous connecter à votre compte Paiecash en utilisant vos identifiants de connexion sur notre site web ou notre application mobile. Si vous n'avez pas de compte, inscrivez-vous pour en créer un."
+            ]
+          },
+          {
+            "tag": "etapes_pour_effectuer_un_paiement",
+            "patterns": [
+              "Quelles sont les étapes pour effectuer un paiement sur Paiecash ?",
+              "Paiement sur Paiecash",
+              "Processus de paiement"
+            ],
+            "responses": [
+              "Pour effectuer un paiement, connectez-vous à votre compte, sélectionnez l'option de paiement, choisissez le compte source et le destinataire, puis confirmez la transaction. Une fois confirmée, le paiement sera traité."
+            ]
+          },
+          {
+            "tag": "contacter_le_support_client",
+            "patterns": [
+              "Comment puis-je contacter le support client de Paiecash ?",
+              "Support client Paiecash",
+              "Service client"
+            ],
+            "responses": [
+              "Si vous avez des questions ou des préoccupations, notre équipe d'assistance est là pour vous aider. Utilisez notre formulaire de contact sur le site ou envoyez-nous un e-mail à l'adresse indiquée sur notre page de support."
+            ]
+          },
+          {
+            "tag": "qu_est_ce_que_paiecash",
+            "patterns": [
+              "Qu'est-ce que Paiecash ?",
+              "Que propose Paiecash ?"
+            ],
+            "responses": [
+              "Paiecash est une plateforme qui propose une gamme de services de paiement et de recharge, tels que les recharges de type OrangeMoney, CarteBancaire et MtnMoney, ainsi que des paiements et des achats de tickets. Notre plateforme vise à simplifier vos transactions financières."
+            ]
+          },
+          {
+            "tag": "utilisation_services_recharge",
+            "patterns": [
+              "Comment puis-je utiliser les services de recharge sur Paiecash ?",
+              "Quelles méthodes de recharge puis-je utiliser sur Paiecash ?"
+            ],
+            "responses": [
+              "Vous pouvez recharger votre compte en utilisant des méthodes telles que OrangeMoney, CarteBancaire et MtnMoney. Sélectionnez simplement le type de recharge que vous préférez et suivez les instructions pour effectuer la transaction."
+            ]
+          },
+          {
+            "tag": "avantages_chatbots",
+            "patterns": [
+              "Quels sont les avantages de l'utilisation de chatbots sur Paiecash ?",
+              "Pourquoi devrais-je utiliser des chatbots sur Paiecash ?"
+            ],
+            "responses": [
+              "Les chatbots sur Paiecash vous permettent de poser des questions fréquentes, d'obtenir des réponses instantanées et de gérer vos transactions de manière efficace. Cela simplifie votre expérience utilisateur et réduit le temps d'attente pour obtenir de l'aide."
+            ]
+          },
+          {
+            "tag": "paiements_via_paiecash",
+            "patterns": [
+              "Puis-je effectuer des paiements via Paiecash ?",
+              "Comment puis-je effectuer un paiement sur Paiecash ?"
+            ],
+            "responses": [
+              "Oui, Paiecash offre la possibilité d'effectuer des paiements à partir de votre compte. Vous pouvez associer un compte à votre paiement et suivre le processus de paiement facilement."
+            ]
+          },
+          {
+            "tag": "obtenir_de_l_aide",
+            "patterns": [
+              "Comment puis-je obtenir de l'aide en cas de problème sur Paiecash ?",
+              "Que faire si j'ai des problèmes avec Paiecash ?"
+            ],
+            "responses": [
+              "Si vous rencontrez des problèmes ou avez des questions, vous pouvez utiliser notre service de chatbot pour obtenir des réponses rapides. Si le problème persiste, vous pouvez également contacter notre équipe d'assistance via les coordonnées fournies sur notre site web."
+            ]
+          },
+          {
+            "tag": "fonctionnalites_geolocalisation",
+            "patterns": [
+              "Est-ce que Paiecash propose des fonctionnalités de géolocalisation ?",
+              "Comment puis-je utiliser la géolocalisation sur Paiecash ?"
+            ],
+            "responses": [
+              "Oui, Paiecash propose des fonctionnalités de géolocalisation pour faciliter la recherche de lieux tels que les stades et les points de recharge. Cela vous aide à trouver rapidement les informations dont vous avez besoin."
+            ]
+          },
   {
     "tag": "creation_compte",
     "patterns": [
