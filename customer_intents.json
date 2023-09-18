@@ -256,256 +256,203 @@
               "La signature électronique est simple. Suivez les instructions fournies dans l'e-mail d'approbation pour signer électroniquement les accords. Cela permet de formaliser votre accord et de finaliser le processus."
             ]
           },
-        {
-          "tag": "désign de l'application mobile paiecash qr",
-          "patterns": [
-            "Qu'est-ce que le désign de l'application mobile paiecash qr ?",
-            "Où puis-je trouver des informations sur le désign de l'application mobile paiecash qr ?"
-          ],
-          "responses": [
-            "Le désign de l'application mobile paiecash qr concerne la conception visuelle de l'interface utilisateur de l'application. Vous pouvez en savoir plus en consultant le lien suivant : [Lien vers Figma](https://www.figma.com/file/DCuVa2DXlebwOTYC3VIMNW/carte-paiecash?type=design&node-id=294%3A1976&mode=design&t=mieg0kLWF0BZa16R-1)."
-          ]
-        },
-        {
-          "tag": "login",
-          "patterns": [
-            "Comment me connecter?",
-            "Identifiants de connexion",
-            "Je n'arrive pas à me connecter."
-          ],
-          "responses": [
-            "Pour vous connecter, accédez à https://qr.frontend.paiecash.fr/sign-in et utilisez les identifiants suivants : email - admin@paiecash.com, mot de passe - password."
-          ]
-        },
-        {
-          "tag": "repos",
-          "patterns": [
-            "Où puis-je trouver les repos ?",
-            "Emplacements des repos ?",
-            "Liens des repos ?"
-          ],
-          "responses": [
-            "Vous pouvez trouver les repos de Paiecash aux liens suivants : [Repo principal Paiecash](https://gitlab.com/paiecash2023) et [Repo Paiecash QR](https://gitlab.com/paiecash-qr)."
-          ]
-        },
-        {
-          "tag": "password",
-          "patterns": [
-            "Où est le mot de passe ?",
-            "Où trouver le mot de passe ?",
-            "Comment obtenir le mot de passe ?"
-          ],
-          "responses": [
-            "Le mot de passe est disponible ici : [Lien vers le document du mot de passe](https://docs.google.com/document/d/15UzCxvl-luB0JlJlt8XZLYsdqI75AK36tAG9wDzu6bU/edit)"
-          ]
-        },
-        {
-          "tag": "trello",
-          "patterns": [
-            "Comment puis-je accéder au Trello de Paiecash ?",
-            "Lien vers le Trello de Paiecash ?",
-            "Où trouver le Trello ?"
-          ],
-          "responses": [
-            "Vous pouvez accéder au tableau Trello de Paiecash en suivant ce lien : [Trello Paiecash](https://trello.com/b/MSse4jHo/qr-paiecash)"
-          ]
-        },
-        {
-          "tag": "Général",
-          "patterns": [
-            "Qu'est-ce que le module de Géolocalisation de paiecash ?",
-            "À quoi sert le module de Géolocalisation ?"
-          ],
-          "responses": [
-            "Le module de Géolocalisation enregistre les positions des utilisateurs, revendeurs, distributeurs et commerciaux de paiecash pour faciliter la géolocalisation et les interactions."
-          ]
-        },
-        {
-          "tag": "Utilisation",
-          "patterns": [
-            "Comment fonctionne la géolocalisation des utilisateurs de paiecash ?",
-            "Comment activer la géolocalisation sur mon téléphone ?"
-          ],
-          "responses": [
-            "La géolocalisation enregistre les coordonnées des utilisateurs ayant autorisé l'accès à leur position. Consultez nos guides pour activer la géolocalisation sur votre téléphone."
-          ]
-        },
-        {
-          "tag": "Fonctionnalités",
-          "patterns": [
-            "Quelles sont les fonctionnalités du module de Géolocalisation ?",
-            "Que peut-on faire avec la géolocalisation des revendeurs ?"
-          ],
-          "responses": [
-            "Le module permet de géolocaliser les revendeurs, distributeurs et commerciaux. Il offre la liste des revendeurs proches d'un utilisateur, facilitant ainsi la recherche de points de vente paiecash."
-          ]
-        },
-        {
-          "tag": "Avantages",
-          "patterns": [
-            "Quels sont les avantages de la géolocalisation dans paiecash ?",
-            "Comment la géolocalisation améliore-t-elle l'expérience utilisateur ?"
-          ],
-          "responses": [
-            "La géolocalisation réduit les temps de réponse, améliore l'expérience client et permet la recherche facile de points de vente proches."
-          ]
-        },
-        {
-          "tag": "Mise à jour",
-          "patterns": [
-            "Comment puis-je mettre à jour mes informations de géolocalisation ?",
-            "Les informations de géolocalisation sont-elles mises à jour automatiquement ?"
-          ],
-          "responses": [
-            "Les informations de géolocalisation sont mises à jour automatiquement lorsque les utilisateurs autorisent l'accès à leur position actuelle."
-          ]
-        },
-        {
-          "tag": "dépôts",
-          "patterns": [
-            "Comment effectuer un dépôt?",
-            "Quelles sont les méthodes de dépôt?"
-          ],
-          "responses": [
-            "Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash. Vous pouvez sélectionner parmi nos méthodes de paiement pour effectuer un dépôt. Le montant déposé peut être choisi et ajouté au portefeuille que vous préférez."
-          ]
-        },
-        {
-          "tag": "carte-bancaire",
-          "patterns": [
-            "Comment obtenir une carte bancaire?",
-            "Quels sont les types de cartes disponibles?"
-          ],
-          "responses": [
-            "Lors de l'inscription, vous obtenez automatiquement une carte bancaire numérique. Si vous préférez une carte physique, vous devrez attendre généralement trois semaines. La carte physique est livrée chez un distributeur proche de chez vous en Afrique ou par courrier pour le reste du monde."
-          ]
-        },
-        {
-          "tag": "transferts",
-          "patterns": [
-            "Comment effectuer un transfert d'argent?",
-            "Quelles sont les options de transfert?"
-          ],
-          "responses": [
-            "Vous pouvez transférer de l'argent à tout utilisateur enregistré ou non enregistré. Les utilisateurs non enregistrés verront leur argent une fois inscrits. L'administrateur peut bloquer ou rembourser en cas de problème illégal."
-          ]
-        },
-        {
-          "tag": "parrainage",
-          "patterns": [
-            "Comment fonctionne le parrainage?",
-            "Quels sont les avantages du parrainage?"
-          ],
-          "responses": [
-            "Le parrainage vous permet de gagner des commissions sur les transactions de vos filleuls. Chaque utilisateur a un code de parrainage unique. Plus vous parrainez d'utilisateurs, plus vous gagnez de commissions sur leurs transactions."
-          ]
-        },
-        {
-          "tag": "commissions",
-          "patterns": [
-            "Comment sont calculées les commissions?",
-            "Quels sont les taux de commissions?"
-          ],
-          "responses": [
-            "Les commissions sont calculées sur la base des revenus du système Paiecash. Les taux de commissions peuvent être modifiés par l'administrateur. Par exemple, 30% des revenus sont attribués aux distributeurs et 20% aux revendeurs."
-          ]
-        },
-        {
-          "faq": [
           {
-            "tag": "qu_est_ce_que_paiecash",
+            "tag": "design_application_mobile_paiecash_qr",
             "patterns": [
-              "Qu'est-ce que Paiecash ?"
+              "Qu'est-ce que le design de l'application mobile Paiecash QR ?",
+              "Où puis-je trouver des informations sur le design de l'application mobile Paiecash QR ?"
             ],
             "responses": [
-              "Paiecash est une plateforme de paiement en ligne et de gestion de cartes de fidélité. Elle propose diverses fonctionnalités pour les utilisateurs et les commerçants."
+              "Le design de l'application mobile Paiecash QR concerne la conception visuelle de l'interface utilisateur de l'application. Vous pouvez en savoir plus en consultant le lien suivant : [Lien vers Figma](https://www.figma.com/file/DCuVa2DXlebwOTYC3VIMNW/carte-paiecash?type=design&node-id=294%3A1976&mode=design&t=mieg0kLWF0BZa16R-1)."
             ]
           },
           {
-            "tag": "fonctionnalites_paiecash",
+            "tag": "login",
             "patterns": [
-              "Quelles sont les fonctionnalités de Paiecash ?"
+              "Comment me connecter ?",
+              "Identifiants de connexion",
+              "Je n'arrive pas à me connecter."
             ],
             "responses": [
-              "Paiecash offre diverses fonctionnalités telles que les paiements en ligne, la gestion des cartes de fidélité, la création de codes QR pour les paiements et les promotions, ainsi que la possibilité d'envoyer des notifications aux membres."
+              "Pour vous connecter, accédez à https://qr.frontend.paiecash.fr/sign-in et utilisez les identifiants suivants : email - admin@paiecash.com, mot de passe - password."
             ]
           },
           {
-            "tag": "inscription_paiecash",
+            "tag": "repos",
             "patterns": [
-              "Comment puis-je m'inscrire sur Paiecash ?"
+              "Où puis-je trouver les repos ?",
+              "Emplacements des repos ?",
+              "Liens des repos ?"
             ],
             "responses": [
-              "Vous pouvez vous inscrire sur Paiecash en créant un compte via l'application mobile ou le site web. Suivez les instructions fournies pour compléter le processus d'inscription."
+              "Vous pouvez trouver les repos de Paiecash aux liens suivants : [Repo principal Paiecash](https://gitlab.com/paiecash2023) et [Repo Paiecash QR](https://gitlab.com/paiecash-qr)."
             ]
           },
           {
-            "tag": "cartes_fidelite_paiecash",
+            "tag": "password",
             "patterns": [
-              "Comment fonctionnent les cartes de fidélité sur Paiecash ?"
+              "Où est le mot de passe ?",
+              "Où trouver le mot de passe ?",
+              "Comment obtenir le mot de passe ?"
             ],
             "responses": [
-              "Les cartes de fidélité de Paiecash permettent aux utilisateurs de cumuler des points d'achat et de bénéficier de réductions, de promotions et de cadeaux chez les commerçants participants."
+              "Le mot de passe est disponible ici : [Lien vers le document du mot de passe](https://docs.google.com/document/d/15UzCxvl-luB0JlJlt8XZLYsdqI75AK36tAG9wDzu6bU/edit)"
             ]
           },
           {
-            "tag": "codes_qr_paiecash",
+            "tag": "trello",
             "patterns": [
-              "Comment puis-je utiliser les codes QR de Paiecash ?"
+              "Comment puis-je accéder au Trello de Paiecash ?",
+              "Lien vers le Trello de Paiecash ?",
+              "Où trouver le Trello ?"
             ],
             "responses": [
-              "Les codes QR de Paiecash peuvent être utilisés pour effectuer des paiements rapides chez les commerçants participants. Scannez simplement le code QR du commerçant avec l'application Paiecash pour effectuer le paiement."
+              "Vous pouvez accéder au tableau Trello de Paiecash en suivant ce lien : [Trello Paiecash](https://trello.com/b/MSse4jHo/qr-paiecash)"
             ]
           },
           {
-            "tag": "notifications_paiecash",
+            "tag": "general",
             "patterns": [
-              "Comment fonctionnent les notifications sur Paiecash ?"
+              "Qu'est-ce que le module de Géolocalisation de Paiecash ?",
+              "À quoi sert le module de Géolocalisation ?"
             ],
             "responses": [
-              "Paiecash permet d'envoyer des notifications aux membres, y compris des offres spéciales, des mises à jour et des informations importantes. Les membres peuvent gérer leurs préférences de notification dans l'application."
+              "Le module de Géolocalisation enregistre les positions des utilisateurs, revendeurs, distributeurs et commerciaux de Paiecash pour faciliter la géolocalisation et les interactions."
             ]
           },
           {
-            "tag": "paiements_en_ligne_paiecash",
+            "tag": "utilisation",
             "patterns": [
-              "Comment fonctionnent les paiements en ligne sur Paiecash ?"
+              "Comment fonctionne la géolocalisation des utilisateurs de Paiecash ?",
+              "Comment activer la géolocalisation sur mon téléphone ?"
             ],
             "responses": [
-              "Paiecash facilite les paiements en ligne en utilisant des portefeuilles virtuels. Les utilisateurs peuvent charger de l'argent sur leur portefeuille et l'utiliser pour effectuer des paiements en ligne chez les commerçants participants."
+              "La géolocalisation enregistre les coordonnées des utilisateurs ayant autorisé l'accès à leur position. Consultez nos guides pour activer la géolocalisation sur votre téléphone."
             ]
           },
           {
-            "tag": "assistance_paiecash",
+            "tag": "fonctionnalites",
             "patterns": [
+              "Quelles sont les fonctionnalités du module de Géolocalisation ?",
+              "Que peut-on faire avec la géolocalisation des revendeurs ?"
+            ],
+            "responses": [
+              "Le module permet de géolocaliser les revendeurs, distributeurs et commerciaux. Il offre la liste des revendeurs proches d'un utilisateur, facilitant ainsi la recherche de points de vente Paiecash."
+            ]
+          },
+          {
+            "tag": "avantages",
+            "patterns": [
+              "Quels sont les avantages de la géolocalisation dans Paiecash ?",
+              "Comment la géolocalisation améliore-t-elle l'expérience utilisateur ?"
+            ],
+            "responses": [
+              "La géolocalisation réduit les temps de réponse, améliore l'expérience client et permet la recherche facile de points de vente proches."
+            ]
+          },
+          {
+            "tag": "mise_a_jour",
+            "patterns": [
+              "Comment puis-je mettre à jour mes informations de géolocalisation ?",
+              "Les informations de géolocalisation sont-elles mises à jour automatiquement ?"
+            ],
+            "responses": [
+              "Les informations de géolocalisation sont mises à jour automatiquement lorsque les utilisateurs autorisent l'accès à leur position actuelle."
+            ]
+          },
+          {
+            "tag": "depots",
+            "patterns": [
+              "Comment effectuer un dépôt ?",
+              "Quelles sont les méthodes de dépôt ?"
+            ],
+            "responses": [
+              "Les utilisateurs enregistrés peuvent effectuer un dépôt dans Paiecash. Vous pouvez sélectionner parmi nos méthodes de paiement pour effectuer un dépôt. Le montant déposé peut être choisi et ajouté au portefeuille que vous préférez."
+            ]
+          },
+          {
+            "tag": "carte_bancaire",
+            "patterns": [
+              "Comment obtenir une carte bancaire ?",
+              "Quels sont les types de cartes disponibles ?"
+            ],
+            "responses": [
+              "Lors de l'inscription, vous obtenez automatiquement une carte bancaire numérique. Si vous préférez une carte physique, vous devrez attendre généralement trois semaines. La carte physique est livrée chez un distributeur proche de chez vous en Afrique ou par courrier pour le reste du monde."
+            ]
+          },
+          {
+            "tag": "transferts",
+            "patterns": [
+              "Comment effectuer un transfert d'argent ?",
+              "Quelles sont les options de transfert ?"
+            ],
+            "responses": [
+              "Vous pouvez transférer de l'argent à tout utilisateur enregistré ou non enregistré. Les utilisateurs non enregistrés verront leur argent une fois inscrits. L'administrateur peut bloquer ou rembourser en cas de problème illégal."
+            ]
+          },
+          {
+            "tag": "parrainage",
+            "patterns": [
+              "Comment fonctionne le parrainage ?",
+              "Quels sont les avantages du parrainage ?"
+            ],
+            "responses": [
+              "Le parrainage vous permet de gagner des commissions sur les transactions de vos filleuls. Chaque utilisateur a un code de parrainage unique. Plus vous parrainez d'utilisateurs, plus vous gagnez de commissions sur leurs transactions."
+            ]
+          },
+          {
+            "tag": "commissions",
+            "patterns": [
+              "Comment sont calculées les commissions ?",
+              "Quels sont les taux de commissions ?"
+            ],
+            "responses": [
+              "Les commissions sont calculées sur la base des revenus du système Paiecash. Les taux de commissions peuvent être modifiés par l'administrateur. Par exemple, 30% des revenus sont attribués aux distributeurs et 20% aux revendeurs."
+            ]
+          },
+          {
+            "tag": "faq",
+            "patterns": [
+              "Qu'est-ce que Paiecash ?",
+              "Quelles sont les fonctionnalités de Paiecash ?",
+              "Comment puis-je m'inscrire sur Paiecash ?",
+              "Comment fonctionnent les cartes de fidélité sur Paiecash ?",
+              "Comment puis-je utiliser les codes QR de Paiecash ?",
+              "Comment fonctionnent les notifications sur Paiecash ?",
+              "Comment fonctionnent les paiements en ligne sur Paiecash ?",
               "Comment puis-je obtenir de l'assistance sur Paiecash ?"
             ],
             "responses": [
+              "Paiecash est une plateforme de paiement en ligne et de gestion de cartes de fidélité. Elle propose diverses fonctionnalités pour les utilisateurs et les commerçants.",
+              "Paiecash offre diverses fonctionnalités telles que les paiements en ligne, la gestion des cartes de fidélité, la création de codes QR pour les paiements et les promotions, ainsi que la possibilité d'envoyer des notifications aux membres.",
+              "Vous pouvez vous inscrire sur Paiecash en créant un compte via l'application mobile ou le site web. Suivez les instructions fournies pour compléter le processus d'inscription.",
+              "Les cartes de fidélité de Paiecash permettent aux utilisateurs de cumuler des points d'achat et de bénéficier de réductions, de promotions et de cadeaux chez les commerçants participants.",
+              "Les codes QR de Paiecash peuvent être utilisés pour effectuer des paiements rapides chez les commerçants participants. Scannez simplement le code QR du commerçant avec l'application Paiecash pour effectuer le paiement.",
+              "Paiecash permet d'envoyer des notifications aux membres, y compris des offres spéciales, des mises à jour et des informations importantes. Les membres peuvent gérer leurs préférences de notification dans l'application.",
+              "Paiecash facilite les paiements en ligne en utilisant des portefeuilles virtuels. Les utilisateurs peuvent charger de l'argent sur leur portefeuille et l'utiliser pour effectuer des paiements en ligne chez les commerçants participants.",
               "Vous pouvez obtenir de l'assistance sur Paiecash en utilisant la fonction de chat en direct dans l'application ou en visitant la section d'aide sur le site web. Notre équipe d'assistance est là pour vous aider avec toutes vos questions et préoccupations."
             ]
-          }
-        ]
-      },
-    {
-    "tag": "avantages_club_foot_paiecash",
-    "patterns": [
-      "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?",
-      "Quels bénéfices offre Paiecash aux clubs de football ?"
-    ],
-    "responses": [
-      "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
-    ]
-  },
-  {
-    "tag": "paiement_qr_code_paiecash",
-    "patterns": [
-      "Comment fonctionne le paiement par QR code sur Paiecash ?",
-      "Expliquez le processus de paiement via QR code sur Paiecash."
-    ],
-    "responses": [
-      "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
-    ]
-  },
+          },
+          {
+            "tag": "avantages_club_foot_paiecash",
+            "patterns": [
+              "Quels sont les avantages d'utiliser Paiecash dans un club de foot ?",
+              "Quels bénéfices offre Paiecash aux clubs de football ?"
+            ],
+            "responses": [
+              "Paiecash offre des avantages aux clubs de football, tels que la possibilité de proposer des promotions aux membres, de gérer les affiliations et les paiements des supporters, ainsi que de faciliter les achats de billets et de produits."
+            ]
+          },
+          {
+            "tag": "paiement_qr_code_paiecash",
+            "patterns": [
+              "Comment fonctionne le paiement par QR code sur Paiecash ?",
+              "Expliquez le processus de paiement via QR code sur Paiecash."
+            ],
+            "responses": [
+              "Le paiement par QR code sur Paiecash permet aux utilisateurs de scanner le code avec l'application pour effectuer des paiements instantanés. Les détails de la transaction sont générés dans le code."
+            ]
+          },
   {
     "tag": "support_client_paiecash",
     "patterns": [
