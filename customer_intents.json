@@ -956,7 +956,7 @@
     "tag": "Qu'est-ce que PaieCash QR Code ?",
     "patterns": [
       "Qu'est-ce que PaieCash QR Code ?",
-      "Pouvez-vous m'expliquer ce qu'est PaieCash QR Code ?"
+      "Expliquez PaieCash QR Code."
     ],
     "responses": [
       "PaieCash QR Code est une solution de tickets de caisse dématérialisés via un QR code. Placée directement à la caisse de votre magasin, elle vous permet de récupérer votre facture ou ticket de caisse immédiatement et de façon permanente tout en conservant vos droits de garantie."
@@ -966,7 +966,7 @@
     "tag": "Comment s'inscrire sur l'application mobile ?",
     "patterns": [
       "Comment s'inscrire sur l'application mobile ?",
-      "Quelles sont les étapes pour créer un compte sur l'application mobile ?"
+      "Quelle est la procédure d'inscription sur l'appli mobile ?"
     ],
     "responses": [
       "Vous pouvez vous inscrire sur l'application mobile de PaieCash QR Code de deux manières : en utilisant votre compte Google ou Facebook, ou en vous inscrivant par e-mail avec l'envoi d'un code de vérification."
@@ -976,7 +976,7 @@
     "tag": "Comment gérer le panier utilisateur ?",
     "patterns": [
       "Comment gérer le panier utilisateur ?",
-      "Pouvez-vous m'expliquer comment ajouter et supprimer des éléments du panier utilisateur ?"
+      "Expliquez comment fonctionne la gestion du panier utilisateur."
     ],
     "responses": [
       "Vous pouvez gérer votre panier utilisateur à travers l'application mobile. Ajoutez des produits, modifiez les quantités et supprimez des éléments selon vos besoins."
@@ -986,47 +986,29 @@
     "tag": "Quels sont les moyens de paiement acceptés ?",
     "patterns": [
       "Quels sont les moyens de paiement acceptés ?",
-      "Comment puis-je régler mes achats sur votre plateforme ?"
+      "Dites-moi les options de paiement disponibles."
     ],
     "responses": [
-      "Vous pouvez régler vos achats sur notre plateforme PaieCash QR Code en utilisant différentes méthodes de paiement, y compris les cartes de crédit, les cartes de débit et d'autres options de paiement en ligne."
+      "Vous pouvez régler votre facture via différents moyens de paiement, y compris PaieCash, Google Pay, Apple Pay, carte bancaire, et d'autres options."
     ]
   },
   {
-    "tag": "Livrez-vous à l'international ?",
+    "tag": "Exemples d'applications concurrentes",
     "patterns": [
-      "Livrez-vous à l'international ?",
-      "Pouvez-vous expédier des produits à l'étranger ?"
+      "Pouvez-vous donner des exemples d'applications concurrentes ?",
+      "Citez des applications similaires à PaieCash QR Code."
     ],
     "responses": [
-      "Oui, nous proposons des options de livraison à l'international. Vous pouvez passer commande depuis n'importe où dans le monde et faire livrer vos produits à l'adresse de votre choix."
-    ]
-  },
-  {
-    "tag": "Retours et remboursements",
-    "patterns": [
-      "Quelle est votre politique de retour et de remboursement ?",
-      "Que dois-je faire si je veux retourner un produit ou obtenir un remboursement ?"
-    ],
-    "responses": [
-      "Nous offrons une politique de retour et de remboursement flexible. Si vous n'êtes pas satisfait de votre achat, contactez notre service client dans les 30 jours suivant la réception de votre commande pour discuter des options de retour et de remboursement."
-    ]
-  },
-  {
-    "tag": "Comment puis-je contacter le service client ?",
-    "patterns": [
-      "Comment puis-je contacter le service client ?",
-      "Quels sont les canaux de communication disponibles pour contacter le service client ?"
-    ],
-    "responses": [
-      "Vous pouvez contacter notre service clientèle par téléphone, par e-mail ou via le chat en direct sur notre site web. Notre équipe est là pour répondre à toutes vos questions et préoccupations."
+      "Voici quelques exemples d'applications concurrentes similaires à PaieCash QR Code :",
+      "- Limpidius : [Lien vers leur site Web](https://limpidius.com/fr_fr/solutions/dematerialisation)",
+      "- Tickie : [Lien vers leur site Web](https://www.tickie.io/en)"
     ]
   },
   {
     "tag": "Comment fonctionne le processus de vente ?",
     "patterns": [
       "Comment fonctionne le processus de vente ?",
-      "Expliquez le processus de vente."
+      "Expliquez le déroulement de la vente."
     ],
     "responses": [
       "Le processus de vente commence lorsque les joueurs ou les clients scannent les QR codes ou les codes-barres des produits avec l'application mobile. Ils construisent ensuite leur panier d'achats. Le caissier scanne le QR code affiché sur le téléphone du client, et le client peut régler sa facture via différents moyens de paiement."
@@ -1036,7 +1018,7 @@
     "tag": "Comment les fournisseurs de produits utilisent-ils l'application ?",
     "patterns": [
       "Comment les fournisseurs de produits utilisent-ils l'application ?",
-      "Expliquez le rôle des fournisseurs de produits dans l'application."
+      "Quel est l'usage de l'appli pour les fournisseurs de produits ?"
     ],
     "responses": [
       "Les fournisseurs de produits peuvent utiliser l'application pour suivre la quantité de produits restants en stock dans le magasin. Une API facilite les paiements et la gestion des stocks."
@@ -1046,7 +1028,7 @@
     "tag": "Quelles sont les fonctionnalités du tableau de bord web ?",
     "patterns": [
       "Quelles sont les fonctionnalités du tableau de bord web ?",
-      "Donnez-moi un aperçu des fonctionnalités du tableau de bord web."
+      "Listez les caractéristiques du tableau de bord en ligne."
     ],
     "responses": [
       "Le tableau de bord web offre de nombreuses fonctionnalités, notamment la gestion de caisse, les bons cadeaux, la gestion complète du processus de vente, la gestion des produits hors taxe, la gestion des produits inconnus, la gestion des programmes de fidélité, la gestion du fond de caisse, l'historique de caisse, l'impression de reçus, l'impression des étiquettes produit, la mise en attente des clients, le plan de salle, le retour et l'échange de produit, le retrait et le dépôt d'espèces, la gestion des stocks, et bien plus encore."
@@ -1056,7 +1038,7 @@
     "tag": "Comment puis-je obtenir de l'aide en cas de problème ?",
     "patterns": [
       "Comment puis-je obtenir de l'aide en cas de problème ?",
-      "Quel est le processus pour obtenir de l'aide en cas de problème ?"
+      "Que faire si j'ai besoin d'assistance ?"
     ],
     "responses": [
       "Si vous avez besoin d'aide ou rencontrez un problème, vous pouvez contacter notre équipe d'assistance via l'application ou notre site web. Nous sommes là pour vous aider à chaque étape."
