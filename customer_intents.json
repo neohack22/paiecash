@@ -1000,257 +1000,257 @@
               "PaieCash QR Code est une solution de tickets de caisse dématérialisés via un QR code. Placé directement à la caisse de votre magasin, elle vous permet de récupérer votre facture ou ticket de caisse immédiatement et de façon permanente tout en conservant vos droits de garantie."
             ]
           },
-  {
-    "tag": "Comment fonctionne PaieCash QR Code ?",
-    "patterns": [
-      "Comment fonctionne PaieCash QR Code ?",
-      "Expliquez le fonctionnement de PaieCash QR Code."
-    ],
-    "responses": [
-      "Les utilisateurs scannent les QR codes ou les codes-barres des produits et construisent leur panier à travers l'application mobile. Le caissier scanne ensuite le QR code affiché sur le téléphone du client. Le client règle sa facture via différents moyens de paiement."
-    ]
-  },
-  {
-    "tag": "Quelles sont les fonctionnalités de PaieCash QR Code ?",
-    "patterns": [
-      "Quelles sont les fonctionnalités de PaieCash QR Code ?",
-      "Donnez-moi un aperçu des fonctionnalités de PaieCash QR Code."
-    ],
-    "responses": [
-      "PaieCash QR Code propose les fonctionnalités suivantes : les joueurs et clients paient, le cashback, les points de fidélité. Le fournisseur de produit peut voir la quantité de produit restante du magasin. Il y a également une API pour faciliter les paiements et gérer le stock."
-    ]
-  },
-  {
-    "tag": "Comment puis-je devenir un utilisateur de PaieCash QR Code ?",
-    "patterns": [
-      "Comment puis-je devenir un utilisateur de PaieCash QR Code ?",
-      "Quelles sont les étapes pour devenir utilisateur de PaieCash QR Code ?",
-      "Je veux utiliser PaieCash QR Code, comment faire ?"
-    ],
-    "responses": [
-      "Pour devenir un utilisateur de PaieCash QR Code, vous pouvez scanner le QR code d'un supermarché qui utilise PaieCash. Cela facilitera votre inscription en scannant simplement le QR code."
-    ]
-  },
-  {
-    "tag": "Quelles sont les étapes pour démarrer un achat avec PaieCash QR Code ?",
-    "patterns": [
-      "Quelles sont les étapes pour démarrer un achat avec PaieCash QR Code ?",
-      "Comment commencer un achat avec PaieCash QR Code ?"
-    ],
-    "responses": [
-      "Pour démarrer un achat avec PaieCash QR Code, suivez ces étapes : scannez le QR code ou le code-barres du produit, construisez votre panier via l'application mobile, faites scanner le QR code par le caissier, réglez votre facture via différents moyens de paiement."
-    ]
-  },
-  {
-    "tag": "Quelles sont les fonctionnalités à venir de PaieCash QR Code ?",
-    "patterns": [
-      "Quelles sont les fonctionnalités prévues pour la Version 3 ?",
-      "Dites-moi ce qui est prévu dans la Version 3 de PaieCash QR Code.",
-      "Quelles améliorations apportera la Version 3 de PaieCash QR Code ?"
-    ],
-    "responses": [
-      "La Version 3 de PaieCash QR Code introduira des améliorations telles que la gestion de produits expirables, des extractions de données avancées et la possibilité de gérer les stocks avec une meilleure organisation."
-    ]
-  },
-  {
-    "tag": "paiecash_devenir_distributeur",
-    "patterns": [
-      "Comment puis-je devenir distributeur avec Paiecash ?",
-      "Quelles sont les étapes pour devenir distributeur Paiecash ?",
-      "Je veux devenir distributeur, comment faire ?"
-    ],
-    "responses": [
-      "Pour devenir distributeur avec Paiecash, créez un compte et suivez les instructions pour commencer à profiter de nos solutions d'activation et d'intégration d'investisseurs."
-    ]
-  },
-  {
-    "tag": "paiecash_contact_support",
-    "patterns": [
-      "Comment puis-je contacter le support de Paiecash ?",
-      "Besoin d'aide ? Où puis-je trouver de l'aide ?",
-      "Support Paiecash."
-    ],
-    "responses": [
-      "Pour toute autre question, n'hésitez pas à nous contacter à support@paiecash.com. Notre équipe est là pour vous aider à tirer le meilleur parti de notre plateforme."
-    ]
-  },
-  {
-    "tag": "campagne_appareils_indetectables",
-    "patterns": [
-      "Pourquoi devrais-je participer à la campagne d'appareils indétectables ?",
-      "Quels sont les avantages de la campagne d'appareils indétectables ?"
-    ],
-    "responses": [
-      "La campagne vise à vous offrir des appareils fiables et indétectables, assurant votre sécurité et tranquillité."
-    ]
-  },
-  {
-    "tag": "nombre_personnes_contactees",
-    "patterns": [
-      "Quel est le nombre de personnes contactées jusqu'à présent ?",
-      "Combien de personnes ont été contactées dans le cadre de la campagne ?"
-    ],
-    "responses": [
-      "À ce jour, 78 personnes ont été contactées dans le cadre de la campagne."
-    ]
-  },
-  {
-    "tag": "optimiser_service_client",
-    "patterns": [
-      "Comment puis-je optimiser mon service client avec cette offre ?",
-      "Comment l'offre aide-t-elle à améliorer le service client ?"
-    ],
-    "responses": [
-      "En déployant des chatbots sur vos médias sociaux, vous réduisez la charge de travail et améliorez les temps de réponse."
-    ]
-  },
-  {
-    "tag": "avantages_chatbots",
-    "patterns": [
-      "Quels sont les avantages des chatbots pour mon service client ?",
-      "Pourquoi devrais-je utiliser des chatbots pour mon service client ?"
-    ],
-    "responses": [
-      "Les chatbots automatisent les réponses aux questions courantes et facilitent la collecte des commentaires et le traitement des commandes."
-    ]
-  },
-  {
-    "tag": "marques_prises_en_charge",
-    "patterns": [
-      "Quelles marques d'appareils sont prises en charge par la campagne ?",
-      "Quelles sont les marques couvertes par la campagne d'appareils indétectables ?"
-    ],
-    "responses": [
-      "La campagne couvre une variété de marques, dont Infinix, Tecno, Sony, Huawei, etc."
-    ]
-  },
-  {
-    "tag": "details_forfaits_disponibles",
-    "patterns": [
-      "Pouvez-vous fournir plus de détails sur les forfaits disponibles ?",
-      "Quels sont les détails des forfaits proposés ?"
-    ],
-    "responses": [
-      "Nous offrons une gamme de forfaits, de la MTN WANDA au MT4, adaptés à vos besoins et à votre budget."
-    ]
-  },
-  {
-    "tag": "souscrire_offre_appareils_indetectables",
-    "patterns": [
-      "Comment puis-je souscrire à cette offre d'appareils indétectables ?",
-      "Quelle est la procédure pour souscrire à l'offre d'appareils indétectables ?"
-    ],
-    "responses": [
-      "Pour souscrire, veuillez contacter notre équipe d'assistance ou visiter notre site Web."
-    ]
-  },
-  {
-    "tag": "methodes_paiement_acceptees",
-    "patterns": [
-      "Quelles sont les méthodes de paiement acceptées pour ces appareils ?",
-      "Pouvez-vous me dire quelles méthodes de paiement sont acceptées pour les appareils ?"
-    ],
-    "responses": [
-      "Nous acceptons plusieurs méthodes de paiement sécurisées, y compris les options en ligne et en personne."
-    ]
-  },
-  {
-    "tag": "compatibilite_reseaux_4G+",
-    "patterns": [
-      "Est-ce que ces appareils sont compatibles avec les réseaux 4G+ ?",
-      "Les appareils sont-ils compatibles avec la 4G+ ?"
-    ],
-    "responses": [
-      "Oui, nos appareils prennent en charge les réseaux 4G+ pour une connectivité rapide et fiable."
-    ]
-  },
-  {
-    "tag": "aide_en_cas_de_probleme",
-    "patterns": [
-      "Comment puis-je obtenir de l'aide en cas de problème avec mon appareil ?",
-      "Que faire si j'ai des problèmes avec mon appareil ?"
-    ],
-    "responses": [
-      "Notre équipe d'assistance est disponible pour répondre à vos questions et résoudre tout problème que vous pourriez rencontrer."
-    ]
-  },
-  {
-    "tag": "suivi_commande",
-    "patterns": [
-      "Comment puis-je suivre l'état de ma commande ?",
-      "Où puis-je trouver des informations sur ma commande ?",
-      "Quel est le statut de ma commande ?"
-    ],
-    "responses": [
-      "Connectez-vous à votre compte et accédez à la section 'Suivi des commandes' pour obtenir des informations détaillées sur l'état actuel de votre commande."
-    ]
-  },
-  {
-    "tag": "exporter_donnees",
-    "patterns": [
-      "Comment exporter les données de suivi des ventes ?",
-      "Je veux télécharger les données de suivi des ventes. Comment faire ?",
-      "Quels formats sont disponibles pour l'export des données ?"
-    ],
-    "responses": [
-      "Vous pouvez exporter les données de suivi des ventes au format CSV, MS-Excel ou TXT. Allez dans la section 'Export' et choisissez le format souhaité pour télécharger les données."
-    ]
-  },
-  {
-    "tag": "mise_a_jour_compte",
-    "patterns": [
-      "Comment puis-je mettre à jour les informations de mon compte vendeur ?",
-      "Je souhaite modifier les détails de mon compte. Que dois-je faire ?",
-      "Où trouver la section de mise à jour du profil vendeur ?"
-    ],
-    "responses": [
-      "Pour mettre à jour les informations de votre compte vendeur, accédez à la section 'Profil' et suivez les étapes pour modifier les détails nécessaires."
-    ]
-  },
-  {
-    "tag": "stock_produit",
-    "patterns": [
-      "Comment savoir si un produit est en stock ?",
-      "Je veux vérifier la disponibilité d'un produit. Comment faire ?",
-      "Les produits que je souhaite acheter sont-ils disponibles ?"
-    ],
-    "responses": [
-      "Consultez la section 'Suivi des stocks' pour vérifier la disponibilité des produits. Les quantités d'entrée, de sortie et les dates associées sont disponibles pour vous aider à suivre les niveaux de stock."
-    ]
-  },
-  {
-    "tag": "service_client",
-    "patterns": [
-      "Comment contacter le service client pour des questions spécifiques sur ma commande ?",
-      "J'ai des questions sur ma commande. Comment puis-je contacter le service client ?",
-      "Où puis-je trouver de l'aide pour des problèmes liés à ma commande ?"
-    ],
-    "responses": [
-      "Pour des questions spécifiques sur votre commande, utilisez le formulaire de contact dans la section 'Service Client' ou envoyez un e-mail à l'adresse fournie pour obtenir une assistance rapide."
-    ]
-  },
-  {
-    "tag": "paiecash_bi_qu'est-ce_que",
-    "patterns": [
-      "Qu'est-ce que Paiecash bi ?",
-      "Qu'est-ce que Paiecash bi ?",
-      "Paiecash bi, c'est quoi ?"
-    ],
-    "responses": [
-      "Paiecash bi est une plateforme innovante qui propose des solutions dans les domaines de la veille technologique, de l'exploitation de données (data mining), de la science des données (data science), de la business intelligence pour le marketing, de la gestion des actifs d'entreprise (asset management), ainsi que de l'intelligence artificielle pour le marketing et les performances sportives."
-    ]
-  },
-  {
-    "tag": "comment_paiecash_bi_peut_aider",
-    "patterns": [
-      "Comment Paiecash bi peut-il aider mon entreprise ?",
-      "En quoi Paiecash bi peut-il être bénéfique pour mon entreprise ?",
-      "Quels avantages Paiecash bi peut-il apporter à mon entreprise ?"
-    ],
-    "responses": [
-      "Paiecash bi offre une gamme complète de solutions, de l'exploration des données à l'intelligence artificielle, pour optimiser votre activité. Vous pouvez bénéficier d'une meilleure compréhension de vos données, d'une amélioration de votre marketing et de l'automatisation de certains processus."
-    ]
-  },
+          {
+            "tag": "comment_fonctionne_paiecash_qr_code",
+            "patterns": [
+              "Comment fonctionne PaieCash QR Code ?",
+              "Expliquez le fonctionnement de PaieCash QR Code."
+            ],
+            "responses": [
+              "Les utilisateurs scannent les QR codes ou les codes-barres des produits et construisent leur panier à travers l'application mobile. Le caissier scanne ensuite le QR code affiché sur le téléphone du client. Le client règle sa facture via différents moyens de paiement."
+            ]
+          },
+          {
+            "tag": "quelles_sont_les_fonctionnalites_de_paiecash_qr_code",
+            "patterns": [
+              "Quelles sont les fonctionnalités de PaieCash QR Code ?",
+              "Donnez-moi un aperçu des fonctionnalités de PaieCash QR Code."
+            ],
+            "responses": [
+              "PaieCash QR Code propose les fonctionnalités suivantes : les joueurs et clients paient, le cashback, les points de fidélité. Le fournisseur de produit peut voir la quantité de produit restante du magasin. Il y a également une API pour faciliter les paiements et gérer le stock."
+            ]
+          },
+          {
+            "tag": "comment_puis_je_devenir_un_utilisateur_de_paiecash_qr_code",
+            "patterns": [
+              "Comment puis-je devenir un utilisateur de PaieCash QR Code ?",
+              "Quelles sont les étapes pour devenir utilisateur de PaieCash QR Code ?",
+              "Je veux utiliser PaieCash QR Code, comment faire ?"
+            ],
+            "responses": [
+              "Pour devenir un utilisateur de PaieCash QR Code, vous pouvez scanner le QR code d'un supermarché qui utilise PaieCash. Cela facilitera votre inscription en scannant simplement le QR code."
+            ]
+          },
+          {
+            "tag": "quelles_sont_les_etapes_pour_demarrer_un_achat_avec_paiecash_qr_code",
+            "patterns": [
+              "Quelles sont les étapes pour démarrer un achat avec PaieCash QR Code ?",
+              "Comment commencer un achat avec PaieCash QR Code ?"
+            ],
+            "responses": [
+              "Pour démarrer un achat avec PaieCash QR Code, suivez ces étapes : scannez le QR code ou le code-barres du produit, construisez votre panier via l'application mobile, faites scanner le QR code par le caissier, réglez votre facture via différents moyens de paiement."
+            ]
+          },
+          {
+            "tag": "quelles_sont_les_fonctionnalites_a_venir_de_paiecash_qr_code",
+            "patterns": [
+              "Quelles sont les fonctionnalités prévues pour la Version 3 ?",
+              "Dites-moi ce qui est prévu dans la Version 3 de PaieCash QR Code.",
+              "Quelles améliorations apportera la Version 3 de PaieCash QR Code ?"
+            ],
+            "responses": [
+              "La Version 3 de PaieCash QR Code introduira des améliorations telles que la gestion de produits expirables, des extractions de données avancées et la possibilité de gérer les stocks avec une meilleure organisation."
+            ]
+          },
+          {
+            "tag": "paiecash_devenir_distributeur",
+            "patterns": [
+              "Comment puis-je devenir distributeur avec Paiecash ?",
+              "Quelles sont les étapes pour devenir distributeur Paiecash ?",
+              "Je veux devenir distributeur, comment faire ?"
+            ],
+            "responses": [
+              "Pour devenir distributeur avec Paiecash, créez un compte et suivez les instructions pour commencer à profiter de nos solutions d'activation et d'intégration d'investisseurs."
+            ]
+          },
+          {
+            "tag": "paiecash_contact_support",
+            "patterns": [
+              "Comment puis-je contacter le support de Paiecash ?",
+              "Besoin d'aide ? Où puis-je trouver de l'aide ?",
+              "Support Paiecash."
+            ],
+            "responses": [
+              "Pour toute autre question, n'hésitez pas à nous contacter à support@paiecash.com. Notre équipe est là pour vous aider à tirer le meilleur parti de notre plateforme."
+            ]
+          },
+          {
+            "tag": "campagne_appareils_indetectables",
+            "patterns": [
+              "Pourquoi devrais-je participer à la campagne d'appareils indétectables ?",
+              "Quels sont les avantages de la campagne d'appareils indétectables ?"
+            ],
+            "responses": [
+              "La campagne vise à vous offrir des appareils fiables et indétectables, assurant votre sécurité et tranquillité."
+            ]
+          },
+          {
+            "tag": "nombre_personnes_contactees",
+            "patterns": [
+              "Quel est le nombre de personnes contactées jusqu'à présent ?",
+              "Combien de personnes ont été contactées dans le cadre de la campagne ?"
+            ],
+            "responses": [
+              "À ce jour, 78 personnes ont été contactées dans le cadre de la campagne."
+            ]
+          },
+          {
+            "tag": "optimiser_service_client",
+            "patterns": [
+              "Comment puis-je optimiser mon service client avec cette offre ?",
+              "Comment l'offre aide-t-elle à améliorer le service client ?"
+            ],
+            "responses": [
+              "En déployant des chatbots sur vos médias sociaux, vous réduisez la charge de travail et améliorez les temps de réponse."
+            ]
+          },
+          {
+            "tag": "avantages_chatbots",
+            "patterns": [
+              "Quels sont les avantages des chatbots pour mon service client ?",
+              "Pourquoi devrais-je utiliser des chatbots pour mon service client ?"
+            ],
+            "responses": [
+              "Les chatbots automatisent les réponses aux questions courantes et facilitent la collecte des commentaires et le traitement des commandes."
+            ]
+          },
+          {
+            "tag": "marques_prises_en_charge",
+            "patterns": [
+              "Quelles marques d'appareils sont prises en charge par la campagne ?",
+              "Quelles sont les marques couvertes par la campagne d'appareils indétectables ?"
+            ],
+            "responses": [
+              "La campagne couvre une variété de marques, dont Infinix, Tecno, Sony, Huawei, etc."
+            ]
+          },
+          {
+            "tag": "details_forfaits_disponibles",
+            "patterns": [
+              "Pouvez-vous fournir plus de détails sur les forfaits disponibles ?",
+              "Quels sont les détails des forfaits proposés ?"
+            ],
+            "responses": [
+              "Nous offrons une gamme de forfaits, de la MTN WANDA au MT4, adaptés à vos besoins et à votre budget."
+            ]
+          },
+          {
+            "tag": "souscrire_offre_appareils_indetectables",
+            "patterns": [
+              "Comment puis-je souscrire à cette offre d'appareils indétectables ?",
+              "Quelle est la procédure pour souscrire à l'offre d'appareils indétectables ?"
+            ],
+            "responses": [
+              "Pour souscrire, veuillez contacter notre équipe d'assistance ou visiter notre site Web."
+            ]
+          },
+          {
+            "tag": "methodes_paiement_acceptees",
+            "patterns": [
+              "Quelles sont les méthodes de paiement acceptées pour ces appareils ?",
+              "Pouvez-vous me dire quelles méthodes de paiement sont acceptées pour les appareils ?"
+            ],
+            "responses": [
+              "Nous acceptons plusieurs méthodes de paiement sécurisées, y compris les options en ligne et en personne."
+            ]
+          },
+          {
+            "tag": "compatibilite_reseaux_4G+",
+            "patterns": [
+              "Est-ce que ces appareils sont compatibles avec les réseaux 4G+ ?",
+              "Les appareils sont-ils compatibles avec la 4G+ ?"
+            ],
+            "responses": [
+              "Oui, nos appareils prennent en charge les réseaux 4G+ pour une connectivité rapide et fiable."
+            ]
+          },
+          {
+            "tag": "aide_en_cas_de_probleme",
+            "patterns": [
+              "Comment puis-je obtenir de l'aide en cas de problème avec mon appareil ?",
+              "Que faire si j'ai des problèmes avec mon appareil ?"
+            ],
+            "responses": [
+              "Notre équipe d'assistance est disponible pour répondre à vos questions et résoudre tout problème que vous pourriez rencontrer."
+            ]
+          },
+          {
+            "tag": "suivi_commande",
+            "patterns": [
+              "Comment puis-je suivre l'état de ma commande ?",
+              "Où puis-je trouver des informations sur ma commande ?",
+              "Quel est le statut de ma commande ?"
+            ],
+            "responses": [
+              "Connectez-vous à votre compte et accédez à la section 'Suivi des commandes' pour obtenir des informations détaillées sur l'état actuel de votre commande."
+            ]
+          },
+          {
+            "tag": "exporter_donnees",
+            "patterns": [
+              "Comment exporter les données de suivi des ventes ?",
+              "Je veux télécharger les données de suivi des ventes. Comment faire ?",
+              "Quels formats sont disponibles pour l'export des données ?"
+            ],
+            "responses": [
+              "Vous pouvez exporter les données de suivi des ventes au format CSV, MS-Excel ou TXT. Allez dans la section 'Export' et choisissez le format souhaité pour télécharger les données."
+            ]
+          },
+          {
+            "tag": "mise_a_jour_compte",
+            "patterns": [
+              "Comment puis-je mettre à jour les informations de mon compte vendeur ?",
+              "Je souhaite modifier les détails de mon compte. Que dois-je faire ?",
+              "Où trouver la section de mise à jour du profil vendeur ?"
+            ],
+            "responses": [
+              "Pour mettre à jour les informations de votre compte vendeur, accédez à la section 'Profil' et suivez les étapes pour modifier les détails nécessaires."
+            ]
+          },
+          {
+            "tag": "stock_produit",
+            "patterns": [
+              "Comment savoir si un produit est en stock ?",
+              "Je veux vérifier la disponibilité d'un produit. Comment faire ?",
+              "Les produits que je souhaite acheter sont-ils disponibles ?"
+            ],
+            "responses": [
+              "Consultez la section 'Suivi des stocks' pour vérifier la disponibilité des produits. Les quantités d'entrée, de sortie et les dates associées sont disponibles pour vous aider à suivre les niveaux de stock."
+            ]
+          },
+          {
+            "tag": "service_client",
+            "patterns": [
+              "Comment contacter le service client pour des questions spécifiques sur ma commande ?",
+              "J'ai des questions sur ma commande. Comment puis-je contacter le service client ?",
+              "Où puis-je trouver de l'aide pour des problèmes liés à ma commande ?"
+            ],
+            "responses": [
+              "Pour des questions spécifiques sur votre commande, utilisez le formulaire de contact dans la section 'Service Client' ou envoyez un e-mail à l'adresse fournie pour obtenir une assistance rapide."
+            ]
+          },
+          {
+            "tag": "paiecash_bi_qu_est_ce_que",
+            "patterns": [
+              "Qu'est-ce que Paiecash bi ?",
+              "Qu'est-ce que Paiecash bi ?",
+              "Paiecash bi, c'est quoi ?"
+            ],
+            "responses": [
+              "Paiecash bi est une plateforme innovante qui propose des solutions dans les domaines de la veille technologique, de l'exploitation de données (data mining), de la science des données (data science), de la business intelligence pour le marketing, de la gestion des actifs d'entreprise (asset management), ainsi que de l'intelligence artificielle pour le marketing et les performances sportives."
+            ]
+          },
+          {
+            "tag": "comment_paiecash_bi_peut_aider",
+            "patterns": [
+              "Comment Paiecash bi peut-il aider mon entreprise ?",
+              "En quoi Paiecash bi peut-il être bénéfique pour mon entreprise ?",
+              "Quels avantages Paiecash bi peut-il apporter à mon entreprise ?"
+            ],
+            "responses": [
+              "Paiecash bi offre une gamme complète de solutions, de l'exploration des données à l'intelligence artificielle, pour optimiser votre activité. Vous pouvez bénéficier d'une meilleure compréhension de vos données, d'une amélioration de votre marketing et de l'automatisation de certains processus."
+            ]
+          },
   {
     "tag": "activation_de_partenariat",
     "patterns": [
