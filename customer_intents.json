@@ -2,29 +2,29 @@
   "intents":
     [
         {
-            "tag": "greeting",
-            "patterns": [
+            "tag" : "greeting",
+            "patterns" : [
               "Hi",
               "Hey",
-              "Hello",
-              "Good day"
+              "Bonjour",
+              "Bonjour"
             ],
-            "responses": [
+            "réponses" : [
               "Hey :)",
-              "Hi there, what can I do for you?",
-              "Hi there, how can I help?"
+              "Bonjour, que puis-je faire pour vous ?",
+              "Bonjour, comment puis-je vous aider ?"
             ]
           },
           {
-            "tag": "questions",
-            "patterns": [
-              "How are you",
-              "What's up",
-              "whats up"
+            "tag" : "questions",
+            "patterns" : [
+              "Comment allez-vous",
+              "Quoi de neuf",
+              "Quoi de neuf"
             ],
-            "responses": [
-              "I'm great! How can I help?",
-              "Doing good! How can I help you?"
+            "réponses" : [
+              "Je vais très bien ! Comment puis-je vous aider ?
+              "C'est bien ! Comment puis-je vous aider ?"
             ]
           },
           {
